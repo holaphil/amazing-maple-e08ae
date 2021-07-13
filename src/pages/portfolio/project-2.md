@@ -36,10 +36,7 @@ template: project
 ---
 About this role...
 
-\<!---->\<!---->
-
-As a Product Innovation Director, I managed innovation programs providing direct product support and leadership in two specific areas of our business: Growth (e.g. Commerce, Branded Content and Native Advertising) and Emerging Media (e.g. VR, Audio, Connected Car). This role  required the management of products across multiple departments (Demand, Supply, Publisher CMS) while working with a team of 50+ product managers, engineers, and designers to identify, develop and deliver new innovations across our owned and operating publisher networks.
-
+As a **Product Innovation Director**, I managed innovation programs providing direct product support and leadership in two specific areas of our business: Growth (e.g. Commerce, Branded Content and Native Advertising) and Emerging Media (e.g. VR, Audio, Connected Car). This role  required the management of products across multiple departments (Demand, Supply, Publisher CMS) while working with a team of 50+ product managers, engineers, and designers to identify, develop and deliver new innovations across our owned and operating publisher networks.
 
 > "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 
@@ -53,17 +50,13 @@ As a Product Innovation Director, I managed innovation programs providing direct
 
 *   **Sales**: I recruit and onboard new talent while providing leadership and mentorship for a team of first and third-party product managers, designers, and developers.
 
-
-
 Problems I worked on...
 
 *   **How can we introduce and encourage a culture of innovation and collaboration** across multiple departments and teams within the organization?
 
-*   **How can we build new innovative products with the capacity to operationally scale** while ensuring each product is provided enough time/space to develop and grow? 
+*   **How can we build new innovative products with the capacity to operationally scale** while ensuring each product is provided enough time/space to develop and grow?
 
 *   **How can we identify new opportunities for growth and innovation**, specifically verticals we have the right to win?
-
-
 
 Achievements...
 
