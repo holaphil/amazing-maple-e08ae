@@ -36,7 +36,7 @@ template: project
 ---
 About this role...
 
-As a **Product Innovation Director**, I managed innovation programs providing direct product support and leadership in two specific areas of our business: Growth (e.g. Commerce, Branded Content and Native Advertising) and Emerging Media (e.g. VR, Audio, Connected Car). This role  required the management of products across multiple departments (Demand, Supply, Publisher CMS) while working with a team of 50+ product managers, engineers, and designers to identify, develop and deliver new innovations across our owned and operating publisher networks.
+As a **Product Innovation Director**, I managed innovation programs providing direct product support and leadership in two specific areas of our business: **Growth** (e.g. Commerce, Branded Content and Native Advertising) and **Emerging Media** (e.g. VR, Audio, Connected Car). This role  required the management of products across multiple departments (Demand, Supply, Publisher CMS) while working with a team of 50+ product managers, engineers, and designers to identify, develop and deliver new innovations across our owned and operating publisher networks.
 
 > "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 
