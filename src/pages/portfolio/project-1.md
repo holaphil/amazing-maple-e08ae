@@ -50,11 +50,9 @@ As **Chief Product Officer**, I own the product strategy, roadmap, and execution
 
 *   **People**: I recruit and onboard new talent while providing leadership and mentorship for a team of first and third-party product managers, designers, and developers.
 
-
-
 Problems I worked on:
 
-// FOR THE CONSUMER
+\[ FOR THE CONSUMER ]
 
 *   **How can we identify and build best-in-class products** fusing talent, premium content, and products through a unique combination of ecommerce and video (live and on-demand)?
 
