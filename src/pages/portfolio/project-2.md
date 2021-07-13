@@ -40,15 +40,15 @@ As a **Product Innovation Director**, I managed innovation programs providing di
 
 > "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 
-*   **Product**: I worked with product leadership across multiple departments to outline requirements ensuring that our collective efforts unlocked new revenue opportunities  innovative strategic, creative, and technical execution of our platform roadmap all the way through delivery, including concept, testing, and launch.
+*   **Product**: I worked with product leadership across multiple departments to outline requirements ensuring that our collective efforts unlocked new revenue opportunities across   strategic, creative, and technical execution of our platform roadmap all the way through delivery, including concept, testing, and launch.
 
 <!---->
 
-*   **Operations**: I manage product discovery, research and activation for all client and brand partner platform integrations including but not limited to API, CMS, video, and data services.
+*   **Operations**: I worked with operations leadership to identify and solve operational challenges that could inhibit scale while ensuring teams had the proper execution plans to activate and test new innovation programs.
 
 <!---->
 
-*   **Sales**: I recruit and onboard new talent while providing leadership and mentorship for a team of first and third-party product managers, designers, and developers.
+*   **Sales**:  I worked with sales leadership to ensure our product innovations provided new opportunties to improve and/or develop relationships with agency clients and unlocked new revenue opportunities. 
 
 Problems I worked on...
 
