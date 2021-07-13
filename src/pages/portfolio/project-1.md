@@ -46,6 +46,6 @@ As **Chief Product Officer**, I own the product strategy, roadmap, and execution
 
 *   **Partnerships**: I manage product discovery, research and activation for all client and brand partner platform integrations including but not limited to API, CMS, video, and data services.
 
-
+<!---->
 
 *   **People**: I recruit and onboard new talent while providing leadership and mentorship for a team of first and third-party product managers, designers, and developers.
