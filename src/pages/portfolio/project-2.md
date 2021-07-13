@@ -1,6 +1,6 @@
 ---
 title: 'Director of Product, Innovation — Verizon Media'
-subtitle: Optional Project Subtitle
+subtitle: October 2019 - May 2021
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
 thumb_image_alt: An orange on a blue background
