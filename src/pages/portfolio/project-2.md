@@ -1,5 +1,5 @@
 ---
-title: "Director of Product, Innovation\_ nNOW//with"
+title: "Director of Product, Innovation — Verizon Media"
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
