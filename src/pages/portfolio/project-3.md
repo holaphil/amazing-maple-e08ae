@@ -53,3 +53,9 @@ As a **Principle Product Manager**, I managed new product innovation within Veri
 
 
 Problems I worked on:
+
+*   How can we **retool our data and analytics platforms to extract more meaningful insights** for our content team, publishers, and clients?
+
+*   How can we **further monetize our video content for partners and publishers** beyond traditional CPM/CPC based advertising business models? 
+
+*   How can we **generate greater consumer engagement with our ad products** and subsequently deliver more value for our publisher and advertisers?
