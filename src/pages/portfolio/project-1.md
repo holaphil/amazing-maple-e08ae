@@ -34,14 +34,14 @@ seo:
       relativeUrl: true
 template: project
 ---
-### **NOW//with**, New York, NY — &#xA;Chief Product Officer
-
 **About this role**
 
 As Chief Product Officer, I own the product strategy, roadmap, and execution of NOW//with’s consumer, brand, and talent platforms.  NOW//with creates and curates new forms of social commerce for consumers by integrating talent, ecommerce, and video into a seamless unified shoppable experience. The majority of my time and energy focused on the following three areas of our business: Product, Partnerships, and People.
 
 > "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+*   **Product**: I lead a team of developers, designers, producers, and data scientists while overseeing the strategic, creative, and technical execution of our platform roadmap all the way through delivery, including concept, testing, and launch. 
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+*   **Partnerships**: I manage product discovery, research and activation for all client and brand partner platform integrations including but not limited to API, CMS, video, and data services. 
+
+*   **People**: I recruit and onboard new talent while providing leadership and mentorship for a team of first and third-party product managers, designers, and developers.
