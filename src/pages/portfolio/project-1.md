@@ -1,5 +1,5 @@
 ---
-title: Chief Product Officer
+title: 'Chief Product Officer NOW//with, New York, NY'
 subtitle: 'NOW//with, New York, NY'
 date: '2019-05-10'
 thumb_image: images/1_thumb.jpg
