@@ -36,12 +36,12 @@ template: project
 ---
 **About this role**
 
-As Chief Product Officer, I own the product strategy, roadmap, and execution of NOW//with’s consumer, brand, and talent platforms.  NOW//with creates and curates new forms of social commerce for consumers by integrating talent, ecommerce, and video into a seamless unified shoppable experience. The majority of my time and energy focused on the following three areas of our business: Product, Partnerships, and People.
+As **Chief Product Officer**, I own the product strategy, roadmap, and execution of NOW//with’s consumer, brand, and talent platforms.  NOW//with creates and curates new forms of social commerce for consumers by integrating talent, ecommerce, and video into a seamless unified shoppable experience. The majority of my time and energy focused on the following three areas of our business: Product, Partnerships, and People.
 
 > "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 
-*   **Product**: I lead a team of developers, designers, producers, and data scientists while overseeing the strategic, creative, and technical execution of our platform roadmap all the way through delivery, including concept, testing, and launch. 
+*   **Product**: I lead a team of developers, designers, producers, and data scientists while overseeing the strategic, creative, and technical execution of our platform roadmap all the way through delivery, including concept, testing, and launch.
 
-*   **Partnerships**: I manage product discovery, research and activation for all client and brand partner platform integrations including but not limited to API, CMS, video, and data services. 
+*   **Partnerships**: I manage product discovery, research and activation for all client and brand partner platform integrations including but not limited to API, CMS, video, and data services.
 
 *   **People**: I recruit and onboard new talent while providing leadership and mentorship for a team of first and third-party product managers, designers, and developers.
