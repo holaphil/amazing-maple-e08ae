@@ -1,5 +1,5 @@
 ---
-title: 'Chief Product Officer, NOW//with'
+title: 'Chief Product Officer — NOW//with'
 subtitle: October 2019 - May 2021
 date: '2019-05-10'
 thumb_image: images/1_thumb.jpg
