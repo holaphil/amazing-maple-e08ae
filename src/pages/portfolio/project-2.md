@@ -60,10 +60,10 @@ Problems I worked on...
 
 Achievements...
 
-*   **Led successful new commerce collaborations with product teams across both Yahoo and AOL teams **working with product management and development leadership within Verizon’s data insights, ad serving and publisher CMS platforms. One such initiative included tools for self-publishing products for sale within video content. 
+*   **Led successful new commerce collaborations with product teams across both Yahoo and AOL teams** working with product management and development leadership within Verizon’s data insights, ad serving and publisher CMS platforms. One such initiative included tools for self-publishing products for sale within video content.
 
-*   **Led all phases from conception to launch of Verizon’s first location based mobile commerce ad format (Mobile Wallet)**, a new ad format that delivers offers and content directly into the consumer's mobile wallet. This new format immediately **generated more than 500k of revenue** for the company and led to significant client interest in other innovation ad formats. 
+*   **Led all phases from conception to launch of Verizon’s first location based mobile commerce ad format (Mobile Wallet)**, a new ad format that delivers offers and content directly into the consumer's mobile wallet. This new format immediately **generated more than 500k of revenue** for the company and led to significant client interest in other innovation ad formats.
 
-*   **Original co-founding member of Verizon Media’s Innovation Council**, a team building an innovation pipeline for piloting innovative ad experiences for Verizon’s clients and brands. 
+*   **Original co-founding member of Verizon Media’s Innovation Council**, a team building an innovation pipeline for piloting innovative ad experiences for Verizon’s clients and brands.
 
 *   **Co-developed a product innovation scoring matrix to help reward innovation while avoiding unnecessary risk.** Our scoring measured the integration and operational readiness of each new product prior to launch, including Verizon’s first mobile wallet and new video commerce tools resulting in greater network publisher compliance and demand from sales. Additionally, several innovation projects were halted and/or retooled to help mitigate risk.
