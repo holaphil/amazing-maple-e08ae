@@ -1,6 +1,6 @@
 ---
 title: Chief Product Officer
-subtitle: Optional Project Subtitle
+subtitle: 'NOW//with, New York, NY'
 date: '2019-05-10'
 thumb_image: images/1_thumb.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
