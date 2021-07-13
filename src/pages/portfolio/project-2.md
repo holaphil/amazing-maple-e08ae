@@ -40,7 +40,7 @@ As a **Product Innovation Director**, I managed innovation programs providing di
 
 > "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 
-*   **Product**: I worked with product leadership across multiple departments to outline requirements ensuring that our collective efforts unlocked new revenue opportunities across   strategic, creative, and technical execution of our platform roadmap all the way through delivery, including concept, testing, and launch.
+*   **Product**: I worked with product leadership across multiple departments to outline requirements ensuring we development products that were on time, on budget, and delivered measurable results.
 
 <!---->
 
@@ -48,7 +48,7 @@ As a **Product Innovation Director**, I managed innovation programs providing di
 
 <!---->
 
-*   **Sales**:  I worked with sales leadership to ensure our product innovations provided new opportunties to improve and/or develop relationships with agency clients and unlocked new revenue opportunities. 
+*   **Sales**:  I worked with sales leadership to ensure our product innovations provided new opportunties to improve and/or develop relationships with agency clients and unlocked new revenue opportunities.
 
 Problems I worked on...
 
