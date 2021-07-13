@@ -50,9 +50,11 @@ As **Chief Product Officer**, I own the product strategy, roadmap, and execution
 
 *   **People**: I recruit and onboard new talent while providing leadership and mentorship for a team of first and third-party product managers, designers, and developers.
 
+
+
 Problems I worked on:
 
-FOR THE CONSUMER
+// FOR THE CONSUMER
 
 *   **How can we identify and build best-in-class products** fusing talent, premium content, and products through a unique combination of ecommerce and video (live and on-demand)?
 
@@ -64,22 +66,22 @@ FOR THE CONSUMER
 
 *   **While in the midst of a global pandemic, how can we develop new innovative practices** for the production of shoppable video content with celebrity talent?
 
-FOR THE TEAM
+// FOR THE TEAM
 
-*   **How do we build and scale products while managing multiple teams **across both first and third-party design and development resources? 
+*   **How do we build and scale products while managing multiple teams** across both first and third-party design and development resources?
 
-*   **How do we identify and activate development and design resources that deliver immediate results** today while accounting for growth and scale tomorrow? 
+*   **How do we identify and activate development and design resources that deliver immediate results** today while accounting for growth and scale tomorrow?
 
-*   **How can we build flexible solutions that allow our business to innovate?** For example, how can we deliver e-commerce at scale within video while empowering partners to do the same? 
+*   **How can we build flexible solutions that allow our business to innovate?** For example, how can we deliver e-commerce at scale within video while empowering partners to do the same?
 
-*   **How do we manage the demands (founders, partners, investors) for an early stage startup **while ensuring the business remains on track and on task with a consistent strategy?
+*   **How do we manage the demands (founders, partners, investors) for an early stage startup** while ensuring the business remains on track and on task with a consistent strategy?
 
-FOR OUR PARTNERS
+// FOR OUR PARTNERS
 
-**How can we build products and services that scale and seamlessly integrate** with publishing partners and products? 
+*   **How can we build products and services that scale and seamlessly integrate** with publishing partners and products?
 
-**How do we concept, test, and launch scalable solutions** for our platform while empowering our partners with related products that do the same for their platform(s)? 
+*   **How do we concept, test, and launch scalable solutions** for our platform while empowering our partners with related products that do the same for their platform(s)?
 
-**How can we help talent, brands, and publisher partners generate new incremental streams of revenue** from their fans and consumers across both their O\&O platforms and social channels? 
+*   **How can we help talent, brands, and publisher partners generate new incremental streams of revenue** from their fans and consumers across both their O\&O platforms and social channels?
 
-**How can we onboard, integrate and sync hundreds of products and brands to make them shoppable across a library of first and third-party live and **on demand video content?
+*   **How can we onboard, integrate and sync hundreds of products and brands** to make them shoppable across a library of first and third-party live and on demand video content?
