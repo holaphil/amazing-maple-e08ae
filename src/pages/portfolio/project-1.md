@@ -1,5 +1,5 @@
 ---
-title: 'Chief Product Officer — NOW//with'
+title: Chief Product Officer — NOW//with
 subtitle: October 2019 - May 2021
 date: '2019-05-10'
 thumb_image: images/1_thumb.jpg
@@ -36,7 +36,7 @@ template: project
 ---
 About this role...
 
-As **Chief Product Officer**, I own the product strategy, roadmap, and execution of NOW//with’s consumer, brand, and talent platforms.  NOW//with creates and curates new forms of social commerce for consumers by integrating talent, ecommerce, and video into a seamless unified shoppable experience. The majority of my time and energy focused on the following three areas of our business: Product, Partnerships, and People.
+As **Chief Product Officer**, I own the **product strategy**, **roadmap**, and **execution** of NOW//with’s consumer, brand, and talent platforms.  NOW//with creates and curates new forms of social commerce for consumers by integrating talent, e-commerce, and video into a seamless unified shoppable experience. The majority of my time and energy focused on the following three areas of our business: Product, Partnerships, and People.
 
 > "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 
