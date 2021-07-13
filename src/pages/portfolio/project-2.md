@@ -66,4 +66,4 @@ Achievements...
 
 *   **Original co-founding member of Verizon Media’s Innovation Council**, a team building an innovation pipeline for piloting innovative ad experiences for Verizon’s clients and brands.
 
-*   **Co-developed a product innovation scoring matrix to help reward innovation while avoiding unnecessary risk.** Our scoring measured the integration and operational readiness of each new product prior to launch, including Verizon’s first mobile wallet and new video commerce tools resulting in greater network publisher compliance and demand from sales. Additionally, several innovation projects were halted and/or retooled to help mitigate risk.
+*   **Co-developed a product innovation scoring matrix to help reward innovation while avoiding unnecessary risk.** Our scoring measured the integration and operational readiness of each new product prior to launch, including Verizon’s first mobile wallet and new video commerce tools resulting in greater network publisher compliance and demand from sales. This tool also helped Verizon Media to postpone or retool several innovation projects to help mitigate and manage risk.
