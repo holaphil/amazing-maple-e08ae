@@ -34,7 +34,7 @@ seo:
       relativeUrl: true
 template: project
 ---
-About this role:
+About this role...
 
 As **Chief Product Officer**, I own the product strategy, roadmap, and execution of NOW//with’s consumer, brand, and talent platforms.  NOW//with creates and curates new forms of social commerce for consumers by integrating talent, ecommerce, and video into a seamless unified shoppable experience. The majority of my time and energy focused on the following three areas of our business: Product, Partnerships, and People.
 
@@ -50,7 +50,7 @@ As **Chief Product Officer**, I own the product strategy, roadmap, and execution
 
 *   **People**: I recruit and onboard new talent while providing leadership and mentorship for a team of first and third-party product managers, designers, and developers.
 
-Problems I worked on:
+Problems I worked on...
 
 \[ FOR THE CONSUMER ]
 
@@ -64,7 +64,7 @@ Problems I worked on:
 
 *   **While in the midst of a global pandemic, how can we develop new innovative practices** for the production of shoppable video content with celebrity talent?
 
-// FOR THE TEAM
+\[ FOR THE TEAM ]
 
 *   **How do we build and scale products while managing multiple teams** across both first and third-party design and development resources?
 
@@ -74,7 +74,7 @@ Problems I worked on:
 
 *   **How do we manage the demands (founders, partners, investors) for an early stage startup** while ensuring the business remains on track and on task with a consistent strategy?
 
-// FOR OUR PARTNERS
+\[ FOR OUR PARTNERS ]
 
 *   **How can we build products and services that scale and seamlessly integrate** with publishing partners and products?
 
