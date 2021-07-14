@@ -1,6 +1,6 @@
 ---
 title: 'Managing Director, Product Council'
-subtitle: September 2013 - Present
+subtitle: 2013 - Present
 date: '2019-01-05'
 thumb_image: images/5_thumb.jpg
 thumb_image_alt: A white gamepad on a green background
