@@ -40,6 +40,10 @@ As a **Product Innovation Director**, I managed innovation programs providing di
 
 > "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 
+
+
+Core clients included...
+
 *   **Product**: I worked with product leadership across multiple departments to outline requirements ensuring we development products that were on time, on budget, and delivered measurable results.
 
 <!---->
