@@ -50,7 +50,7 @@ Core clients included...
 
 <!---->
 
-*   **Creative Producers**: I worked with operations leadership to identify and solve operational challenges that could inhibit scale while ensuring teams had the proper execution plans to activate and test new innovation programs.
+*   **Creative Producers**: Partnered with operations leadership to identify and solve operational challenges that could inhibit scale while ensuring teams had the proper execution plans to activate and test new innovation programs.
 
 Problems I worked on...
 
