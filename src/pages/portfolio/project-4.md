@@ -1,6 +1,6 @@
 ---
 title: 'Principal Product Manager, Ad Formats — Verizon Media'
-subtitle: Optional Project Subtitle
+subtitle: SEPTEMBER 2015 - AUGUST 2017
 date: '2019-02-26'
 thumb_image: images/4_thumb.jpg
 thumb_image_alt: A table tennis racket on a pink background
