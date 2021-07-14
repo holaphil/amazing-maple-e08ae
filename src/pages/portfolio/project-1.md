@@ -83,3 +83,30 @@ Problems I worked on...
 *   **How can we help talent, brands, and publisher partners generate new incremental streams of revenue** from their fans and consumers across both their O\&O platforms and social channels?
 
 *   **How can we onboard, integrate and sync hundreds of products and brands** to make them shoppable across a library of first and third-party live and on demand video content?
+
+
+
+Achievements...
+
+*   **Researched, resourced, and subsequently hired the company's first core set of design, data and development teams.** In the first year, our team grew from zero in Q4 2019 to a team of eight in Q1 of 2020. As of Q2 2021, the product team has grown adding several exceptionally talented designers and developers with the talent spread across four countries. This team’s design and development work helped position multiple platform deals and secure a 10 million dollar investment from former MLB baseball player, Alex Rodriguez and e-commerce pioneer, Marc Lore.
+
+<!---->
+
+*   **Launched NOW//with’s first e-commerce video platform**, a responsive marketplace featuring shoppable interactive videos helping consumers discover, shop, and share products promoted by their favorite celebrities and influencers.
+
+<!---->
+
+*   **Led R\&D and subsequent e-commerce activations** including platform integrations in support of multiple critical service layers including: brand onboarding (e.g. product ingestion, inventory syncing), CMS (headless and static), video and data.
+
+<!---->
+
+*   **Oversaw the design and development for a universal checkout SDK**, a critical component for publisher and partnership activations. This SDK provides our publishing partners the ability to activate at scale shoppable video experiences on their owned and operated properties. Consumers can watch and shop products while viewing video across NOW//with’s channels as well as its partner’s.
+
+<!---->
+
+*   **Identified, envisioned, and oversaw the instrumentation of all platform measurement across NOW//with’s shoppable ecosystem** including but not limited to video, marketplace, and checkout.  These integrations provided critical insights positioning the team with capabilities to track and segment user activity while also identifying user trends across the entire conversion funnel.
+
+<!---->
+
+*   **Helped founders establish the NOW//with brand** as we moved through the early stage exploratory phases of a startup through discovery.  A process including user research, rapid prototyping, design, and development to deliver on time and under budget NOW//with’s first ecommerce video platform experiences.
+
