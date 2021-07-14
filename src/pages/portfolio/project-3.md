@@ -44,7 +44,7 @@ As a **Principal Product Manager**, **I managed new product innovation within Ve
 
 <!---->
 
-*   **Data Analysts**: I worked with product leadership across multiple departments to outline requirements ensuring we development products that were on time, on budget, and delivered measurable results.
+*   **Data Analysts**: Worked closely with cross-functional teams of business intelligence analysts and product leadership to develop new reporting on KPIs across RYOT's video content business lines.
 
 <!---->
 
