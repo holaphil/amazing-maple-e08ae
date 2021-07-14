@@ -4,7 +4,7 @@ subtitle: September 2015 - August 2017
 date: '2019-02-26'
 thumb_image: images/4_thumb.jpg
 thumb_image_alt: A table tennis racket on a pink background
-image: images/4.jpg
+image: images/oath-ad-platforms.jpg
 image_alt: A table tennis racket on a pink background
 seo:
   title: Project Title 4
