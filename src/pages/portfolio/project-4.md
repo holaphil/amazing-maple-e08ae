@@ -40,6 +40,26 @@ As a **Principal Product Manager**, I managed the design, development, and opera
 
 > "Designers are meant to be loved, not to be understood." - Margaret Oscar
 
-Orci ac auctor augue mauris augue neque. Id semper risus in hendrerit gravida rutrum quisque. Et leo duis ut diam quam nulla porttitor massa. Condimentum vitae sapien pellentesque habitant morbi. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Hendrerit dolor magna eget est lorem ipsum dolor sit. Ipsum dolor sit amet consectetur. Eu augue ut lectus arcu bibendum at. Etiam non quam lacus suspendisse. Leo integer malesuada nunc vel. Consequat id porta nibh venenatis. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam.
+Problems I worked on...
 
-Tortor consequat id porta nibh. Lorem ipsum dolor sit amet consectetur adipiscing elit ut aliquam. Ante metus dictum at tempor. Consectetur adipiscing elit ut aliquam purus. Mauris in aliquam sem fringilla. Sed adipiscing diam donec adipiscing tristique. Posuere ac ut consequat semper viverra nam libero justo. Vulputate ut pharetra sit amet aliquam id diam maecenas ultricies. Molestie nunc non blandit massa enim nec. Pretium aenean pharetra magna ac placerat vestibulum lectus mauris ultrices. Ac turpis egestas integer eget aliquet. Consectetur purus ut faucibus pulvinar elementum integer enim. Quis ipsum suspendisse ultrices gravida dictum fusce. Elit ullamcorper dignissim cras tincidunt lobortis. Non enim praesent elementum facilisis leo vel. Mi ipsum faucibus vitae aliquet nec ullamcorper. Nisl suscipit adipiscing bibendum est ultricies integer quis auctor elit. Senectus et netus et malesuada fames. Massa sed elementum tempus egestas sed sed.
+*   **How can we upgrade and advance our existing product line of ad formats** to provide the sales team a more competitive offering for their clients/brands? 
+
+*   **How can we develop best-in-class products offering compelling new forms of advertising** taking advantage of Verizon’s unique device and network footprint? 
+
+*   **How can we grow our mobile footprint generating greater advertising revenue** for our first-party publishers while also providing utility and value for the consumer?
+
+Achievements...
+
+*   **Oversaw a complete rebuild of AOL’s video and mobile interactive ad format product portfolio** including code and design rewrites and significant upgrades in format capability/scale (transitioning from Flash to HTML5).
+
+
+*   **Led engagements with Verizon product leadership testing new innovative mobile ad formats** which took advantage of Verizon’s unique device and network footprint. One example is Verizon’s ‘Buy Now Button’, a mobile ad format which provides consumers the ability to connect their VZ account and purchase products or services in one tap on their mobile device. These experiments later led to further ecommerce integrations for video.
+
+<!---->
+
+*   **Built and scaled multiple products helping AOL’s sales team advertise and sell additional video inventory. **Two industry celebrated examples include AOL’s ‘Player Up’ and ‘Pause Ads. Player Up offered consumer’s the ability to opt-in to learn more at any time while leveraging dynamic creative capabilities providing both brands and publishers persistent brand exposure across the lifetime of a video, regardless of which publisher that video was rendered. AOL’s ‘Pause Ad’, another non-intrusive ad format, provided AOL’s sales team additional inventory to both target and sell.
+
+<!---->
+
+*   **Introduced and oversaw** **consumer-centric product user research programs** with AOL’s User Research Lab in Dulles, VA. Working in close coordination with product and design teams, we began relying more on user feedback to help test and validate products before investing valuable team development and operational resources to scale them.
+
