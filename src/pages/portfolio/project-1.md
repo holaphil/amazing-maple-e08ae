@@ -36,7 +36,7 @@ template: project
 ---
 About this role...
 
-As **Chief Product Officer**, I own the **product strategy**, **roadmap**, and **execution** of NOW//with’s consumer, brand, and talent platforms.  NOW//with creates and curates new forms of social commerce for consumers by integrating talent, e-commerce, and video into a seamless unified shoppable experience. The majority of my time and energy focused on the following three areas of our business: Product, Partnerships, and People.
+As **Chief Product Officer**, I own the \<mark>**product strategy**, **roadmap**, and **execution**\</mark> of NOW//with’s consumer, brand, and talent platforms.  NOW//with creates and curates new forms of social commerce for consumers by integrating talent, e-commerce, and video into a seamless unified shoppable experience. The majority of my time and energy focused on the following three areas of our business: Product, Partnerships, and People.
 
 > "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 
@@ -84,8 +84,6 @@ Problems I worked on...
 
 *   **How can we onboard, integrate and sync hundreds of products and brands** to make them shoppable across a library of first and third-party live and on demand video content?
 
-
-
 Achievements...
 
 *   **Researched, resourced, and subsequently hired the company's first core set of design, data and development teams.** In the first year, our team grew from zero in Q4 2019 to a team of eight in Q1 of 2020. As of Q2 2021, the product team has grown adding several exceptionally talented designers and developers with the talent spread across four countries. This team’s design and development work helped position multiple platform deals and secure a 10 million dollar investment from former MLB baseball player, Alex Rodriguez and e-commerce pioneer, Marc Lore.
@@ -109,4 +107,3 @@ Achievements...
 <!---->
 
 *   **Helped founders establish the NOW//with brand** as we moved through the early stage exploratory phases of a startup through discovery.  A process including user research, rapid prototyping, design, and development to deliver on time and under budget NOW//with’s first ecommerce video platform experiences.
-
