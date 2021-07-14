@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Startups
 hide_title: true
 sections:
   - title: lorem-ipsum
