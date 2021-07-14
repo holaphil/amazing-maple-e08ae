@@ -2,7 +2,7 @@
 title: 'Director of Product, Innovation — Verizon Media'
 subtitle: September 2017 - November 2018
 date: '2019-04-30'
-thumb_image: images/portrait-logo-verizon-media-color.jpg
+thumb_image: images/portrait-logo-verizon-media.jpg
 thumb_image_alt: An orange on a blue background
 image: images/2.jpg
 image_alt: An orange on a blue background
