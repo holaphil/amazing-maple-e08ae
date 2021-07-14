@@ -40,7 +40,7 @@ As **Chief Product Officer**, I own the <mark> **product strategy**, **roadmap**
 
 > "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 
-*   **Product**: <mark>Lead a team of developers, designers, producers, and data scientists while overseeing the strategic, creative, and technical execution of our platform roadmap all the way through delivery, including concept, testing, and launch.
+*   **Product**: <mark>Lead a team of developers, designers, producers, and data scientists</mark> while overseeing the strategic, creative, and technical execution of our platform roadmap all the way through delivery, including concept, testing, and launch.
 
 <!---->
 
