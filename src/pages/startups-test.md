@@ -10,13 +10,6 @@ sections:
     view_all_label: lorem-ipsum
     view_all_url: '#'
     type: section_portfolio
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    is_numbered: false
-    grid_items: []
-    type: section_grid
 seo:
   title: ''
   description: ''
