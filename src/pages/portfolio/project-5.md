@@ -1,6 +1,6 @@
 ---
 title: 'Managing Director, Product Council'
-subtitle: Optional Project Subtitle
+subtitle: 2013 -
 date: '2019-01-05'
 thumb_image: images/5_thumb.jpg
 thumb_image_alt: A white gamepad on a green background
