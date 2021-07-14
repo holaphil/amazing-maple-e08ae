@@ -1,5 +1,5 @@
 ---
-title: 'Managing Director, Product Council'
+title: Managing Director — Product Council
 subtitle: 2013 - Present
 date: '2019-01-05'
 thumb_image: images/5_thumb.jpg
