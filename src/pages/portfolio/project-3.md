@@ -58,8 +58,8 @@ Problems I worked on:
 
 *   How can we **generate greater consumer engagement with our ad products** and subsequently deliver more value for our publisher and advertisers?
 
-****
+***
 
 Achievements...
 
-**Introduced and oversaw Verizon’s earliest ventures into video commerce **including their first shoppable video partnerships which** **immediately **generated over 750k in new sponsorship revenue**. The work opened doors for additional innovation within Verizon Media agency partnerships and helped initiate further e-commerce innovation across Yahoo’s publisher network.
+*   **Introduced and oversaw Verizon’s earliest ventures into video commerce **including their first shoppable video partnerships which immediately **generated over 750k in new sponsorship revenue**. The work opened doors for additional innovation within Verizon Media agency partnerships and helped initiate further e-commerce innovation across Yahoo’s publisher network.
