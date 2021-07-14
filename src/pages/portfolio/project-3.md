@@ -40,7 +40,9 @@ As a **Principal Product Manager**, **I managed new product innovation within Ve
 
 > "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 
-*   **Account Directors**: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+Core clients included...
+
+*   **Account Directors**: Collaborated with account directors to understand core business challenges and subsequently develop and expand best practices for communicating data narratives for clients around product metrics.
 
 <!---->
 
