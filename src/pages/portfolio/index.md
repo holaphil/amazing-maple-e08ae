@@ -1,7 +1,7 @@
 ---
 title: Work Experience
 subtitle: "Over the past 20+ years, I've had the pleasure of supporting consumers, businesses and brands across many product and creative inspired roles.\_ You will find some of those roles listed below."
-layout_style: tiles
+layout_style: mosaic
 seo:
   title: Portfolio
   description: This is the portfolio page
