@@ -40,19 +40,17 @@ As a **Product Innovation Director**, I managed innovation programs providing di
 
 > "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 
-
-
 Core clients included...
 
-*   **Product**: I worked with product leadership across multiple departments to outline requirements ensuring we development products that were on time, on budget, and delivered measurable results.
+*   **Product**: I partnered with product leadership across multiple departments to outline requirements ensuring we development products that were on time, on budget, and delivered measurable results.
 
 <!---->
 
-*   **Operations**: I worked with operations leadership to identify and solve operational challenges that could inhibit scale while ensuring teams had the proper execution plans to activate and test new innovation programs.
+*   **Operations**: I partnered with operations leadership to identify and solve operational challenges that could inhibit scale while ensuring teams had the proper execution plans to activate and test new innovation programs.
 
 <!---->
 
-*   **Sales**:  I worked with sales leadership to ensure our product innovations provided new opportunties to improve and/or develop relationships with agency clients and unlocked new revenue opportunities.
+*   **Sales**:  I partnered with sales leadership to ensure our product innovations provided new opportunties to improve and/or develop relationships with agency clients and unlocked new revenue opportunities.
 
 Problems I worked on...
 
