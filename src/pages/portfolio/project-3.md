@@ -42,11 +42,11 @@ As a **Principal Product Manager**, **I managed new product innovation within Ve
 
 Core clients included...
 
-*   **Account Directors**: Collaborated with account directors to understand core business challenges and subsequently develop and expand best practices for communicating data narratives for clients around product metrics.
+*   **Account Directors**: Collaborated with account directors in search of best practices for communicating data narratives for clients.
 
 <!---->
 
-*   **Data Analysts**: Worked closely with cross-functional teams of business intelligence analysts and product leadership to develop new reporting on KPIs across RYOT's video content business lines.
+*   **Data Analysts**: Worked closely with cross-functional teams of business intelligence analysts and product leadership to develop new reporting strategies for gathering KPIs across RYOT's video content business lines.
 
 <!---->
 
