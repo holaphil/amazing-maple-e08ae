@@ -34,12 +34,13 @@ seo:
       relativeUrl: true
 template: project
 ---
+About this role...
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Justo eget magna fermentum iaculis eu non diam. Id volutpat lacus laoreet non. Faucibus pulvinar elementum integer enim. Malesuada fames ac turpis egestas integer eget aliquet nibh. Turpis massa sed elementum tempus. Potenti nullam ac tortor vitae purus faucibus. Duis ut diam quam nulla porttitor massa. Ultrices dui sapien eget mi proin sed libero enim. Nibh venenatis cras sed felis eget velit aliquet. Nec ullamcorper sit amet risus nullam. Duis at tellus at urna. Pulvinar elementum integer enim neque. Amet cursus sit amet dictum sit amet justo. Aliquam nulla facilisi cras fermentum odio eu. Cursus in hac habitasse platea dictumst quisque sagittis. Euismod nisi porta lorem mollis aliquam ut porttitor leo.
+As a **Principal Product Manager**, I managed the design, development, and operational scaling for all video ad formats across AOL’s publisher ecosystem (e.g. Huffington Post, Techcrunch, Tumblr, etc). This role included product management with a core team of 12 including designers, developers and QA engineers. In addition to video ad formats, I managed new ad format engagements with Verizon's product leadership to help ideate, develop, and launch new innovative mobile ad formats. Format experimentation included ad innovations in e-commerce, mobile payments and data sharing.
 
-Eget nunc scelerisque viverra mauris in aliquam sem fringilla. Ornare arcu dui vivamus arcu felis bibendum. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Ut sem nulla pharetra diam sit amet nisl suscipit. Fermentum leo vel orci porta. Facilisis volutpat est velit egestas. Et pharetra pharetra massa massa ultricies mi quis. Id aliquet risus feugiat in ante metus dictum at tempor. Magna fermentum iaculis eu non diam phasellus. Tellus cras adipiscing enim eu turpis egestas.
+>
 
->"Designers are meant to be loved, not to be understood." - Margaret Oscar
+> "Designers are meant to be loved, not to be understood." - Margaret Oscar
 
 Orci ac auctor augue mauris augue neque. Id semper risus in hendrerit gravida rutrum quisque. Et leo duis ut diam quam nulla porttitor massa. Condimentum vitae sapien pellentesque habitant morbi. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Hendrerit dolor magna eget est lorem ipsum dolor sit. Ipsum dolor sit amet consectetur. Eu augue ut lectus arcu bibendum at. Etiam non quam lacus suspendisse. Leo integer malesuada nunc vel. Consequat id porta nibh venenatis. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam.
 
