@@ -1,6 +1,6 @@
 ---
 title: Startups
-hide_title: true
+hide_title: false
 sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
