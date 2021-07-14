@@ -38,7 +38,7 @@ About this role...
 
 As a **Product Innovation Director**, I managed innovation programs providing direct product support and leadership in two specific areas of our business: **Growth** (e.g. Commerce, Branded Content and Native Advertising) and **Emerging Media** (e.g. VR, Audio, Connected Car). This role  required the management of products across multiple departments (Demand, Supply, Publisher CMS) while working with teams of **50+ product managers, engineers, and designers** extending across the organization to identify, develop, and deliver new innovations across Verizon Media's owned and operating publisher networks (e.g. Huffington Post, Yahoo Sports / Entertainment / Finance, AOL, Techcrunch, etc.)
 
-> "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+> "I was so grateful to work with Phil during a part of his time at AOL and then Verizon Media. Phil has a rare and special blend of being equal parts creative, imaginative and thought-provoking, combined with analytical, organized and disciplined in his work. We worked together on various projects that all stemmed around Innovation, and we were teammates on Verizon Media's Innovation team. A consummate professional, Phil is amazing to work with because he is kind, thoughtful, collaborative and a team player who is both motivated by others and knows how to motivate others. He is technically-versed and was always helpful in lending his expertise and diagnosing problems to collaborate on solutions. I'd recommend Phil wholeheartedly to any team, and really miss working with him." - Uyoung Suggs, Director of Ad Creative Tech & Innovation Strategy & Ops
 
 Core clients included...
 
