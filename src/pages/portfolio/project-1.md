@@ -44,7 +44,7 @@ As **Chief Product Officer**, I own the <mark> **product strategy**, **roadmap**
 
 <!---->
 
-*   **Partnerships**: Manage product discovery, research and activation for all client and brand partner platform integrations including but not limited to API, CMS, video, and data services.
+*   **Partnerships**: <mark>Manage product discovery, research and activation for all client and brand partner platform integrations including but not limited to API, CMS, video, and data services.
 
 <!---->
 
