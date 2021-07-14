@@ -52,7 +52,7 @@ As **Chief Product Officer**, I own the <mark> **product strategy**, **roadmap**
 
 Problems I worked on...
 
-\[ FOR THE CONSUMER ]
+\[ FOR OUR CONSUMERS ]
 
 *   **How can we identify and build best-in-class products** fusing talent, premium content, and products through a unique combination of ecommerce and video (live and on-demand)?
 
@@ -64,7 +64,7 @@ Problems I worked on...
 
 *   **While in the midst of a global pandemic, how can we develop new innovative practices** for the production of shoppable video content with celebrity talent?
 
-\[ FOR THE TEAM ]
+\[ FOR OUR TEAMS ]
 
 *   **How do we build and scale products while managing multiple teams** across both first and third-party design and development resources?
 
