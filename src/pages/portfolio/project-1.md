@@ -48,7 +48,7 @@ As **Chief Product Officer**, I own the <mark> **product strategy**, **roadmap**
 
 <!---->
 
-*   **People**: <mark>Recruit and onboard new talent while providing leadership and mentorship for a team of first and third-party product managers, designers, and developers.
+*   **People**: <mark>Recruit and onboard new talent while providing leadership and mentorship</mark> for a team of first and third-party product managers, designers, and developers.
 
 Problems I worked on...
 
