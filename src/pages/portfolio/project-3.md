@@ -2,7 +2,7 @@
 title: 'Principal Product Manager, Innovation — Verizon Media (RYOT)'
 subtitle: September 2017 - November 2018
 date: '2019-04-08'
-thumb_image: images/3_thumb.jpg
+thumb_image: images/portrait-logo-RYOT-Studio.jpg
 thumb_image_alt: A yellow retro telephone on a yellow background
 image: images/3.jpg
 image_alt: A yellow retro telephone on a yellow background
