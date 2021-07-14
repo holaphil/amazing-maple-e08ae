@@ -42,8 +42,6 @@ As a **Product Innovation Director**, I managed innovation programs providing di
 
 \- **Uyoung Suggs**, Director of Ad Creative Tech & Innovation Strategy & Ops
 
-
-
 Core clients included...
 
 *   **Product**: Managed product leadership across multiple departments to outline requirements ensuring we development products that were on time, on budget, and delivered measurable results.
@@ -55,8 +53,6 @@ Core clients included...
 <!---->
 
 *   **Sales**:  Partnered with sales leadership to ensure our product innovations provided new opportunties to improve and/or develop relationships with agency clients and unlocked new revenue opportunities.
-
-> "A consummate professional, Phil is amazing to work with because he is kind, thoughtful, collaborative and a team player who is both motivated by others and knows how to motivate others. He is technically-versed and was always helpful in lending his expertise and diagnosing problems to collaborate on solutions. I'd recommend Phil wholeheartedly to any team, and really miss working with him." - Uyoung Suggs, Director of Ad Creative Tech & Innovation Strategy & Ops
 
 Problems I worked on...
 
