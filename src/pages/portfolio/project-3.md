@@ -1,5 +1,5 @@
 ---
-title: 'Principal Product Manager, Innovation — Verizon Media'
+title: 'Principal Product Manager, Innovation — Verizon Media (RYOT)'
 subtitle: September 2017 - November 2018
 date: '2019-04-08'
 thumb_image: images/3_thumb.jpg
