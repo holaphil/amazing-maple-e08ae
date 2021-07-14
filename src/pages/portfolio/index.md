@@ -1,6 +1,6 @@
 ---
 title: Work Experience
-subtitle: The following are a list of roles I've served over the past
+subtitle: "Over the past 20+ years, I've had the pleasure of supporting consumers, businesses and brands across many product and creative inspired roles.\_ You will find some of those brands and b"
 layout_style: mosaic
 seo:
   title: Portfolio
