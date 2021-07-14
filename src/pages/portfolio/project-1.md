@@ -2,7 +2,7 @@
 title: Chief Product Officer — NOW//with
 subtitle: October 2019 - May 2021
 date: '2019-05-10'
-thumb_image: images/image-nowwith-chief-product-officer.jpg
+thumb_image: images/portrait-logo-verizon-media.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/image-nowwith-chief-product-officer.jpg
 image_alt: 'White, black, and red shoe sole'
