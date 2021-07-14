@@ -2,7 +2,7 @@
 title: Startups
 hide_title: false
 sections:
-  - title: lorem-ipsum
+  - title: This is a test
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     layout_style: mosaic
