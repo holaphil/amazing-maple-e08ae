@@ -3,7 +3,7 @@
     "accent_color": "pink",
     "header": {
         "title": "holaphil",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
