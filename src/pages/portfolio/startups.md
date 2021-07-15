@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Startups
 subtitle: lorem-ipsum
 date: '2021-07-14'
 thumb_image_alt: lorem-ipsum
