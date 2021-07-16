@@ -1,5 +1,5 @@
 ---
-title: Project Title 6
+title: Tremor Video
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
 thumb_image: images/super-eucalyptus.png
