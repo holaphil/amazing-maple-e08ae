@@ -5,8 +5,9 @@ date: '2012-04-11'
 thumb_image_alt: Onl
 image_alt: Library shelves
 excerpt: >-
-  Video has a visibility problem and the condition represents a challenge for
-  all parties involved – content producers, platforms and search engines alike.
+  Video has a visibility problem and the condition that represents a challenge
+  for all parties involved – content producers, platforms and search engines
+  alike.
 seo:
   title: The function of design is letting design function
   description: >-
