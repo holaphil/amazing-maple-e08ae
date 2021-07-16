@@ -46,7 +46,7 @@ seo:
       relativeUrl: true
 template: post
 ---
-> “The guts of every video on the internet has been utterly overlooked and ignored by search engines.”
+> *“The guts of every video on the internet has been utterly overlooked and ignored by search engines.”*
 
 “Don’t judge a book by its cover.” is one of many lessons we've all heard at some point in our lives. The lesson is that you are making a mistake  prejudging the worth or value of something simply by its outward appearance alone.
 
