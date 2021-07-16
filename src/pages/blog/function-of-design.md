@@ -68,9 +68,9 @@ From my perspective, there are three possible solutions:
 
 1.  <mark>Transcription</mark> – Converting speech to text and matching the text with the corresponding moment within a video.
 
-2.  Video Chaptering – Calling attention to moments within a video and labeling each with a title, comment, and/or keyword.
+2.  <mark>Video Chaptering</mark> – Calling attention to moments within a video and labeling each with a title, comment, and/or keyword.
 
-3.  Image Recognition – Recognizing changes and/or objects within a video.
+3.  <mark>Image Recognition</mark> – Recognizing changes and/or objects within a video.
 
 Neither solution exists inside a vacuum; Each solution can play a significant role in [the future of video search](https://mashable.com/archive/video-search-future).
 
