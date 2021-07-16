@@ -19,13 +19,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
