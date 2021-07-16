@@ -14,7 +14,7 @@ sections:
         style: button
       - label: lorem-ipsum
         url: '#'
-        style: link
+        style: button
         icon: dribbble
         new_window: false
         no_follow: false
