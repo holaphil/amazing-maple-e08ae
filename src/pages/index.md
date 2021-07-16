@@ -52,9 +52,7 @@ sections:
     subtitle: More words go here...
     col_number: three
     testimonials:
-      - author: >-
-          Uyoung Suggs, Director of Ad Creative Tech & Innovation Strategy & Ops
-          @ Verizon Media
+      - author: 'Uyoung Suggs, Director of Innovation Strategy & Ops @ Verizon Media'
         avatar: images/image-uyoung-suggs.jpeg
         avatar_alt: >-
           Uyoung Suggs, Director of Ad Creative Tech & Innovation Strategy & Ops
