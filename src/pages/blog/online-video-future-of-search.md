@@ -4,7 +4,7 @@ subtitle: What's inside is what counts.
 date: '2012-04-11'
 thumb_image_alt: Onl
 image_alt: Library shelves
-excerpt: "Video has a visibility problem. The effects of which adversely\_ impact\_content producers, platforms, and search engines alike. How can we improve a viewers understanding of a video beyond the display of a simple photo, title a a few keywords?"
+excerpt: "Video has a visibility problem, the effects of which adversely\_ impact\_content producers, platforms, and search engines alike. How can we see what's inside? How do we go beyond the 'book cover'?"
 seo:
   title: The function of design is letting design function
   description: >-
