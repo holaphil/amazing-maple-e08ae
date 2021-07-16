@@ -36,7 +36,7 @@ template: project
 ---
 As **Chief Product Officer**, I own the  **product strategy**, **roadmap**, and **execution** of NOW//with’s consumer, brand, and talent platforms.  NOW//with creates and curates new forms of social commerce for consumers by integrating talent, e-commerce, and video into a seamless unified shoppable experience. The majority of my time and energy focused on the following three areas of our business: Product, Partnerships, and People.
 
-> "Phil was a natural leader of the team and implemented valuable structure to a growing team. He was respected by all team members and respected everyone else in return. Phil's vast talents from building our actual product and website/app development to physically building out our office and being instrumental in building out the team were tremendously valuable.”
+> "Phil was a natural leader of the team and implemented valuable structure to a growing team. His vast talents from building our actual product and website/app development to physically building out our office and being instrumental in building out the team were tremendously valuable.”
 >
 > **Lauren Wilner**
 > Chief Merchandising Officer
