@@ -72,4 +72,4 @@ From my perspective, there are three possible solutions:
 
 Neither exists inside a vacuum. Each solution can play a significant role in [the future of video search](https://mashable.com/archive/video-search-future).
 
-Mark Gosschalk was right. Video needs visibility. Search by simply tagging keywords and associating them with the entire video is not the best solution to video search. So what is the alternative? What companies are currently trying to solve this problem? How do we spotlight each of those moments (frames) within content and show search sites (i.e. Google, Bing) that it's what is inside that counts?
+Mark Gosschalk was right, video needs visibility. Search by simply tagging keywords and associating them with the entire video is not the best solution to video search. So what is the alternative? What companies are currently trying to solve this problem? How do we spotlight each of those moments (frames) within content and show search sites (i.e. Google, Bing) that it's what is inside that counts?
