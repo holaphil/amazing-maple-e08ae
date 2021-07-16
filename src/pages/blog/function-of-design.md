@@ -66,7 +66,7 @@ Let’s assume that 90% of those 15 billion videos are on average 30 seconds to 
 
 From my perspective, there are three possible solutions:
 
-1.  Transcription – Converting speech to text and matching the text with the corresponding moment within a video.
+1.  <mark>Transcription</mark> – Converting speech to text and matching the text with the corresponding moment within a video.
 
 2.  Video Chaptering – Calling attention to moments within a video and labeling each with a title, comment, and/or keyword.
 
