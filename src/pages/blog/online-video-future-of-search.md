@@ -5,7 +5,7 @@ subtitle: >-
   engage during Internet Week’s ‘Make the Stage’ panel series taking place this
   May 14-20, 2012 in NYC.
 date: '2012-04-11'
-thumb_image_alt: Library shelves
+thumb_image_alt: Onl
 image_alt: Library shelves
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
