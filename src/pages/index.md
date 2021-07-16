@@ -64,7 +64,7 @@ sections:
       - author: >-
           Jeff Turner, Entrepreneur In Residence Company NameSecond Century
           Ventures
-        avatar: images/aubrey_hoover.jpg
+        avatar: images/image-jeff-turner.jpeg
         avatar_alt: Aubrey Hoover's photo
         content: >-
           I've watched Phil build several products and each time the execution
