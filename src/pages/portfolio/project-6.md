@@ -4,7 +4,7 @@ subtitle: Dates
 date: '2018-12-18'
 thumb_image: images/super-eucalyptus.png
 thumb_image_alt: A handheld game console on a yellow background
-image: images/6.jpg
+image: images/portrait-logo-tremor-video.png
 image_alt: A handheld game console on a yellow background
 seo:
   title: Project Title 6
