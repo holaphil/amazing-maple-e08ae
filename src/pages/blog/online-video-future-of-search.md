@@ -4,10 +4,7 @@ subtitle: What's inside is what counts.
 date: '2012-04-11'
 thumb_image_alt: Onl
 image_alt: Library shelves
-excerpt: >-
-  Let’s talk about video and visibility because I think the lack of visibility
-  represents a problem for all parties involved – content producers, platforms,
-  and search engines alike.
+excerpt: "Video has a visibility problem. The effects of which adversely\_ impact\_content producers, platforms, and search engines alike. How can we improve a viewers understanding of a video beyond the display of a simple photo, title a a few keywords?"
 seo:
   title: The function of design is letting design function
   description: >-
