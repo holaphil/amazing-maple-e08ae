@@ -5,9 +5,9 @@ date: '2012-04-11'
 thumb_image_alt: Onl
 image_alt: Library shelves
 excerpt: >-
-  Video has a visibility problem and the condition that represents a challenge
+  Video has a visibility problem, a condition that represents challenges ahead
   for all parties involved – content producers, platforms and search engines
-  alike.
+  alike. How can we fix what we can not see? What is the future of video search?
 seo:
   title: The function of design is letting design function
   description: >-
