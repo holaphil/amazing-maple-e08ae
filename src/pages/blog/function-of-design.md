@@ -63,9 +63,12 @@ Let’s assume that 90% of those 15 billion videos are on average 30 seconds to 
 **Searching for solutions**
 
 From my perspective, there are three possible solutions…
-**Transcription** – Converting speech to text and matching the text with the corresponding moment within a video.
-**Video Chaptering** – Calling attention to moments within a video and labeling each with a title, comment, and/or keyword.
-**Image Recognition** – Recognizing changes and/or objects within a video.
+
+1.  Transcription – Converting speech to text and matching the text with the corresponding moment within a video. 
+
+2.  Video Chaptering – Calling attention to moments within a video and labeling each with a title, comment, and/or keyword. 
+
+3.  Image Recognition – Recognizing changes and/or objects within a video.
 
 Neither exists inside a vacuum. Each solution can play a significant role in [the future of video search](https://mashable.com/archive/video-search-future).
 
