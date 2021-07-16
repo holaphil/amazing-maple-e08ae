@@ -1,5 +1,5 @@
 ---
-title: "Video\_—\_What's Inside Is What Counts"
+title: "Online Video\_—\_What's Inside Is What Counts"
 subtitle: >-
   The following post addresses a portion of a conversation we are hoping to
   engage during Internet Week’s ‘Make the Stage’ panel series taking place this
