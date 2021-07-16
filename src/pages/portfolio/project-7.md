@@ -2,7 +2,7 @@
 title: WellcomeMat
 date: '2018-01-15'
 thumb_image: images/portrait-logo-wellcomemat.png
-thumb_image_alt: A black headphones on a yeallow background
+thumb_image_alt: WellcomeMat
 image: images/7.jpg
 image_alt: A black headphones on a yeallow background
 seo:
