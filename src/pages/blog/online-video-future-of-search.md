@@ -5,8 +5,9 @@ date: '2012-04-11'
 thumb_image_alt: Onl
 image_alt: Library shelves
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+  Let’s talk about video and visibility because I think the lack of visibility
+  represents a problem for all parties involved – content producers, platforms,
+  and search engines alike.
 seo:
   title: The function of design is letting design function
   description: >-
