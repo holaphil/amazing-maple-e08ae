@@ -67,7 +67,7 @@ sections:
           on that product displayed of level of vision for the future few people
           possess. I have a deep level of respect for Phil's work and his
           thinking.
-      - author: Deegan Wallace
+      - author: Morgan Brown
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
