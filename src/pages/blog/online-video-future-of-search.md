@@ -4,7 +4,7 @@ subtitle: >-
   The following post addresses a portion of a conversation we are hoping to
   engage during Internet Week’s ‘Make the Stage’ panel series taking place this
   May 14-20, 2012 in NYC.
-date: '2018-01-15'
+date: '2012-04-15'
 thumb_image_alt: Library shelves
 image_alt: Library shelves
 excerpt: >-
