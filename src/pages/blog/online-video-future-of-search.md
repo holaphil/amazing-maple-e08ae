@@ -43,7 +43,7 @@ template: post
 thumb_image: images/image-holy-bible.jpg
 image: images/image-holy-bible.jpg
 ---
-The following post addresses a portion of a conversation we are hoping to engage during Internet Week’s ‘Make the Stage’ panel series taking place this May 14-20, 2012 in NYC.
+The following post is an original copy of a post I wrote back in May of 2012. These topics were later addressed during a panel I hosted later that month at NYC Internet Week 2012.
 
 > *“The guts of every video on the internet has been utterly overlooked and ignored by search engines.”*
 
