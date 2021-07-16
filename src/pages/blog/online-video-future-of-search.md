@@ -1,9 +1,6 @@
 ---
 title: "Online Video\_—\_What's Inside Is What Counts"
-subtitle: >-
-  The following post addresses a portion of a conversation we are hoping to
-  engage during Internet Week’s ‘Make the Stage’ panel series taking place this
-  May 14-20, 2012 in NYC.
+subtitle: Online video and the future of search
 date: '2012-04-11'
 thumb_image_alt: Onl
 image_alt: Library shelves
