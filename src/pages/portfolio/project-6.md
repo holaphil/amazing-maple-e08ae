@@ -1,6 +1,6 @@
 ---
 title: Tremor Video
-subtitle: Optional Project Subtitle
+subtitle: Dates
 date: '2018-12-18'
 thumb_image: images/super-eucalyptus.png
 thumb_image_alt: A handheld game console on a yellow background
