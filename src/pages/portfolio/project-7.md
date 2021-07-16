@@ -1,5 +1,5 @@
 ---
-title: WellcomeMat
+title: 'Co-Founder, Head of Product & Marketing — WellcomeMat'
 date: '2018-01-15'
 thumb_image: images/portrait-logo-wellcomemat.png
 thumb_image_alt: WellcomeMat
