@@ -60,18 +60,13 @@ So let’s talk about video and visibility because I think the lack of visibilit
 
 Let’s assume that 90% of those 15 billion videos are on average 30 seconds to three minutes in length, and the rest are three to 30 minutes in length. IF I’ve done my math correctly, that leaves us with approximately 2,902,500,000,000 (yes, trillion) seconds of video content. Let’s say that some new action or moment occurs in most videos every 10 seconds and that leaves us with 290,250,000,000 (billion) missed opportunities to search within a video. The guts of every video on the internet are being utterly overlooked and ignored by search engines. We’re left with what’s indexable (Title, Description and Keywords)… i.e. the book cover.
 
-\*\*
-Searching for solutions.\*\*
+**Searching for solutions**
 
-\*From my perspective, there are three possible solutions…
-\*
-**1. Transcription** – Converting speech to text and matching the text with the corresponding moment within a video.
-**2. Video chaptering / tagging** – Calling attention to moments within a video and labeling each with a title, comment or keyword (like a DVD).
-**3. Image recognition** – Recognizing changes and/or objects within a video
+From my perspective, there are three possible solutions…
+**Transcription** – Converting speech to text and matching the text with the corresponding moment within a video.
+**Video Chaptering** – Calling attention to moments within a video and labeling each with a title, comment, and/or keyword.
+**Image Recognition** – Recognizing changes and/or objects within a video.
 
-Neither exists inside a vacuum. Each solution can play a significant role in [the future of video search](https://web.archive.org/web/20120517024343/http://mashable.com/2012/01/31/video-search-future/).
+Neither exists inside a vacuum. Each solution can play a significant role in [the future of video search](https://mashable.com/archive/video-search-future).
 
-\*\*
-Mark Gosschalk was right. Video needs visibility.\*\*
-
-Searching by keywords associated with a video is not the best solution to video search, but what is the alternative? What companies are currently trying to solve this problem? How do we spotlight each of those moments (frames) within content and show search sites (i.e. Google, Bing) it is what’s inside that counts?
+Mark Gosschalk was right. Video needs visibility. Search by simply tagging keywords and associating them with the entire video is not the best solution to video search. So what is the alternative? What companies are currently trying to solve this problem? How do we spotlight each of those moments (frames) within content and show search sites (i.e. Google, Bing) that it's what is inside that counts?
