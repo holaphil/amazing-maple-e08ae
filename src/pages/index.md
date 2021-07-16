@@ -49,7 +49,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
-    subtitle: More words go here...
+    subtitle: 'Not my words, theirs...'
     col_number: three
     testimonials:
       - author: 'Uyoung Suggs, Director of Innovation Strategy & Ops @ Verizon Media'
