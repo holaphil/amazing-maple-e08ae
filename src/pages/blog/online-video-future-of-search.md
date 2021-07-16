@@ -1,6 +1,6 @@
 ---
 title: Online video and the future of search
-subtitle: Online video and the future of search
+subtitle: What's Inside Is What Counts
 date: '2012-04-11'
 thumb_image_alt: Onl
 image_alt: Library shelves
