@@ -61,7 +61,7 @@ sections:
           Phil has a rare and special blend of being equal parts creative,
           imaginative and thought-provoking, combined with analytical, organized
           and disciplined in his work.
-      - author: Aubrey Hoover
+      - author: J
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
         content: >-
