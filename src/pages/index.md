@@ -56,9 +56,9 @@ sections:
         avatar: images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
+          Phil has a rare and special blend of being equal parts creative,
+          imaginative and thought-provoking, combined with analytical, organized
+          and disciplined in his work.
       - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         avatar_alt: Aubrey Hoover's photo
