@@ -6,12 +6,17 @@ sections:
     type: section_hero
     title: 'Hola, nice to meet you.'
     content: >
-      Thanks for stopping by. You're probably here for one of three reasons. 
+      Thanks for stopping by. You're probably here for one of three reasons.
 
 
-      I've spent the majority of my career building brands and products in You
-      can check out my past work here Creator, Innovator w/ 20+ years building
-      new brands, services, and experiences.
+      I've spent the majority of my career working in both Philadelphia and
+      later New York City building brands and products in You can check out my
+      past work here Creator, Innovator w/ 20+ years building new brands,
+      services, and experiences.
+
+
+      If you want to check out my work, you can view the startups I've been
+      involved with here. Alternatively my 
     actions:
       - label: Learn More
         url: /contact
