@@ -43,7 +43,7 @@ template: post
 thumb_image: images/image-holy-bible.jpg
 image: images/image-holy-bible.jpg
 ---
-The following post is an original copy of a post I wrote back in May of 2012. These topics were later addressed during a panel I hosted later that month at NYC Internet Week 2012.
+The following post is an original copy of a [post I wrote back in May of 2012](https://web.archive.org/web/20120626174517/http://holaphil.com/2012/04/11/video-its-whats-inside-that-counts/). These topics were later addressed during a panel I hosted later that month at NYC Internet Week 2012.
 
 > “The guts of every video on the internet has been utterly overlooked and ignored by search engines.”
 
