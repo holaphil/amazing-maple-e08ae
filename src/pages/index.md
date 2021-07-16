@@ -12,7 +12,7 @@ sections:
       - label: Learn More
         url: /contact
         style: button
-      - label: Say Hola
+      - label: Let's Talk
         url: '#'
         style: button
         icon: dribbble
