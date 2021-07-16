@@ -1,5 +1,5 @@
 ---
-title: Online Video and The Future of Search
+title: The future of video search
 subtitle: What's Inside Is What Counts
 date: '2012-04-11'
 thumb_image_alt: Onl
