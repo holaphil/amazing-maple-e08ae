@@ -68,7 +68,7 @@ sections:
           possess. I have a deep level of respect for Phil's work and his
           thinking.
       - author: 'Morgan Brown, VP Growth @ Shopify'
-        avatar: images/deegan_wallace.jpg
+        avatar: images/image-morgan-brown2.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
           Phil has great instinct and demonstrated expertise in understanding
