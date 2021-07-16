@@ -53,7 +53,7 @@ sections:
     col_number: three
     testimonials:
       - author: Sean Salazar
-        avatar: images/sean_salazar.jpg
+        avatar: images/image-uyoung-suggs.jpeg
         avatar_alt: >-
           Uyoung Suggs, Director of Ad Creative Tech & Innovation Strategy & Ops
           @ Verizon Media
