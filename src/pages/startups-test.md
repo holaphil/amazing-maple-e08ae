@@ -10,7 +10,7 @@ sections:
     view_all_label: lorem-ipsum
     view_all_url: '#'
     type: section_portfolio
-  - title: lorem-ipsum
+  - title: This is a grid?
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
