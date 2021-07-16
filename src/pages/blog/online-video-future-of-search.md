@@ -45,7 +45,7 @@ image: images/image-holy-bible.jpg
 ---
 The following post is an original copy of a post I wrote back in May of 2012. These topics were later addressed during a panel I hosted later that month at NYC Internet Week 2012.
 
-> *“The guts of every video on the internet has been utterly overlooked and ignored by search engines.”*
+> “The guts of every video on the internet has been utterly overlooked and ignored by search engines.”
 
 “Don’t judge a book by the cover.” is one of many lessons we've all heard at some point in our lives. The lesson is that you are making a mistake  prejudging the worth or value of something simply by its outward appearance alone.
 
