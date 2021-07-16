@@ -1,6 +1,6 @@
 ---
 title: Tremor Video
-subtitle: Dates
+subtitle: SEPTEMBER 2013 - AUGUST 2015
 date: '2018-12-18'
 thumb_image: images/super-eucalyptus.png
 thumb_image_alt: A handheld game console on a yellow background
