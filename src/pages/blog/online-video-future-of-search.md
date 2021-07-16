@@ -1,6 +1,6 @@
 ---
 title: The future of video search
-subtitle: What's Inside Is What Counts
+subtitle: What's inside Is what counts
 date: '2012-04-11'
 thumb_image_alt: Onl
 image_alt: Library shelves
