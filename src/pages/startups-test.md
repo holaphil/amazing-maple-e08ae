@@ -6,7 +6,7 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     layout_style: tiles
-    projects_number: 4
+    projects_number: 2
     view_all_label: lorem-ipsum
     view_all_url: '#'
     type: section_portfolio
