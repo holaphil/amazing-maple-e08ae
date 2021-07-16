@@ -1,5 +1,5 @@
 ---
-title: Chief Product Officer — NOW//withTremor Video
+title: Sr. Product Manager — Tremor Video
 subtitle: September 2013 - August 2015
 date: '2018-12-18'
 thumb_image: images/super-eucalyptus.png
