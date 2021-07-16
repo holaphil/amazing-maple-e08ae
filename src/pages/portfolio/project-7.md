@@ -3,7 +3,7 @@ title: WellcomeMat
 date: '2018-01-15'
 thumb_image: images/portrait-logo-wellcomemat.png
 thumb_image_alt: WellcomeMat
-image: images/7.jpg
+image: images/portrait-logo-wellcomemat.png
 image_alt: A black headphones on a yeallow background
 seo:
   title: Project Title 7
