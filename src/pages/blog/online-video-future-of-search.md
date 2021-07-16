@@ -1,5 +1,5 @@
 ---
-title: "Online Video\_—\_What's Inside Is What Counts"
+title: Online video and the future of search
 subtitle: Online video and the future of search
 date: '2012-04-11'
 thumb_image_alt: Onl
