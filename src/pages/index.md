@@ -6,7 +6,16 @@ sections:
     type: section_hero
     title: 'Hola, nice to meet you.'
     content: >
-      Thanks for stopping by. You're probably here for one of three reasons.
+      Thanks for stopping by. You're probably here for one of three reasons:
+
+
+      1.  You are here to check out what I've done for others
+
+
+      2.  You are here to check out what I could do for you
+
+
+      3.
 
 
       I've spent the majority of my career working in both Philadelphia and
@@ -16,7 +25,7 @@ sections:
 
 
       If you want to check out my work, you can view the startups I've been
-      involved with here. Alternatively my 
+      involved with here. Alternatively my
     actions:
       - label: Learn More
         url: /contact
