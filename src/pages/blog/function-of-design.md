@@ -46,7 +46,7 @@ seo:
       relativeUrl: true
 template: post
 ---
-> “The guts of every video on the internet are being utterly overlooked and ignored by search engines.”
+> “The guts of every video on the internet has been utterly overlooked and ignored by search engines.”
 
 “Don’t judge a book by its cover.” is one of many lessons we've all heard at some point in our lives. The lesson is that you are making a mistake  prejudging the worth or value of something simply by its outward appearance alone.
 
@@ -58,7 +58,7 @@ So let’s talk about video and visibility because I think the lack of visibilit
 
 **Some Fuzzy Math**
 
-Let’s assume that 90% of those 15 billion videos are on average 30 seconds to three minutes in length, and the rest are three to 30 minutes in length. IF I’ve done my math correctly, that leaves us with approximately 2,902,500,000,000 (yes, trillion) seconds of video content. Let’s say that some new action or moment occurs in most videos every 10 seconds and that leaves us with 290,250,000,000 (billion) missed opportunities to search within a video. The guts of every video on the internet are being utterly overlooked and ignored by search engines. We’re left with what’s indexable: Title, Description and Keywords — i.e. the book cover.
+Let’s assume that 90% of those 15 billion videos are on average 30 seconds to three minutes in length, and the rest are three to 30 minutes in length. IF I’ve done my math correctly, that leaves us with approximately 2,902,500,000,000 (yes, trillion) seconds of video content. Let’s say that some new action or moment occurs in most videos every 10 seconds and that leaves us with 290,250,000,000 (billion) missed opportunities to search within a video. The guts of every video on the internet has been utterly overlooked and ignored by search engines. We’re left with basic details that have been manually tagged: Title, Description and Keywords — i.e. the book cover.
 
 **Searching for Solutions**
 
