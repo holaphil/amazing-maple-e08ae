@@ -54,7 +54,9 @@ sections:
     testimonials:
       - author: Sean Salazar
         avatar: images/sean_salazar.jpg
-        avatar_alt: Uyoung Suggs Director of Ad Creative Tech & Innovation Strategy & Ops
+        avatar_alt: >-
+          Uyoung Suggs, Director of Ad Creative Tech & Innovation Strategy & Ops
+          @ Verizon Media
         content: >-
           Phil has a rare and special blend of being equal parts creative,
           imaginative and thought-provoking, combined with analytical, organized
