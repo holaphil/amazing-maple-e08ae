@@ -67,7 +67,7 @@ sections:
           on that product displayed of level of vision for the future few people
           possess. I have a deep level of respect for Phil's work and his
           thinking.
-      - author: 'Morgan Brown, <br>VP Growth at Shopify'
+      - author: 'Morgan Brown, VP Growth at Shopify'
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
