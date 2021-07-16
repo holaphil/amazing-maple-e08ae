@@ -4,7 +4,7 @@ subtitle: What's inside is what counts.
 date: '2012-04-11'
 thumb_image_alt: Onl
 image_alt: Library shelves
-excerpt: "Video has a visibility problem. It's a diagnosis that will continue to significant adverse consequences for\_ producers, platforms, and search engines alike. How can we see what's inside? How do we go beyond the 'book cover'?"
+excerpt: "Video has a visibility problem. The symptoms are obvious. 30 frames per second, moments in time all stuck with the same title h all trapped It's a diagnosis that will continue to significant adverse consequences for\_ producers, platforms, and search engines alike. How can we see what's inside? How do we go beyond the 'book cover'?"
 seo:
   title: The function of design is letting design function
   description: >-
