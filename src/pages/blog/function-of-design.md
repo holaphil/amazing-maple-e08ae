@@ -48,11 +48,9 @@ template: post
 ---
 > “The guts of every video on the internet are being utterly overlooked and ignored by search engines.”
 
-
-
 “Don’t judge a book by its cover.” is one of many lessons we've all heard at some point in our lives. The lesson is that you are making a mistake  prejudging the worth or value of something simply by its outward appearance alone.
 
-**Getting past the book cover.**
+**Getting past the cover...**
 
 In a webinar given by Marc Gosschalk, Sr. Analyst, Product Management, comScore Europe he states, “*The value of the online video marketplace is booming, with the role of video in the consumer lifecycle becoming increasingly recognized. According to comScore’s Video Matrix, *[*34.7 million people watched online video*](https://web.archive.org/web/20120517024343/http://www.blog.littleorchardprods.co.uk/archives/tag/how-many-people-watch-video-online)* content for an average of nearly 17 hours each in November (2010).”* He goes on to say, “*As the online video market grows the need for visibility, transparency and accurate measurement is now more critical than ever.”*
 
