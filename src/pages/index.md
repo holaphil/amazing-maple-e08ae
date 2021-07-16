@@ -72,8 +72,8 @@ sections:
         avatar_alt: Deegan Wallace's photo
         content: >-
           Phil has great instinct and demonstrated expertise in understanding
-          how video works to engage viewers, what makes great video great, and
-          how video can be used in an effective online marketing strategy.
+          how video works to engage viewers and how video can be used in an
+          effective online marketing strategy.
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
