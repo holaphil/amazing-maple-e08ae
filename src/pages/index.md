@@ -6,8 +6,9 @@ sections:
     type: section_hero
     title: 'Hola, nice to meet you.'
     content: >
-      Hi thanks for stopping by. Creator, Innovator w/ 20+ years building new
-      brands, services, and experiences.
+      Thanks for stopping by. You're probably here for one of three reasons. If 
+      Creator, Innovator w/ 20+ years building new brands, services, and
+      experiences.
     actions:
       - label: Learn More
         url: /contact
