@@ -71,8 +71,9 @@ sections:
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+          Phil has great instinct and demonstrated expertise in understanding
+          how video works to engage viewers, what makes great video great, and
+          how video can be used in an effective online marketing strategy.
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
