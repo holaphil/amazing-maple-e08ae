@@ -1,6 +1,9 @@
 ---
 title: 'Video, it’s what’s inside that counts.'
-subtitle: 'A interesting tale about function of design '
+subtitle: >-
+  The following post addresses a portion of a conversation we are hoping to
+  engage during Internet Week’s ‘Make the Stage’ panel series taking place this
+  May 14-20 in NYC.
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua.
