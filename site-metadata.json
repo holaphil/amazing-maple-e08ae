@@ -12,7 +12,7 @@
             },
             {
                 "label": "Startups",
-                "url": "/test",
+                "url": "/startups",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
