@@ -47,7 +47,7 @@ People:  Recruit and onboard new talent while providing leadership and mentorshi
 > **Lauren Wilner**<BR>
 > Chief Merchandising Officer
 
-## Problems I worked on
+Problems I worked on
 
 \[ FOR OUR CONSUMERS ]
 
