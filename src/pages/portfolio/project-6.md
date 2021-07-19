@@ -60,7 +60,7 @@ Problems I worked on...
 
 *   **How can we enhance the performance of our products** through the integration of third-party tools and services?
 
-*   **How can we improve the user experience of our product(s) **and ensure the continual development of new features while maintaining existing ones?
+*   **How can we improve the user experience of our product(s)** and ensure the continual development of new features while maintaining existing ones?
 
 Achievements...
 
