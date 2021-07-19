@@ -39,7 +39,11 @@ About this role...
 As a **Principal Product Manager**, I managed new product innovation within Verizon Media's content studio team, RYOT Studio. This team was responsible for creating next-gen content across multiple media platforms including video, mobile, AR, and VR. My focus was to **identify and drive innovative improvements** for RYOT’s team of 25+ content creators, creative directors, business analysts, and account executives. During my time in this role, I managed the end-to-end process across multiple product design, development, and data teams including **leading all phases of product design, development, and delivery**.
 
 <HR>
+
+>
 > "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
+
+
 <HR>
 
 **Core clients included:**
