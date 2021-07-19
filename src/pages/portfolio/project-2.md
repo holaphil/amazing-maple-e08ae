@@ -45,7 +45,7 @@ As a **Product Innovation Director**, I managed innovation programs providing di
 
 <HR>
 
-Core clients included...
+**Core clients included:**
 
 *   **Product**: Managed product leadership across multiple departments to outline requirements ensuring we development products that were on time, on budget, and delivered measurable results.
 
@@ -57,15 +57,19 @@ Core clients included...
 
 *   **Sales**:  Partnered with sales leadership to ensure our product innovations provided new opportunties to improve and/or develop relationships with agency clients and unlocked new revenue opportunities.
 
-Problems I worked on...
+**Problems I worked on:**
 
 *   **How can we introduce and encourage a culture of innovation and collaboration** across multiple departments and teams within the organization?
 
+<!---->
+
 *   **How can we build new innovative products with the capacity to operationally scale** while ensuring each product is provided enough time/space to develop and grow?
+
+<!---->
 
 *   **How can we identify new opportunities for growth and innovation**, specifically verticals we have the right to win?
 
-Achievements...
+Achievements:
 
 *   **Led successful new commerce collaborations with product teams across both Yahoo and AOL teams** working with product management and development leadership within Verizon’s data insights, ad serving and publisher CMS platforms. One such initiative included tools for self-publishing products for sale within video content.
 
