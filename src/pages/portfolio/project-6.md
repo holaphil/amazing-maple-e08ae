@@ -61,6 +61,8 @@ Director of Product Design and UX
 
 *   **Product Marketing**:  Partnered with product marketing to identify, develop, and later promote new product features for clients and unlock additional incremental revenue for the company.
 
+<HR>
+
 **Problems I worked on:**
 
 *   **How can we build smarter faster products using Artificial Intelligence (AI)** where decisions are based on performance as opposed to perception?
