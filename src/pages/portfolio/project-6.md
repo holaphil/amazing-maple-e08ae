@@ -41,6 +41,8 @@ As Senior **Product Manager**, Â I managed the product roadmap for Tremor Videoâ
 > **Bo DiMatteo**<BR>
 Director of Product Design and UX
 
+<HR>
+
 **Core clients included:**
 
 *   **Ad Trafficking**: Managed product leadership across multiple departments to outline requirements ensuring we development products that were on time, on budget, and delivered measurable results.
