@@ -36,6 +36,7 @@ template: project
 ---
 As a **Principal Product Manager**, I managed the design, development, and operational scaling for all **video ad formats** across AOL’s publisher ecosystem (e.g. Huffington Post, Techcrunch, Tumblr, etc). This role included product management with a **core team of 12 including designers, developers and QA engineers**. In addition to video ad formats, I managed new ad format engagements with Verizon's product leadership to help ideate, develop, and launch **new innovative mobile ad formats**. Format experimentation included **ad innovations in e-commerce, mobile payments and data sharing**.
 
+<HR>
 **Problems I worked on:**
 
 *   **How can we upgrade and advance our existing product line of ad formats** to provide the sales team a more competitive offering for their clients/brands?
