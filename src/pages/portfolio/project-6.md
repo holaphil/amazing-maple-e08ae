@@ -44,15 +44,21 @@ As Senior **Product Manager**, Â I managed the product roadmap for Tremor Videoâ
 
 Core clients included...
 
-*   **Product**: Managed product leadership across multiple departments to outline requirements ensuring we development products that were on time, on budget, and delivered measurable results.
+*   **Ad Traffickers**: Managed product leadership across multiple departments to outline requirements ensuring we development products that were on time, on budget, and delivered measurable results.
 
 <!---->
 
-*   **Operations**: Coordinated with operations leadership to identify and solve operational challenges that could inhibit scale while ensuring teams had the proper execution plans to activate and test new innovation programs.
+*   **Designers: **Guided all prototyping and design with our creative team in Boston. 
+
+\<!---->
+
+*   **Developers:** Worked closely scoping and managing the prioritization and subsequent execution of our DSP product backlog across a large distributed development team based in Singapore, New York, San Francisco and Boston. 
 
 <!---->
 
-*   **Sales**:  Partnered with sales leadership to ensure our product innovations provided new opportunties to improve and/or develop relationships with agency clients and unlocked new revenue opportunities.
+*   **Product Marketing**:  Partnered with product marketing to identify, develop, and later promote new product features for clients and unlock additional incremental revenue for the company.
+
+
 
 Problems I worked on...
 
