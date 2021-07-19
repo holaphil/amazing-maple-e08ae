@@ -43,7 +43,8 @@ As a **Principal Product Manager**, I managed new product innovation within Veri
 <HR>
 
 
-Core clients included:
+
+**Core clients included:**
 
 *   **Account Directors**: Collaborated with account directors in search of best practices for communicating data narratives for clients.
 
