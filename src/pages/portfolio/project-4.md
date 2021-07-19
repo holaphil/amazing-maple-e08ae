@@ -49,6 +49,7 @@ As a **Principal Product Manager**, I managed the design, development, and opera
 
 *   **How can we grow our mobile footprint generating greater advertising revenue** for our first-party publishers while also providing utility and value for the consumer?
 
+<HR>
 **Achievements:**
 
 *   **Oversaw a complete rebuild of AOL’s video and mobile interactive ad format product portfolio** including code and design rewrites and significant upgrades in format capability/scale (transitioning from Flash to HTML5).
