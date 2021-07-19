@@ -77,9 +77,15 @@ As **Chief Product Officer**, I own the  **product strategy**, **roadmap**, and 
 
 *   **How do we build and scale products while managing multiple teams** across both first and third-party design and development resources?
 
+<!---->
+
 *   **How do we identify and activate development and design resources that deliver immediate results** today while accounting for growth and scale tomorrow?
 
+<!---->
+
 *   **How can we build flexible solutions that allow our business to innovate?** For example, how can we deliver e-commerce at scale within video while empowering partners to do the same?
+
+<!---->
 
 *   **How do we manage the demands (founders, partners, investors) for an early stage startup** while ensuring the business remains on track and on task with a consistent strategy?
 
@@ -87,9 +93,15 @@ As **Chief Product Officer**, I own the  **product strategy**, **roadmap**, and 
 
 *   **How can we build products and services that scale and seamlessly integrate** with publishing partners and products?
 
+<!---->
+
 *   **How do we concept, test, and launch scalable solutions** for our platform while empowering our partners with related products that do the same for their platform(s)?
 
+<!---->
+
 *   **How can we help talent, brands, and publisher partners generate new incremental streams of revenue** from their fans and consumers across both their O\&O platforms and social channels?
+
+<!---->
 
 *   **How can we onboard, integrate and sync hundreds of products and brands** to make them shoppable across a library of first and third-party live and on demand video content?
 
