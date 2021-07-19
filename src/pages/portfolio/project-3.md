@@ -51,7 +51,7 @@ As a **Principal Product Manager**, I managed new product innovation within Veri
 <!---->
 
 *   **Creative Producers**: Partnered with operations leadership to identify and solve operational challenges that could inhibit scale while ensuring teams had the proper execution plans to activate and test new innovation programs.
-
+<HR>
 **Problems I worked on:**
 
 *   How can we **retool our data and analytics platforms to extract more meaningful insights** for our content team, publishers, and clients?
@@ -65,7 +65,7 @@ As a **Principal Product Manager**, I managed new product innovation within Veri
 *   How can we **generate greater consumer engagement with our ad products** and subsequently deliver more value for our publisher and advertisers?
 
 ***
-
+<HR>
 **Achievements:**
 
 *   **Introduced and oversaw Verizon’s earliest ventures into video commerce** including their first shoppable video partnerships which immediately **generated over 750k in new sponsorship revenue**. The work opened doors for additional innovation within Verizon Media agency partnerships and helped initiate further e-commerce innovation across Yahoo’s publisher network.
