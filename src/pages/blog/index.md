@@ -1,6 +1,6 @@
 ---
 title: Thoughts
-subtitle: 'News, tips and highlights'
+subtitle: 'Ideas, thoughts,'
 hide_title: false
 col_number: three
 seo:
