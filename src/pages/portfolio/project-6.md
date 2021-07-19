@@ -41,7 +41,7 @@ As Senior **Product Manager**,  I managed the product roadmap for Tremor Video�
 > "Phil brought a level of sophistication to the video space and has a wealth of innovative product ideas and different perspectives on solving user problems. With his background in design, he was a collaborative product manager and came armed with ideas on usability. His ability to articulate and lead product strategy, along with his passion and drive made him a thoughtful player on our team." —
 >
 > **Bo DiMatteo**<BR>
-Director of Product Design and UX
+> Director of Product Design and UX
 
 <HR>
 
@@ -67,7 +67,11 @@ Director of Product Design and UX
 
 *   **How can we build smarter faster products using Artificial Intelligence (AI)** where decisions are based on performance as opposed to perception?
 
+<!---->
+
 *   **How can we enhance the performance of our platform** through the integration of new third-party tools and services?
+
+<!---->
 
 *   **How can we improve the user experience of our platform** while ensuring the continual development and maintenance of an experience our user's are accustomed to?
 
