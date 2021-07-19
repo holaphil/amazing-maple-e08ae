@@ -4,7 +4,7 @@ subtitle: 2013 - Present
 date: '2019-01-05'
 thumb_image: images/portrait-logo-product-council.jpg
 thumb_image_alt: A white gamepad on a green background
-image: images/portrait-image-product-council2.jpeg
+image: images/portrait-image-product-council.jpeg
 image_alt: A white gamepad on a green background
 seo:
   title: Project Title 5
