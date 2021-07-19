@@ -40,10 +40,7 @@ As Senior **Product Manager**, Â I managed the product roadmap for Tremor Videoâ
 
 > **Bo DiMatteo**
 >
->
 > Director of Product Design and UX
-
-
 
 Core clients included...
 
@@ -59,11 +56,11 @@ Core clients included...
 
 Problems I worked on...
 
-*   **How can we introduce and encourage a culture of innovation and collaboration** across multiple departments and teams within the organization?
+*   **How can we build smarter faster products using Artificial Intelligence (AI)** where decisions are based on performance as opposed to perception?
 
-*   **How can we build new innovative products with the capacity to operationally scale** while ensuring each product is provided enough time/space to develop and grow?
+*   **How can we enhance the performance of our products** through the integration of third-party tools and services?
 
-*   **How can we identify new opportunities for growth and innovation**, specifically verticals we have the right to win?
+*   **How can we improve the user experience of our product(s) **and ensure the continual development of new features while maintaining existing ones?
 
 Achievements...
 
