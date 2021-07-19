@@ -5,7 +5,7 @@ date: '2019-01-05'
 thumb_image: images/portrait-logo-product-council.jpg
 thumb_image_alt: 'The Product Council, NYC'
 image: images/portrait-image-product-council.jpeg
-image_alt: Product Council stage photo from 2019
+image_alt: Product Council event and stage photo from 2019
 seo:
   title: Project Title 5
   description: This is the project 5 description
