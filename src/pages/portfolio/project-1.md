@@ -42,6 +42,8 @@ Partnerships:  Manage product discovery, research, and activation for all client
 
 People:  Recruit and onboard new talent while providing leadership and mentorship for a team of first and third-party product managers, designers, and developers.
 
+ <hr>
+
 > "Phil was a natural leader of the team and implemented valuable structure to a growing team. His vast talents from building our actual product and website/app development to physically building out our office and being instrumental in building out the team were tremendously valuable.”
 >
 > **Lauren Wilner**<BR>
