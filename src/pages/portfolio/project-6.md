@@ -60,7 +60,7 @@ Problems I worked on...
 
 *   **How can we enhance the performance of our products** through the integration of third-party tools and services?
 
-*   **How can we improve the user experience of our product(s)** while ensuring the continual development and maintenance of the platform?
+*   **How can we improve the user experience of our products **while ensuring the continual development and maintenance of the platform?
 
 Achievements...
 
