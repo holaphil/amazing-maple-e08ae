@@ -68,11 +68,11 @@ Problems I worked on...
 
 Achievements...
 
-*   **Led the design and engineering teams integration of multiple 1st and 3rd-party data solutions** adding to and improving the scope and scale for Tremor Video's audience targeting capabilities across the DSP. Several of these integrations included partnerships with Nielsen OCR, eXelate, Neustar, BlueKai and Liveramp.
+*   **Oversaw and improved the communication between our ad trafficking, operations, and engineering teams.** As a product manager, this attention/intention brought a renewed sense of appreciation led to the design/development of more useful features including 25+ workflow enhancements.
 
 <!---->
 
-*   **Oversaw and improved the communication between our ad trafficking, operations, and engineering teams.** As a product manager, this attention/intention brought a renewed sense of appreciation led to the design/development of more useful features including 25+ workflow enhancements.
+*   **Led the design and engineering teams integration of multiple 1st and 3rd-party data solutions** adding to and improving the scope and scale for Tremor Video's audience targeting capabilities across the DSP. Several of these integrations included partnerships with Nielsen OCR, eXelate, Neustar, BlueKai and Liveramp.
 
 <!---->
 
