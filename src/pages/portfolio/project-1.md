@@ -85,7 +85,7 @@ As **Chief Product Officer**, I own the  **product strategy**, **roadmap**, and 
 
 *   **How can we onboard, integrate and sync hundreds of products and brands** to make them shoppable across a library of first and third-party live and on demand video content?
 
-**Achievements...**
+**Achievements:**
 
 *   **Researched, resourced, and subsequently hired the company's first core set of design, data and development teams.** In the first year, our team grew from zero in Q4 2019 to a team of eight in Q1 of 2020. As of Q2 2021, the product team has grown adding several exceptionally talented designers and developers with the talent spread across four countries. This team’s design and development work helped position multiple platform deals and secure a 10 million dollar investment from former MLB baseball player, Alex Rodriguez and e-commerce pioneer, Marc Lore.
 
