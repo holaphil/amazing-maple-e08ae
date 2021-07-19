@@ -38,9 +38,7 @@ As a **Principal Product Manager**, I managed the design, development, and opera
 
 <HR>
 
-
-
-Problems I worked on:
+**Problems I worked on:**
 
 *   **How can we upgrade and advance our existing product line of ad formats** to provide the sales team a more competitive offering for their clients/brands?
 
@@ -53,7 +51,6 @@ Problems I worked on:
 *   **How can we grow our mobile footprint generating greater advertising revenue** for our first-party publishers while also providing utility and value for the consumer?
 
 <HR>
-
 
 Achievements:
 
