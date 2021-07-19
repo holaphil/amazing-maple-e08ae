@@ -40,3 +40,4 @@ Today Product Council is an event series where designers, entrepreneurs, and pro
 
 You can learn all about Product Council here at [productcouncil.org](https://productcouncil.org/).
 
+![](images/portrait-image-product-council2.jpeg)
