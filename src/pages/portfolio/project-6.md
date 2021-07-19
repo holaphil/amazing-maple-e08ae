@@ -58,9 +58,9 @@ Problems I worked on...
 
 *   **How can we build smarter faster products using Artificial Intelligence (AI)** where decisions are based on performance as opposed to perception?
 
-*   **How can we enhance the performance of our products** through the integration of third-party tools and services?
+*   **How can we enhance the performance of our platform** through the integration of new third-party tools and services?
 
-*   **How can we improve the user experience of our products **while ensuring the continual development and maintenance of the platform?
+*   **How can we improve the user experience of our platform** while ensuring the continual development and maintenance of an experience our user's are accustomed to?
 
 Achievements...
 
