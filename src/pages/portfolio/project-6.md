@@ -46,19 +46,17 @@ Core clients included...
 
 *   **Ad Traffickers**: Managed product leadership across multiple departments to outline requirements ensuring we development products that were on time, on budget, and delivered measurable results.
 
-<!---->
+\<!---->
 
-*   **Designers: **Guided all prototyping and design with our creative team in Boston. 
+*   **Designers**: Guided all prototyping and design with our creative team in Boston.
 
 \<!---->
 
-*   **Developers:** Worked closely scoping and managing the prioritization and subsequent execution of our DSP product backlog across a large distributed development team based in Singapore, New York, San Francisco and Boston. 
+*   **Developers:** Worked closely scoping and managing the prioritization and subsequent execution of our DSP product backlog across a large distributed development team based in Singapore, New York, San Francisco and Boston.
 
 <!---->
 
 *   **Product Marketing**:  Partnered with product marketing to identify, develop, and later promote new product features for clients and unlock additional incremental revenue for the company.
-
-
 
 Problems I worked on...
 
