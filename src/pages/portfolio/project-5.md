@@ -39,5 +39,3 @@ template: project
 Today Product Council is an event series where designers, entrepreneurs, and product managers gather to solve the world’s greatest product challenges. We exist to provide entrepreneurs and agencies a fresh new outlet for critical feedback, ideation, and improvement of their products. Past presenters include product leadership from **Spotify**, **Google**, **The New York Times**, and **Vimeo** to name a few as well as startups including **Ergatta**, **Daily Harvest**, **Casper** and **The Skimm**. Each event features about 100+ guests. I have partnered with an amazing team at [**Coalesce**](https://coalesce.nyc/) to help organize and produce each event. Events are currently hosted by our gracious host, [**Betaworks Labs**](https://www.betaworks.com/) located in downtown Manhattan.
 
 You can learn all about Product Council here at [productcouncil.org](https://productcouncil.org/).
-
-![](<stackbit_asset_id:static:static/images/Copy of ProductCouncilNov2019\_Bisdale20.jpg>)
