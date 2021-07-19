@@ -49,6 +49,8 @@ As **Chief Product Officer**, I own the  **product strategy**, **roadmap**, and 
 > **Lauren Wilner**
 > Chief Merchandising Officer
 
+ <hr>
+
 **Problems I worked on...**
 
 \[ FOR OUR CONSUMERS ]
