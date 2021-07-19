@@ -40,10 +40,6 @@ As a **Principal Product Manager**, I supported new product innovation within Ve
 
 <HR>
 
-> "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
-
-<HR>
-
 **Core clients included:**
 
 *   **Account Directors**: Collaborated with account directors in search of best practices for communicating data narratives for clients.
