@@ -72,7 +72,7 @@ Achievements...
 
 <!---->
 
-*   **Oversaw and improved the communication between our ad trafficking, operations and engineering teams. ** As a product manager, this attention/intention brought a renewed sense of appreciation led to the design/development of more useful features including 25+ workflow enhancements.
+*   **Oversaw and improved the communication between our ad trafficking, operations, and engineering teams.** As a product manager, this attention/intention brought a renewed sense of appreciation led to the design/development of more useful features including 25+ workflow enhancements.
 
 <!---->
 
