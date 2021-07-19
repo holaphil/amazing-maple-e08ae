@@ -44,9 +44,9 @@ As **Chief Product Officer**, I own the  **product strategy**, **roadmap**, and 
 
  <hr>
 
-> "Phil was a natural leader of the team and implemented valuable structure to a growing team. His vast talents from building our actual product and website/app development to physically building out our office and being instrumental in building out the team were tremendously valuable.”
+> Phil was a natural leader of the team and implemented valuable structure to a growing team. His vast talents from building our actual product and website/app development to physically building out our office and being instrumental in building out the team were tremendously valuable.”
 >
-> **Lauren Wilner**
+> — **Lauren Wilner**
 > Chief Merchandising Officer
 
  <hr>
