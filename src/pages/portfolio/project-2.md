@@ -57,6 +57,8 @@ As a **Product Innovation Director**, I managed innovation programs providing di
 
 *   **Sales**:  Partnered with sales leadership to ensure our product innovations provided new opportunties to improve and/or develop relationships with agency clients and unlocked new revenue opportunities.
 
+<HR>
+
 **Problems I worked on:**
 
 *   **How can we introduce and encourage a culture of innovation and collaboration** across multiple departments and teams within the organization?
@@ -68,6 +70,8 @@ As a **Product Innovation Director**, I managed innovation programs providing di
 <!---->
 
 *   **How can we identify new opportunities for growth and innovation**, specifically verticals we have the right to win?
+
+<HR>
 
 Achievements:
 
