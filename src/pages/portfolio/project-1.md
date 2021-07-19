@@ -65,9 +65,11 @@ As **Chief Product Officer**, I own the  **product strategy**, **roadmap**, and 
 
 *   **How do we test and fine tune our products through data-driven decisions that rapidly improve engagement and conversion**, especially in scenarios where those products have not yet been tested with a large subset of consumers?
 
+<!---->
 
 *   **How do we balance the need for innovative growth strategies** while ensuring our products are exposed to a subset of users that can provide useful insights?
 
+<!---->
 
 *   **While in the midst of a global pandemic, how can we develop new innovative practices** for the production of shoppable video content with celebrity talent?
 
