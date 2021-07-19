@@ -1,5 +1,5 @@
 ---
-title: Thoughts
+title: Writing
 subtitle: 'Ideas, inspiration, and other riffing about... as I get around to it.'
 hide_title: false
 col_number: three
