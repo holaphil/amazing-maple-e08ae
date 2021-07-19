@@ -68,18 +68,12 @@ Problems I worked on...
 
 Achievements...
 
-*   **Led the design and engineering teams integration of multiple 1st and 3rd-party data solutions** adding to and improving the scope and scale for Tremor Video's audience targeting capabilities across the DSP. Several of these integrations included partnerships with Nielsen OCR, eXelate, Neustar, BlueKai and Liveramp. 
+*   **Led the design and engineering teams integration of multiple 1st and 3rd-party data solutions** adding to and improving the scope and scale for Tremor Video's audience targeting capabilities across the DSP. Several of these integrations included partnerships with Nielsen OCR, eXelate, Neustar, BlueKai and Liveramp.
 
 <!---->
 
-*   Oversaw vastly improved coordination between our ad trafficking, operations and engineering teams.  addition to 50+ user workflow enhancements for teams.
-*
-*   **Led all phases from conception to launch of Verizon’s first location based mobile commerce ad format (Mobile Wallet)**, a new ad format that delivers offers and content directly into the consumer's mobile wallet. This new format immediately **generated more than 500k of revenue** for the company and led to significant client interest in other innovation ad formats.
+*   **Oversaw and improved the communication between our ad trafficking, operations and engineering teams. ** As a product manager, this attention/intention brought a renewed sense of appreciation led to the design/development of more useful features including 25+ workflow enhancements.
 
 <!---->
 
 *   **Original co-founding member of Verizon Media’s Innovation Council**, a team building an innovation pipeline for piloting innovative ad experiences for Verizon’s clients and brands.
-
-<!---->
-
-*   **Co-developed a product innovation scoring matrix to help reward innovation while avoiding unnecessary risk.** Our scoring measured the integration and operational readiness of each new product prior to launch, including Verizon’s first mobile wallet and new video commerce tools resulting in greater network publisher compliance and demand from sales. This tool also helped Verizon Media to postpone or retool several innovation projects to help mitigate and manage risk.
