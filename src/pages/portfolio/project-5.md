@@ -34,7 +34,7 @@ seo:
       relativeUrl: true
 template: project
 ---
-**I formed the Product Council in 2013** with my then co-host, [**Coalesce**](https://coalesce.nyc/) . The inspiration came to me after spending multiple years in the NYC startup community. I found that many if not most startup themed events targeted how startups are funded, as opposed to how their products are made. I wanted to spotlight how startups (and also larger funded businesses) build a great product.
+**I formed the Product Council in 2013** with my then co-host, [**Coalesce**](https://www.linkedin.com/in/tamireiss/) . The inspiration came to me after spending multiple years in the NYC startup community. I found that many if not most startup themed events targeted how startups are funded, as opposed to how their products are made. I wanted to spotlight how startups (and also larger funded businesses) build a great product.
 
 Today Product Council is an event series where designers, entrepreneurs, and product managers gather to solve the world’s greatest product challenges. We exist to provide entrepreneurs and agencies a fresh new outlet for critical feedback, ideation, and improvement of their products. Past presenters include product leadership from **Spotify**, **Google**, **The New York Times**, and **Vimeo** to name a few as well as startups including **Ergatta**, **Daily Harvest**, **Casper** and **The Skimm**. Each event features about 100+ guests. I have partnered with an amazing team at [**Coalesce**](https://coalesce.nyc/) to help organize and produce each event. Events are currently hosted by our gracious host, [**Betaworks Labs**](https://www.betaworks.com/) located in downtown Manhattan.
 
