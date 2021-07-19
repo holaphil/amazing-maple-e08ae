@@ -3,7 +3,7 @@ title: 'Founder, Managing Director — Product Council'
 subtitle: 2013 - Present
 date: '2019-01-05'
 thumb_image: images/portrait-logo-product-council.jpg
-thumb_image_alt: A white gamepad on a green background
+thumb_image_alt: The Product Council
 image: images/portrait-image-product-council.jpeg
 image_alt: A white gamepad on a green background
 seo:
