@@ -73,7 +73,7 @@ As a **Product Innovation Director**, I managed innovation programs providing di
 
 <HR>
 
-Achievements:
+**Achievements:**
 
 *   **Led successful new commerce collaborations with product teams across both Yahoo and AOL teams** working with product management and development leadership within Verizon’s data insights, ad serving and publisher CMS platforms. One such initiative included tools for self-publishing products for sale within video content.
 
