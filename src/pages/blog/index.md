@@ -1,6 +1,6 @@
 ---
 title: Thoughts
-subtitle: 'Ideas, thoughts,'
+subtitle: 'Ideas, inspirations, and other riffing as I get around to it.'
 hide_title: false
 col_number: three
 seo:
