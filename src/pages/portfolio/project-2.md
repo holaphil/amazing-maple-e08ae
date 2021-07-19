@@ -38,7 +38,7 @@ As a **Product Innovation Director**, I managed innovation programs providing di
 
 <HR>
 
-> "*I was so grateful to work with Phil during a part of his time at AOL and then Verizon Media. Phil has a rare and special blend of being equal parts creative, imaginative and thought-provoking, combined with analytical, organized and disciplined in his work.*"
+> *I was so grateful to work with Phil during a part of his time at AOL and then Verizon Media. Phil has a rare and special blend of being equal parts creative, imaginative and thought-provoking, combined with analytical, organized and disciplined in his work.*"
 >
 > — **Uyoung Suggs**
 > Director of Ad Creative Tech & Innovation Strategy, Ops
