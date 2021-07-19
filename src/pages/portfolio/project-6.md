@@ -68,10 +68,12 @@ Problems I worked on...
 
 Achievements...
 
-*   **Led successful new commerce collaborations with product teams across both Yahoo and AOL teams** working with product management and development leadership within Verizon’s data insights, ad serving and publisher CMS platforms. One such initiative included tools for self-publishing products for sale within video content.
+*   **Led the design and engineering teams integration of multiple 1st and 3rd-party data solutions** adding to and improving the scope and scale for Tremor Video's audience targeting capabilities across the DSP. Several of these integrations included partnerships with Nielsen OCR, eXelate, Neustar, BlueKai and Liveramp. 
 
 <!---->
 
+*   Oversaw vastly improved coordination between our ad trafficking, operations and engineering teams.  addition to 50+ user workflow enhancements for teams.
+*
 *   **Led all phases from conception to launch of Verizon’s first location based mobile commerce ad format (Mobile Wallet)**, a new ad format that delivers offers and content directly into the consumer's mobile wallet. This new format immediately **generated more than 500k of revenue** for the company and led to significant client interest in other innovation ad formats.
 
 <!---->
