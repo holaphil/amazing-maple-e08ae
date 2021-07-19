@@ -34,7 +34,7 @@ seo:
       relativeUrl: true
 template: project
 ---
-**I formed the [**Product Council**](https://productcouncil.org)** in 2013** with my then co-host, [**Tami Reiss**](https://www.linkedin.com/in/tamireiss/) . The inspiration came to me after spending multiple years in the NYC startup community. I found that many if not most startup themed events targeted how startups are funded, as opposed to how their products are made. I wanted to spotlight how startups (and also larger funded businesses) build great products. Motivated by the same interests, Tami and I organized and kicked off our first event back in August of 2013 at HUGE Agency in Brooklyn, NY. Supercharged coming off the success of our first event, we continued with additional events growing the Product Council to become one of the most lauded product themed events in NYC.
+**I formed the [**Tami Reiss**](https://www.linkedin.com/in/tamireiss/) with my then co-host, [**Tami Reiss**](https://www.linkedin.com/in/tamireiss/) . The inspiration came to me after spending multiple years in the NYC startup community. I found that many if not most startup themed events targeted how startups are funded, as opposed to how their products are made. I wanted to spotlight how startups (and also larger funded businesses) build great products. Motivated by the same interests, Tami and I organized and kicked off our first event back in August of 2013 at HUGE Agency in Brooklyn, NY. Supercharged coming off the success of our first event, we continued with additional events growing the Product Council to become one of the most lauded product themed events in NYC.
 
 > Hands down the best place for product owners to get live, in-person feedback from experts in the field.”
 >
