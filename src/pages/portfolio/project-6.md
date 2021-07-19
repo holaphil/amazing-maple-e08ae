@@ -38,7 +38,8 @@ As Senior **Product Manager**,  I managed the product roadmap for Tremor Video�
 
 > "Phil brought a level of sophistication to the video space and has a wealth of innovative product ideas and different perspectives on solving user problems. With his background in design, he was a collaborative product manager and came armed with ideas on usability. His ability to articulate and lead product strategy, along with his passion and drive made him a thoughtful player on our team." —
 >
-> **Bo DiMatteo**Director of Product Design and UX
+> **Bo DiMatteo**<BR>
+Director of Product Design and UX
 
 **Core clients included:**
 
