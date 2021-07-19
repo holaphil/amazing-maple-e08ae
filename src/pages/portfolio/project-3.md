@@ -4,7 +4,7 @@ subtitle: September 2017 - November 2018
 date: '2019-04-08'
 thumb_image: images/portrait-logo-RYOT-Studio.jpg
 thumb_image_alt: A yellow retro telephone on a yellow background
-image: images/3.jpg
+image: images/portrait-image-ryot-studio.png
 image_alt: A yellow retro telephone on a yellow background
 seo:
   title: Project Title 3
