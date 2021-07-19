@@ -38,7 +38,7 @@ As **Chief Product Officer**, I own the  **product strategy**, **roadmap**, and 
 
 > "Phil was a natural leader of the team and implemented valuable structure to a growing team. His vast talents from building our actual product and website/app development to physically building out our office and being instrumental in building out the team were tremendously valuable.”
 >
-> **Lauren Wilner**
+> **Lauren Wilner**<BR>
 > Chief Merchandising Officer
 
 *   **Product**: <mark>Lead a team of developers, designers, producers, and data scientists</mark> while overseeing the strategic, creative, and technical execution of our platform roadmap all the way through delivery, including concept, testing, and launch.
