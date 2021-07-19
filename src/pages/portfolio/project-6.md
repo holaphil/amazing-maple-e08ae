@@ -76,4 +76,4 @@ Achievements...
 
 <!---->
 
-*   **Original co-founding member of Verizon Media’s Innovation Council**, a team building an innovation pipeline for piloting innovative ad experiences for Verizon’s clients and brands.
+*   **Helped lead and introduce Tremor Video's first true all-screen (mobile, desktop, tablet) product solution**, which became a leading source of revenue for the company. Instead of waiting for an Ad Trafficker to reallocate budget (when it's too late) based on outdated data, this solution provided an ability to rely on our DSP to automatically reallocate spend (per device), aways based on realtime ad performance (ie set it and forget it).
