@@ -68,12 +68,12 @@ As a **Principal Product Manager**, I supported new product innovation within Ve
 
 **Achievements:**
 
-*   **Introduced and oversaw Verizon’s earliest ventures into video commerce** including their first shoppable video partnerships which immediately **generated over 750k in new sponsorship revenue**. The work opened doors for additional innovation within Verizon Media agency partnerships and helped initiate further e-commerce innovation across Yahoo’s publisher network.
+*   **Activated over 750k in new sponsorship revenue by introducing Verizon Media's first ever interactive shoppable video experiences.** This work opened doors for additional revenue streams within Verizon Media agency partnerships and helped initiate further e-commerce innovation across Yahoo’s publisher network.
 
 <!---->
 
-*   **Integrated a new strategic analytics agenda for RYOT’s cross-platform content reporting** **tools** across desktop, tablet, and mobile. Prior to this work, the team relied heavily on sourcing data through a combination of third-party analytics tools (which we were under pressure to sunset) and MS Excel sheets. Empowered through the data, **new dashboard design and data visualizations**, account managers no longer required BI analyst resources to pull reports. Teams could **now share immediate data insights with clients and content creators**. This work allowed Verizon Media to sunset duplicative analytics contracts and subsequently shift precious BI analyst resources on to other projects.
+*   **5x increase in reporting speed and accuracy by implementing a new publisher content reporting tools. **Prior to this work, the team relied heavily on sourcing data through a combination of third-party analytics tools (which we were under pressure to sunset) and MS Excel sheets. Empowered through the data, **new dashboard design and data visualizations**, account managers no longer required BI analyst resources to pull reports. Teams could **now share immediate data insights with clients and content creators**. This work allowed Verizon Media to sunset duplicative analytics contracts and subsequently shift precious BI analyst resources on to other projects.
 
 <!---->
 
-*   **Partnered closely with Verizon Media's publisher CMS teams** to oversee the integration of two new innovative ad formats across Verizon's O\&O websites. The work consistently delivered improvements across our ad targeting and inventory resulting in an additional incremental revenue for our sales team.
+*   **Greatly improved operational scale across Verizon Media's publisher CMS **by way of increasing communication through steady coordination across our publisher product and data teams.
