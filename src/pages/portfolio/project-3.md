@@ -42,8 +42,6 @@ As a **Principal Product Manager**, I managed new product innovation within Veri
 > "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 <HR>
 
-
-
 **Core clients included:**
 
 *   **Account Directors**: Collaborated with account directors in search of best practices for communicating data narratives for clients.
@@ -57,7 +55,9 @@ As a **Principal Product Manager**, I managed new product innovation within Veri
 *   **Creative Producers**: Partnered with operations leadership to identify and solve operational challenges that could inhibit scale while ensuring teams had the proper execution plans to activate and test new innovation programs.
 
 <HR>
-**Problems I worked on:**
+
+
+Problems I worked on:
 
 *   How can we **retool our data and analytics platforms to extract more meaningful insights** for our content team, publishers, and clients?
 
