@@ -17,4 +17,4 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod temp
 *   Lorem ipsum
 *   dolor sit amet
 
-![](images/1.jpg)
+![](images/1.jpg)![](images/portrait-image-product-council2.jpeg)
