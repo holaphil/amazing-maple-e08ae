@@ -54,7 +54,7 @@ As a **Principal Product Manager**, I managed the design, development, and opera
 
 <!---->
 
-*   Managed design and development for new interactive video formats including Verizon Media's first interactive 360 Video and non-linear VPAID ads
+*   **Managed design and development for new interactive video formats** including Verizon Media's first interactive 360 Video and non-linear VPAID ads
 
 <!---->
 
