@@ -36,6 +36,8 @@ template: project
 ---
 As Senior **Product Manager**,  I managed the product roadmap for Tremor Video’s VideoHub service (a Demand Side Platform -- DSP), largely for the managed service side of the business. My work included the identification, prioritization and subsequent management of new product features/enhancements across a team of distributed design, engineer and QA resources located in three different time zones (e.g. Singapore, San Francisco, New York). Within this role, I served as a voice of our customers (e.g. ad trafficking teams) helping improve both our platform experience for the ad trafficking teams and platform performance for our clients and partners. Key product domains included management for video ad trafficking, viewability, audience, inventory and cross-device targeting.
 
+<HR>
+
 > "Phil brought a level of sophistication to the video space and has a wealth of innovative product ideas and different perspectives on solving user problems. With his background in design, he was a collaborative product manager and came armed with ideas on usability. His ability to articulate and lead product strategy, along with his passion and drive made him a thoughtful player on our team." —
 >
 > **Bo DiMatteo**<BR>
