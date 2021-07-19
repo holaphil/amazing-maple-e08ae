@@ -71,6 +71,8 @@ Director of Product Design and UX
 
 *   **How can we improve the user experience of our platform** while ensuring the continual development and maintenance of an experience our user's are accustomed to?
 
+<HR>
+
 **Achievements:**
 
 *   **Oversaw and improved the communication between our ad trafficking, operations, and engineering teams.** As a product manager, this attention/intention brought a renewed sense of appreciation led to the design/development of more useful features including 25+ workflow enhancements.
