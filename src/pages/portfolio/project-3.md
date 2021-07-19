@@ -72,7 +72,7 @@ As a **Principal Product Manager**, I supported new product innovation within Ve
 
 <!---->
 
-*   **5x increase in reporting speed and accuracy by implementing a new publisher content reporting tools. **Prior to this work, the team relied heavily on sourcing data through a combination of third-party analytics tools (which we were under pressure to sunset) and MS Excel sheets. Empowered through the data, new dashboard design and data visualizations, account managers no longer required BI analyst resources to pull reports. Teams could now share immediate data insights with clients and content creators. This work allowed Verizon Media to sunset duplicative analytics contracts and subsequently shift precious BI analyst resources on to other projects.
+*   **5x increase in reporting speed and accuracy by implementing a new publisher content reporting tools.** Prior to this work, the team relied heavily on sourcing data through a combination of third-party analytics tools (which we were under pressure to sunset) and MS Excel sheets. Empowered through the data, new dashboard design and data visualizations, account managers no longer required BI analyst resources to pull reports. Teams could now share immediate data insights with clients and content creators. This work allowed Verizon Media to sunset duplicative analytics contracts and subsequently shift precious BI analyst resources on to other projects.
 
 <!---->
 
