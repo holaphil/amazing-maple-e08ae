@@ -3,7 +3,7 @@ title: Chief Product Officer — NOW//with
 subtitle: October 2019 - May 2021
 date: '2021-07-16'
 thumb_image: images/portrait-logo-nowwith.jpg
-thumb_image_alt: 'White, black, and red shoe sole'
+thumb_image_alt: Chief Product Officer — NOW//with
 image: images/image-nowwith-chief-product-officer.jpg
 image_alt: NOW//with
 seo:
