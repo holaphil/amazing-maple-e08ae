@@ -5,7 +5,7 @@ subtitle: >-
   brands across both startup & corporate environments. You will find a majority
   of these roles listed below in resume format. Should you wish to learn more
   about specific problems I worked to solve, achievements, or outcomes, simply
-  select the <mark>highlighted</mark> text under each role to learn more.
+  select the highlighted text under each role to learn more.
 image_alt: lorem-ipsum
 seo:
   title: Theme Style Guide
