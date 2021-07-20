@@ -131,7 +131,7 @@ Freelance Art Director<BR>
 Innovation Manager<BR>
 2003 - 2004 in Philadephia, PA
 
-[**Razorfish (iFrontier)**](https://www.razorfish.com/)<BR>
+[**Razorfish (i-Frontier)**](https://www.razorfish.com/)<BR>
 Web Design Manager<BR>
 2002 - 2003 in Philadephia, PA
 
