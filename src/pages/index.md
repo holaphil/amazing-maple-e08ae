@@ -17,9 +17,8 @@ sections:
       **It was time to time to build my own house.**
 
       Take a tour by simply scrolling down or selecting any of the nav items
-      above. Lastly, as with any new house, there is plenty of work to do. My
-      apologies if something is out of place or broken – I will fix it in due
-      time!
+      above. Lastly, as with any new house, there is plenty of work to do.
+      Conversely, if you encounter any issues, contact me here so I can fix it.
 
 
       *PS Continuing the house analogy, you need tools to build. I built
