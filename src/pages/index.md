@@ -17,8 +17,8 @@ sections:
       **It was time to time to build my own house.**
 
       Take a tour by simply scrolling down or selecting any of the nav items
-      above. Lastly, as with any new house, there is plenty of work to do.
-      Conversely, if you encounter any issues, contact me below so I can fix it.
+      above. Lastly, as with any new house, there is plenty of work to do. If
+      you encounter any issues, please contact me and I'll fix it. Thanks.
     actions:
       - label: View My Work
         url: /portfolio
