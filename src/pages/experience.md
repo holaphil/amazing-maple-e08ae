@@ -109,7 +109,10 @@ September 2013 -  August 2015 in New York, NY
 Co-Founder, Head of Product & Marketing<BR>
 2006 -  2013 in New York, NY
 
-*   Owned product roadmap of Tremor’s DSP service working with 25+ engineers and designers located in Singapore, San Francisco, New York and Boston.
+*   Co-founded the world’s first SAAS based video platform for real estate.
+Responsible for product development, design & marketing of WellcomeMat’s enterprise SAAS video products as well as all filmmaker/videographer outreach. 
+Designed and patented one of the web’s first cloud-based interactive video players.
+
 
 
 *   Served as voice of the customer for ad trafficking team building new features to improve platform audience management, viewability, inventory, and cross-device targeting.
