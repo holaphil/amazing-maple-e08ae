@@ -42,7 +42,7 @@ sections:
     grid_items:
       - title: Solve problems
         content: >
-          With a background in **UX Design**, **Production**, and **Product
+          With a background in **UX Design, Marketing **and **Product
           Management**, I've spent my entire career figuring out better more
           useful ways to solve complex problems.
       - title: Unify teams
