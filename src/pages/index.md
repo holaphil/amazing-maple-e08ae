@@ -18,11 +18,11 @@ sections:
       selecting any of the nav items above. And thank you for visiting!
 
 
-      PS — this website is built using an architecture called **Jamstack**.
+      PS — *this website is built using an architecture called **Jamstack**.
       Designed to make the web faster, more secure, and easier to scale,
       Jamstack is what helps these pages load incredibly fast. What's not to
       love about that! If you're a closet nerd like me or just curious, you can
-      learn more about Jamstack here: <https://jamstack.org/what-is-jamstack/>
+      learn more about Jamstack here*: <https://jamstack.org/what-is-jamstack/>
     actions:
       - label: View My Work
         url: /portfolio
