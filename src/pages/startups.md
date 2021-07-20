@@ -14,7 +14,9 @@ template: page
 ---
 # WellcomeMat
 
-WellcomeMat combines the power of a real estate focused SAAS video CMS, unparalleled reach of location-based video distribution, and connectivity of over 5,000 filmmakers nation wide. Supporting many of world’s leading real estate brands, WellcomeMat’s video platform helps content owners create and intelligently share unique local content told through the power of video.
+Supporting many of world’s leading real estate brands, WellcomeMat’s video platform helps real estate brokers, agents, and brands create and intelligently share unique local content told through the power of video.
+
+Learn More
 
 ![](images/1.jpg)
 
