@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Hola!
+    title: It's time to build your own house
     content: >
       **The time has come to build your own house.** If you look around the web,
       you may notice every place you exist (that is your content and data) is
