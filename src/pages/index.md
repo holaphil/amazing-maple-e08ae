@@ -6,12 +6,11 @@ sections:
     type: section_hero
     title: Hola!
     content: >
-      **It's time to build your own house. **If you look around the web, you may
-      notice every place you exist (that is your content and data) is stored on
-      a platform you do not own. Of course there is purpose, value, and intent
-      for existing on these third party platforms; however, at the end of the
-      day you are still living in someone else's house.
-
+      **The time has come to build your own house.** If you look around the web,
+      you may notice every place you exist (that is your content and data) is
+      stored on a platform you do not own. Of course there is purpose, value,
+      and intent for existing on these third party platforms; however, at the
+      end of the day you are still living in someone else's house.
 
 
       Take a tour by simply scrolling down or selecting any of the nav items
