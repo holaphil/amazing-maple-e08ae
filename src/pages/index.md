@@ -43,10 +43,11 @@ sections:
       - title: Solve problems
         content: >
           With **15+ years working in Product Management roles**, I've spent a
-          majority of my career managing products in collaboration with
-          engineers, data analysts, designers and researchers to identify the
-          best most creative ways to solve complex problems for our clients and
-          customers.
+          majority of my career working in collaboration with engineers, data
+          analysts, designers and researchers to identify the best most creative
+          ways to solve complex problems for our clients and customers. I have
+          years of experience taking a novel idea and turning that idea into an
+          innovative product.
       - title: Unify teams
         content: >
           Throughout my career I have had the pleasure building teams as an
