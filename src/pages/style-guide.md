@@ -44,6 +44,8 @@ September 2019 - Present in New York, NY
 
 As NOW//with’s first executive hire, I built the core foundational video and e-commerce teams including design, development, and user research. Provide product vision and strategy for my teams as we build NOW//with’s shoppable video entertainment API services and platforms. The platform contains several key products including but not limited to a universal checkout SDK, interactive video, social data mapping, and reporting/product ingestion tools for brands and talent.
 
+Learn more here
+
 # This is an H1
 
 Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
