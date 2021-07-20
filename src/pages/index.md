@@ -6,10 +6,17 @@ sections:
     type: section_hero
     title: Hola!
     content: >
-      Thanks for stopping by my personal website, **holaphil.com**. I spun this
-      site up using Jamstack, an architecture designed to make the web faster,
-      more secure, and easier to scale. What's not to love about that! If you're
-      a closet nerd like me or just curious, you can learn more about
+      Thanks for stopping by my personal website, **holaphil.com**. If you look
+      around the web, you may notice every place you exist is on a platform you
+      do not own. Of course there is purpose, value and intent living on third
+      party platforms; however, you are living in someone else's house.  It was
+      time to time to build my own house.
+
+
+      I created this site for I spun this site up using Jamstack, an
+      architecture designed to make the web faster, more secure, and easier to
+      scale. What's not to love about that! If you're a closet nerd like me or
+      just curious, you can learn more about
       [Jamstack](https://jamstack.org/what-is-jamstack/) here.
 
 
