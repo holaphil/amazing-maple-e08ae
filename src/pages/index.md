@@ -102,7 +102,7 @@ sections:
           effective online marketing strategy.
   - section_id: latest-posts
     type: section_posts
-    title: Latest from the Blog
+    title: My Writing
     subtitle: An optional subtitle of the section
     posts_number: 3
     col_number: three
