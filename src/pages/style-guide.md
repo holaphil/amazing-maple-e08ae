@@ -36,7 +36,7 @@ seo:
       relativeUrl: true
 template: page
 ---
-NOW//with - New York, NY
+NOW//with - New York, NY <BR>
 Chief Product Officer
 
 September 2019 - Present
