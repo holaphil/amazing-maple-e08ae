@@ -51,6 +51,14 @@ sections:
           years of experience taking a novel idea and turning that idea into an
           innovative product.
         image_alt: Solve Problems
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
       - title: Unify teams
         content: >
           Throughout my career I have had the pleasure building teams as an
