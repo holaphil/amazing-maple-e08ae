@@ -123,7 +123,7 @@ Co-Founder, Head of Product & Marketing<BR>
 Creative Director<BR>
 2005 - 2007 in New York, NY
 
-[**Razorfish**](https://www.razorfish.com/), Heartbeat Digital**<BR>
+[**Razorfish**](https://www.razorfish.com/), [**Razorfish**](https://www.razorfish.com/)<BR>
 Freelance Art Director<BR>
 2004 - 2005 in New York, NY
 
