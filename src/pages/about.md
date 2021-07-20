@@ -33,12 +33,14 @@ template: page
 ---
 Writing about yourself is the hardest part. Do you write this in first or third person? You don’t want to come off as a bragger, however, what story is there to tell if you are 100% humble? How does one manage those dials?
 
-I’ve built two startups. I have launched several brands. I have done work that was considered 'innovative' inside large corporate organizations. But what gives me the right to claim any of that as my own? How is this even innovative when other people are building rockets or solving the worlds energy challenges? Perhaps this is the point -- everything you and have ever done has likely been a result of working with and/or managing the work of others beside ourselves. It's called teamwork.
+I’ve built two startups. I have launched several brands. I have done work that was considered 'innovative' inside large corporate organizations. But what gives me the right to claim any of that as my own? How is this even innovative when other people are building rockets or solving the worlds energy challenges? Perhaps this is the point -- everything you and I have ever done has likely been a result of working with and/or managing the work of a team. Even tennis requires at least two players!
 
-So I am going to let the work speak for itself. Instead, I'll use this opportunity to give you a brief glimpse into who I am as a person. I doing so, I am going to attempt to be as honest and forthright as possible. If you can not tell your own story, how can you be expected to help someone else tell theirs?
+So I am going to let the work speak for itself. Instead, I'll use this opportunity to give you a brief glimpse into who I am as a person. In doing so, I am going to attempt to be as honest and forthright as possible. If you can not tell your own story, how can you be expected to help someone else tell theirs?
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla.
+1.  I am a multi-disciplined product leader, founder, and creator with over 20 years experience building new products and brands across both startup and corporate environments.
+
+2.
 
 *Thank You for reading!*
