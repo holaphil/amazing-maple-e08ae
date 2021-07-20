@@ -31,7 +31,9 @@ seo:
       relativeUrl: true
 template: page
 ---
-So this is the part I like the least. It's not too dissimilar from recording your own outbound voicemail message. Overthink it, and you're left recording again and again. Do you write this in first or third person? You don’t want to come off as a bragger, however, what story is there to tell if you are 100% humble? How does one manage those dials? As with the voicemail example, I think the lesson is to not overthink it -- your first take is almost always the best one. 
+So this is the part I like the least. It's not too dissimilar from recording your own outbound voicemail message. Overthink it, and you're left recording again and again. Do you write this in first or third person? You don’t want to come off as a bragger, however, what story is there to tell if you are 100% humble? How does one manage those dials? As with the voicemail example, I think the lesson is to not overthink it -- your first take is almost always the best one.
+
+So here we go...
 
 I’ve built two startups. I have launched several brands. I have done work that was considered 'innovative' inside large corporate organizations. But what gives me the right to claim any of that as my own? How is this even innovative when other people are building rockets or solving the worlds energy challenges? Perhaps this is the point -- everything you and I have ever done has likely been a result of working with and/or managing the work of a team. Few sports require one player, the best sports require a team.
 
