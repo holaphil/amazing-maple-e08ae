@@ -54,8 +54,8 @@ September 2019 - Present in New York, NY
 <HR>
 
 [**Verizon Media**](https://www.verizonmedia.com/)
-Director of Product, Innovation
-December 2018 - September 2019 // New York, NY
+Director of Product, Innovation<BR>
+December 2018 - September 2019 in New York, NY
 
 *   Responsible for product innovation strategy and execution across emerging (VR, Audio, Connected Car) and growth (Commerce, Branded Content, Native Advertising) within Verizon Media’s premium sales business.
 
