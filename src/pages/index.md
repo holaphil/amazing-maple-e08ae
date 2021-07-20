@@ -15,7 +15,7 @@ sections:
 
       Now that we got that part out of the way, let's get started.
     actions:
-      - label: Learn More
+      - label: View Work
         url: /contact
         style: button
       - label: Let's Talk
