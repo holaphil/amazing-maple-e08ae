@@ -12,8 +12,11 @@ sections:
       the day you are still living in someone else's house.
 
 
-      **holaphil.com is my house**. Take a tour by simply scrolling further down
-      or selecting any of the nav items above.
+      **holaphil.com is my house**. Here you will find a resources and
+      information details  experience building brands and products  resources
+      for products and brands I have built along with possibly (as I find time
+      for it) my thoughts and ideas on building startups and products,  tour by
+      simply scrolling further down or selecting any of the nav items above.
 
 
       PS — this website is built using an architecture called **Jamstack**.
