@@ -103,7 +103,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: My Writing
-    subtitle: An optional subtitle of the section
+    subtitle: 'Thoughts and musings, when I have time for them...'
     posts_number: 3
     col_number: three
     actions:
