@@ -133,7 +133,7 @@ Innovation Manager<BR>
 
 [**Razorfish**](https://www.razorfish.com/)<BR>
 Innovation Manager<BR>
-2003 - 2004 in Philadephia, PA
+2002 - 2003 in Philadephia, PA
 
 
 #
