@@ -113,8 +113,8 @@ Co-Founder, Head of Product & Marketing<BR>
 
 *   Responsible for product development, design & marketing of WellcomeMat’s enterprise SAAS video products as well as all filmmaker/videographer outreach. 
 
-Designed and patented one of the web’s first cloud-based interactive video players.
+*   Designed and patented one of the web’s first cloud-based interactive video players.
 
-<mark>[**Learn more here**](/portfolio/project-5/)</mark>
+<mark>[**Learn more here**](/portfolio/project-6/)</mark>
 
 #
