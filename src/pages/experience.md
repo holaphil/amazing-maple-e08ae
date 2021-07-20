@@ -1,9 +1,9 @@
 ---
 title: Experience
 subtitle: >-
-  Over the last 20+ years, my energy and experience has gone into building new
-  products and brands across both startup and corporate environments. A majority
-  of those experiences are listed below.
+  Over the last 20+ years, my experience comes from building new products and
+  brands across both startup and corporate environments. A majority of those
+  experiences are listed below.
 image_alt: lorem-ipsum
 seo:
   title: Theme Style Guide
