@@ -135,7 +135,7 @@ Innovation Manager<BR>
 Web Design Manager<BR>
 2002 - 2003 in Philadephia, PA
 
-[**Digitas Health**](https://www.digitashealth.com/)<BR>
+[**Digitas Health (MBC)**](https://www.digitashealth.com/)<BR>
 Design Engineer<BR>
 2000 - 2002 in Philadephia, PA
 
