@@ -36,7 +36,9 @@ seo:
       relativeUrl: true
 template: page
 ---
-##### **NOW//with**&#xA;Chief Product Officer
+**NOW//with**
+
+##### Chief Product Officer
 
 September 2019 - Present in New York, NY
 
