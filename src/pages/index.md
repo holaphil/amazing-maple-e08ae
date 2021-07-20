@@ -42,8 +42,9 @@ sections:
     grid_items:
       - title: Solve problems
         content: >
-          With a background in UX and Design and Product Management, I solve
-          problems
+          With a background in UX and Design and Product Management, I've spent
+          my entire career figuring out better more useful ways to solve complex
+          problems.
       - title: Unify teams
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
