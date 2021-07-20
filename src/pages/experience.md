@@ -43,7 +43,11 @@ Chief Product Officer
 <BR>
 September 2019 - Present in New York, NY
 
-As NOW//with’s first executive hire, I built the core foundational video and e-commerce teams including design, development, and user research. Provide product vision and strategy for my teams as we build NOW//with’s shoppable video entertainment API services and platforms. The platform contains several key products including but not limited to a universal checkout SDK, interactive video, social data mapping, and reporting/product ingestion tools for brands and talent.
+*   As NOW//with’s first executive hire, I built the core foundational video and e-commerce teams including design, development, and user research.
+
+*   Provide product vision and strategy for my teams as we build NOW//with’s shoppable video entertainment API services and platforms. 
+
+*   The platform contains several key products including but not limited to a universal checkout SDK, interactive video, social data mapping, and reporting/product ingestion tools for brands and talent.
 
 Learn more here
 
@@ -51,7 +55,7 @@ Learn more here
 Chief Product Officer
 September 2019 - Present in New York, NY
 
-As NOW//with’s first executive hire, I built the core foundational video and e-commerce teams including design, development, and user research. Provide product vision and strategy for my teams as we build NOW//with’s shoppable video entertainment API services and platforms. The platform contains several key products including but not limited to a universal checkout SDK, interactive video, social data mapping, and reporting/product ingestion tools for brands and talent.
+Responsible for product innovation strategy and execution across emerging (VR, Audio, Connected Car) and growth (Commerce, Branded Content, Native Advertising) within Verizon Media’s premium sales business. Managed innovation programs for our Premium Sales business working within multiple departments across 50+ team members: design, engineering, marketing, operations, and sales. Founding member of Verizon Media's Innovation Council, a task force empowered by our CEO  to help spotlight, develop and grow internal product innovation across the entire organization.
 
 Learn more here
 
