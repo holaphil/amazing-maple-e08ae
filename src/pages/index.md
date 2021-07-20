@@ -6,17 +6,11 @@ sections:
     type: section_hero
     title: Hola!
     content: >
-      Thanks for stopping by. You're probably here for one of three reasons
+      Thanks for stopping by my site, holaphil.com. Here you can view some of my
+      work, current interests, writing, or just say hola!
 
 
-      I've spent the majority of my career working in both Philadelphia and
-      later New York City building brands and products in You can check out my
-      past work here Creator, Innovator w/ 20+ years building new brands,
-      services, and experiences.
-
-
-      If you want to check out some of my work, you can view the startups I've
-      been involved with here. Alternatively my
+      Some very brief background for context:
     actions:
       - label: Learn More
         url: /contact
