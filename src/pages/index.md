@@ -13,8 +13,7 @@ sections:
       here.
 
 
-      Now that we got that part out of the way, why build your own website?
-      Great question!
+      Now that we got that part out of the way, let's get started.
     actions:
       - label: Learn More
         url: /contact
