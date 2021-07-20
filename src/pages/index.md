@@ -17,20 +17,18 @@ sections:
       **It was time to time to build my own house.**
 
 
-      With any new house, there is plenty of work to do. My apologies if
-      something is out of place or broken I will fix it in time! For now, take a
-      tour by scrolling down or selecting any of the navigational topics that
-      interest you.
+      Take a tour by simply scrolling or selecting any of the navigational
+      topics here in the masthead above that interest you. Lastly, as with any
+      new house, there is plenty of work to do. My apologies if something is out
+      of place or broken – I will fix it in due time!
 
 
-      PS\* Continuing the house analogy, every new house needs tools. I created
-      this site using an architecture called Jamstack. Jamstack is designed to
-      make the web faster, more secure, and easier to scale. What's not to love
-      about that! If you're a closet nerd like me or just curious, you can learn
-      more about [Jamstack](https://jamstack.org/what-is-jamstack/) here.
-
-
-      Now that we got that part out of the way, let's get started.
+      *PS\* Continuing the house analogy, you need tools to build. I built
+      holaphil.com using an architecture called **Jamstack**. Designed to make
+      the web faster, more secure, and easier to scale, Jamstack is what helps
+      these pages load incredibly fast. What's not to love about that! If you're
+      a closet nerd like me or just curious, you can learn more about
+      *[*Jamstack*](https://jamstack.org/what-is-jamstack/)* here.*
     actions:
       - label: View My Work
         url: /portfolio
