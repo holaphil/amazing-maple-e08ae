@@ -29,7 +29,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Recent Roles
-    subtitle: An optional subtitle of the section
+    subtitle: A few of my most recent and work experience.
     projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
