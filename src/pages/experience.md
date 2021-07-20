@@ -89,6 +89,6 @@ Managed team of 10 designers, developers and QA technicians
 
 *   Initiated first user research programs which led to the development and launch of several new native ad products in the mobile payments and interactive video space.
 
-<mark>[**Learn more here**](/portfolio/project-3/)</mark>
+<mark>[**Learn more here**](/portfolio/project-4/)</mark>
 
 #
