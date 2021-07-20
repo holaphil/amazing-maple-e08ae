@@ -5,27 +5,26 @@ sections:
   - section_id: hero
     type: section_hero
     title: It's time to build your own house
-    content: >
+    content: >+
       If you look around the web, you may notice every place you exist, your
       content and data is stored on a platform you do not own. Of course these
       third party platforms provide purpose and value; however, at the end of
       the day you are still living in someone else's house.
 
 
-      holaphil is my house
+      holaphil.com is my house
 
 
-      Take a tour by simply scrolling down or selecting any of the nav items
-      above. Lastly, as with any new house, there is plenty of work to do. If
-      you encounter any issues, please contact me and I'll fix it. Thanks.
+      You are welcome to take a tour by simply scrolling further down or
+      selecting any of the nav items above. 
 
 
-      PS — Continuing the house analogy, you need tools to build. I built
-      holaphil.com using an architecture called **Jamstack**. Designed to make
-      the web faster, more secure, and easier to scale, Jamstack is what helps
-      these pages load incredibly fast. What's not to love about that! If you're
-      a closet nerd like me or just curious, you can learn more about Jamstack
-      here: <https://jamstack.org/what-is-jamstack/>
+      PS — I built holaphil.com using an architecture called **Jamstack**.
+      Designed to make the web faster, more secure, and easier to scale,
+      Jamstack is what helps these pages load incredibly fast. What's not to
+      love about that! If you're a closet nerd like me or just curious, you can
+      learn more about Jamstack here: <https://jamstack.org/what-is-jamstack/>
+
     actions:
       - label: View My Work
         url: /portfolio
