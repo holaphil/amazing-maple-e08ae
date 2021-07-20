@@ -105,7 +105,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: My Writing
-    subtitle: 'Thoughts and musings, when I have time for them...'
+    subtitle: "Thoughts and musings\_ when I have time for them..."
     posts_number: 3
     col_number: three
     actions:
