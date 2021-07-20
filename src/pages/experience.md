@@ -103,4 +103,17 @@ September 2013 -  August 2015 in New York, NY
 
 <mark>[**Learn more here**](/portfolio/project-5/)</mark>
 
+<HR>
+
+[**WellcomeMat**](https://www.wellcomemat.com/)<BR>
+Co-Founder, Ad Formats<BR>
+September 2013 -  August 2015 in New York, NY
+
+*   Owned product roadmap of Tremor’s DSP service working with 25+ engineers and designers located in Singapore, San Francisco, New York and Boston.
+
+
+*   Served as voice of the customer for ad trafficking team building new features to improve platform audience management, viewability, inventory, and cross-device targeting.
+
+<mark>[**Learn more here**](/portfolio/project-5/)</mark>
+
 #
