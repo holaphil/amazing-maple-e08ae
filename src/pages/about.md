@@ -35,7 +35,7 @@ So this is the part I like the least. It's not too dissimilar from recording you
 
 Onward! Here it goes...
 
-I’ve built two startups. I have launched several brands. I have done work that was considered 'innovative' inside large corporate organizations. But what gives me the right to claim any of that as my own? How can the work be labeled “innovative” when other people are building rockets or solving the worlds energy challenges? Perhaps this is the point -- everything you and I have ever done has likely been a result of working with and/or managing the work of a team. Even Rocket Scientist doesn't launch a rockets by herself. The best sports require a team. 
+I’ve built two startups. I have launched several brands. I have done work that was considered 'innovative' inside large corporate organizations. But what gives me the right to claim any of that as my own? How can the work be labeled “innovative” when other people are building rockets or solving the worlds energy challenges? Perhaps this is the point -- everything you and I have ever done has likely been a result of working with and/or managing the work of a team. Even a Rocket Scientist doesn't launch a rocket by herself. The best sports require a team.
 
 So I am going to let the work and the work of my teams speak for itself. Instead, I'll use this opportunity to give you a brief glimpse into who I am as a person. In doing so, I am going attempt being honest and forthright as possible. If you can not tell your own story, how can you be expected to help someone else tell theirs?
 
