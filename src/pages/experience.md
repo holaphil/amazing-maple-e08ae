@@ -53,9 +53,9 @@ September 2019 - Present in New York, NY
 
 <HR>
 
-[**Verizon Media**](https://www.verizonmedia.com/)<BR>
-Director of Product, Innovation<BR>
-December 2018 - September 2019 in New York, NY
+[**Verizon Media**](https://www.verizonmedia.com/)
+Director of Product, Innovation
+December 2018 - September 2019 // New York, NY
 
 *   Responsible for product innovation strategy and execution across emerging (VR, Audio, Connected Car) and growth (Commerce, Branded Content, Native Advertising) within Verizon Media’s premium sales business.
 
@@ -71,7 +71,7 @@ December 2018 - September 2019 in New York, NY
 Principle Product Manager, Innovation<BR>
 September 2017 -  November 2018 in New York, NY
 
-*   Responsible for internal research and development of new product innovation for both RYOT Studio and the Premium Sales teams. 
+*   Responsible for internal research and development of new product innovation for both RYOT Studio and the Premium Sales teams.
 
 *   Oversaw consolidation of RYOT’s service data/analytics reporting systems (social, native, video) into a single centralized reporting platform and the activation of Verizon Media's first shoppable video commerce experiences.
 
@@ -84,8 +84,7 @@ Principle Product Manager, Ad Formats<BR>
 September 2015 -  August 2017 in New York, NY
 
 *   Oversaw design & development of all video (VPAID/VAST) + interactive ad experiences.
-Managed team of 10 designers, developers and QA technicians
-
+    Managed team of 10 designers, developers and QA technicians
 
 *   Initiated first user research programs which led to the development and launch of several new native ad products in the mobile payments and interactive video space.
 
