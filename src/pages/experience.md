@@ -68,7 +68,7 @@ December 2018 - September 2019 in New York, NY
 \<HR>
 
 [**Verizon Media**](https://www.verizonmedia.com/)<BR>
-Principle Product Manager, Innovation\<BR>
+Principle Product Manager, Innovation<BR>
 September 2017 -  November 2018 in New York, NY
 
 *   Responsible for internal research and development of new product innovation for both RYOT Studio and the Premium Sales teams. 
