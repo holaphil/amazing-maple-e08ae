@@ -51,7 +51,7 @@ sections:
       - title: Unify teams
         content: >
           Throughout my career I have had the pleasure building teams as an
-          **Entrepreneur** and connecting teams as an **Intrapreneur**. In
+          **Entrepreneur** and connecting people as an **Intrapreneur**. In
           either case, I am well versed on the types of collaboration required
           to develop, launch, and market products that deliver immediate
           business value.
