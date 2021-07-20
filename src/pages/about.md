@@ -31,11 +31,10 @@ seo:
       relativeUrl: true
 template: page
 ---
+Writing about yourself is the hardest part. Do you write this in first or third person? You don’t want to come off as a bragger, however, what story is there to tell if you are 100% humble. How does one manage those dials? I’ve built a startup, launched several brands, innovated inside large corporate organizations, but what gives me the right to claim any of that as my own? Perhaps this is the point -- everything I have ever done has been a result of working with and/or managing the work of others beside only myself. That said, this About Me might be useful to you. So out of respect, I’ll try to be as honest and forthright as possible. If you can not tell your own story, how can you be expected to help with someone else’s?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+> The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
-
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla.
 
 *Thank You for reading!*
