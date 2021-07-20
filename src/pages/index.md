@@ -50,7 +50,7 @@ sections:
           ways to solve complex problems for our clients and customers. I have
           years of experience taking a novel idea and turning that idea into an
           innovative product.
-        image_alt: 'Solve Problem '
+        image_alt: Solve Problems
       - title: Unify teams
         content: >
           Throughout my career I have had the pleasure building teams as an
