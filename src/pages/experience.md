@@ -5,7 +5,8 @@ subtitle: >-
   brands across both startup and corporate environments. A majority of those
   experiences are listed below in resume form. Should you wish to learn more
   about the problems I worked to solve, achievements, and outcomes, simply
-  select the highlighted text 'Learn more' to view more of those details.
+  select the highlighted text 'Learn more' and you will be provided with those
+  details.
 image_alt: lorem-ipsum
 seo:
   title: Theme Style Guide
