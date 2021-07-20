@@ -137,7 +137,7 @@ Web Design Manager<BR>
 
 [**Digitas Health**](https://www.digitashealth.com/)<BR>
 Web Design Manager<BR>
-2002 - 2003 in Philadephia, PA
+2002 - 200 in Philadephia, PA
 
 
 #
