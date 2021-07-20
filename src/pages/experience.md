@@ -129,7 +129,7 @@ Freelance Art Director<BR>
 
 [**Razorfish**](https://www.razorfish.com/)<BR>
 Innovation Manager<BR>
-2003 - 2004 in New York, NY
+2003 - 2004 in Philadephia, PA
 
 
 #
