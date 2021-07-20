@@ -124,7 +124,7 @@ Creative Director<BR>
 2005 - 2007 in New York, NY
 
 **BBDO, Heartbeat Digital**<BR>
-Frelance Art Director<BR>
+Freelance Art Director<BR>
 2004 - 2005 in New York, NY
 
 [**NYTVF**](https://www.nytvf.com/)<BR>
