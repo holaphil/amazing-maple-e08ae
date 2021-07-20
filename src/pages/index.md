@@ -48,7 +48,10 @@ sections:
       - title: Unify teams
         content: >
           Throughout my career I have had the pleasure building teams as an
-          Entrepreneur and connecting teams as an Intrapreneur.
+          **Entrepreneur** and connecting teams as an **Intrapreneur**. In
+          either case, I am well versed on the types of collaboration required
+          to develop, launch and market products that deliver immediate business
+          value.
       - title: Stand up for the customer
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
