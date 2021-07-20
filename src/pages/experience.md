@@ -63,6 +63,6 @@ December 2018 - September 2019 in New York, NY
 
 *   Founding member of Verizon Media's Innovation Council, a task force empowered by our CEO  to help spotlight, develop and grow internal product innovation across the entire organization.
 
-[**Learn more here**](/portfolio/project-2/)<mark>
+<mark>[**Learn more here**](/portfolio/project-2/)</mark>
 
 #
