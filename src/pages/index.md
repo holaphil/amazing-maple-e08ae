@@ -29,9 +29,7 @@ sections:
     type: section_portfolio
     layout_style: tiles
     title: Recent Roles
-    subtitle: >-
-      A few of my most recent roles and work experience. Select “Work” in main
-      navigation to view other roles.
+    subtitle: Select “Work” in main navigation to view other roles.
     projects_number: 2
     view_all_label: View All Work
     view_all_url: portfolio
