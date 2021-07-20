@@ -16,7 +16,7 @@ sections:
       or selecting any of the nav items above.
 
 
-      PS — I built holaphil.com using an architecture called **Jamstack**.
+      PS — this website is built using an architecture called **Jamstack**.
       Designed to make the web faster, more secure, and easier to scale,
       Jamstack is what helps these pages load incredibly fast. What's not to
       love about that! If you're a closet nerd like me or just curious, you can
