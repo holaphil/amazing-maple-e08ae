@@ -92,7 +92,7 @@ September 2015 -  August 2017 in New York, NY
 
 <HR>
 
-[**Verizon Media**](https://www.verizonmedia.com/)<BR>
+[**Tremor Video**](https://www.verizonmedia.com/)<BR>
 Principle Product Manager, Ad Formats<BR>
 September 2015 -  August 2017 in New York, NY
 
