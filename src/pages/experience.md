@@ -123,8 +123,8 @@ Co-Founder, Head of Product & Marketing<BR>
 Creative Director<BR>
 2005 - 2007 in New York, NY
 
-[**BBDO**](https://www.nytvf.com/)<BR>
-Art Director<BR>
+[**BBDO, Heartbeat Digital**](https://www.nytvf.com/)<BR>
+Frelance Art Director<BR>
 2004 - 2005 in New York, NY
 
 [**NYTVF**](https://www.nytvf.com/)<BR>
