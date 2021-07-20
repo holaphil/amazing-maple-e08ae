@@ -54,11 +54,11 @@ sections:
         actions: []
       - title: Unify teams
         content: >
-          Throughout my career I have had the pleasure building teams as an
-          **Entrepreneur** and connecting people as an **Intrapreneur**. In
-          either case, I am well versed on the types of collaboration required
-          to develop, launch, and market products that deliver immediate
-          business value.
+          Throughout my career I have had the pleasure building teams and
+          products as an **Entrepreneur** and connecting people to build new
+          products and services as an **Intrapreneur**. In either case, I am
+          well versed on the management required to collaboratively develop,
+          launch, and market products that deliver immediate business value.
         image_alt: Unify Teams
       - title: Stand up for the customer
         content: >
