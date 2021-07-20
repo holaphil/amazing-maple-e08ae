@@ -56,8 +56,9 @@ sections:
         content: >
           Empathy for the user (customer or client) is not a nice to have, it's
           a requirement. I make the time necessary to appreciate the challenges
-          they face so that, together with our entire team, we build products
-          that serve our customers.
+          they face so that, together with our entire team, we build the right
+          products that serve the best interest of our customers. Happy
+          customers equal happy investors.
       - title: Build brands
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
