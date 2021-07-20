@@ -139,7 +139,7 @@ Web Design Manager<BR>
 Design Engineer<BR>
 2000 - 2002 in Philadephia, PA
 
-[**eBay (GSI Commerce)**](https://www.digitashealth.com/)<BR>
+[**eBay (GSI Commerce)**](https://www.ebay.com/)<BR>
 Design Engineer<BR>
 2000 - 2002 in Philadephia, PA
 #
