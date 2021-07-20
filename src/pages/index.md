@@ -29,7 +29,9 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Recent Roles
-    subtitle: A few of my most recent and work experience.
+    subtitle: >-
+      A few of my most recent and work experience. Select “Work” in main
+      navigation to view them all.
     projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
