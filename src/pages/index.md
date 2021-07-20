@@ -70,7 +70,7 @@ sections:
           required to build brands that connects with their audience.
   - section_id: testimonials
     type: section_testimonials
-    title: Testimonials
+    title: What do other people say?
     subtitle: A few words from past colleagues and friends...
     col_number: three
     testimonials:
