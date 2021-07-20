@@ -2,7 +2,9 @@
 title: Experience
 subtitle: >-
   Over the last 20+ years, I have focused my energy gaining experience building
-  new products and brands across both startup and corporate environments.
+  new products and brands across both startup and corporate environments. A
+  majority of those experiences are listed below. If you wish to view some of my
+  work building brands, teams, and startup, you'll find that work here.
 image_alt: lorem-ipsum
 seo:
   title: Theme Style Guide
