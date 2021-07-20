@@ -65,22 +65,16 @@ December 2018 - September 2019 in New York, NY
 
 <mark>[**Learn more here**](/portfolio/project-2/)</mark>
 
-\<HR>\<BR>
-Director of Product, Innovation\<BR>
-December 2018 - September 2019 in New York, NY\<mark>[**Learn more here**](/portfolio/project-2/)\</mark>
+\<HR>
 
-[**Verizon Media**](https://www.verizonmedia.com/)
+Verizon Media\<BR>
+Principle Product Manager, Innovation\<BR>
+September 2017 -  November 2018 in New York, NY
 
+*   Responsible for internal research and development of new product innovation for both RYOT Studio and the Premium Sales teams. 
 
+*   Oversaw consolidation of RYOT’s service data/analytics reporting systems (social, native, video) into a single centralized reporting platform and the activation of Verizon Media's first shoppable video commerce experiences.
 
-*   Responsible for product innovation strategy and execution across emerging (VR, Audio, Connected Car) and growth (Commerce, Branded Content, Native Advertising) within Verizon Media’s premium sales business.
-
-*   Managed innovation programs for our Premium Sales business working within multiple departments across 50+ team members: design, engineering, marketing, operations, and sales.
-
-*   Founding member of Verizon Media's Innovation Council, a task force empowered by our CEO  to help spotlight, develop and grow internal product innovation across the entire organization.
-
-
-
-
+\<mark>[**Learn more here**](/portfolio/project-2/)\</mark>
 
 #
