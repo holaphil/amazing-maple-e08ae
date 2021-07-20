@@ -11,13 +11,6 @@ sections:
       secure, and easier to scale. If you're a closet nerd like me or just
       curious, you can learn more about Jamstack here.
 
-
-      I am a multi-disciplined product leader, founder, and creator with over 20
-      years experience building new products and brands across both startup and
-      corporate environments. If you are here to check out my work, you'll find
-      a subset of that work here. Alternatively you can view some of the 
-      startups I've either founded or helped build here.
-
     actions:
       - label: Learn More
         url: /contact
