@@ -47,9 +47,10 @@ As NOW//with’s first executive hire, I built the core foundational video and e
 
 Learn more here
 
-
-
-
+[**NOW//with**](https://nowwith.com/)\<BR>
+Chief Product Officer
+\<BR>
+September 2019 - Present in New York, NY
 
 As NOW//with’s first executive hire, I built the core foundational video and e-commerce teams including design, development, and user research. Provide product vision and strategy for my teams as we build NOW//with’s shoppable video entertainment API services and platforms. The platform contains several key products including but not limited to a universal checkout SDK, interactive video, social data mapping, and reporting/product ingestion tools for brands and talent.
 
