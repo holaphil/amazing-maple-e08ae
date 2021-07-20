@@ -5,12 +5,19 @@ sections:
   - section_id: hero
     type: section_hero
     title: Hola!
-    content: >
-      Thanks for stopping by my site, holaphil.com. Here you can view some of my
-      work, current interests, writing, or get in touch.
+    content: >+
+      Thanks for stopping by my personal website, holaphil.com. I spun this site
+      up using Jamstack, an architecture designed to make the web faster, more
+      secure, and easier to scale. If you're a closet nerd like me or just
+      curious, you can learn more about Jamstack here.
 
 
-      Some very brief background for context:
+      I am a multi-disciplined product leader, founder, and creator with over 20
+      years experience building new products and brands across both startup and
+      corporate environments. If you are here to check out my work, you'll find
+      a subset of that work here. Alternatively you can view some of the 
+      startups I've either founded or helped build here.
+
     actions:
       - label: Learn More
         url: /contact
