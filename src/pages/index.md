@@ -42,9 +42,11 @@ sections:
     grid_items:
       - title: Solve problems
         content: >
-          With a background in **UX Design**, **Marketing**, and **Product
-          Management**, I've spent my entire career figuring out better more
-          creative ways to solve complex problems.
+          With **15+ years working in Product Management roles**, I've spent a
+          majority of my career managing products in collaboration with
+          engineers, data analysts, designers and researchers to identify the
+          best most creative ways to solve complex problems for our clients and
+          customers.
       - title: Unify teams
         content: >
           Throughout my career I have had the pleasure building teams as an
