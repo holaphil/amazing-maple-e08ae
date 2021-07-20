@@ -1,7 +1,7 @@
 ---
 title: Experience
 subtitle: >-
-  Over the last 20+ years, my experience comes from building new products and
+  Over the last 20+ years, my experience comes from building new products /
   brands across both startup & corporate environments. A majority of those
   experiences are listed below in resume form. Should you wish to learn more
   about specific problems I worked to solve, achievements, or outcomes, simply
