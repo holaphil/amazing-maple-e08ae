@@ -14,7 +14,7 @@ sections:
       house.
 
 
-      **It was time to time to build my own house.**
+      **The time has come to build my own house.**
 
       Take a tour by simply scrolling down or selecting any of the nav items
       above. Lastly, as with any new house, there is plenty of work to do. If
