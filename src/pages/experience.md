@@ -107,7 +107,7 @@ September 2013 -  August 2015 in New York, NY
 
 [**WellcomeMat**](https://www.wellcomemat.com/)<BR>
 Co-Founder, Head of Product & Marketing<BR>
-2005 -  2013 in New York, NY
+2006 -  2013 in New York, NY
 
 *   Owned product roadmap of Tremor’s DSP service working with 25+ engineers and designers located in Singapore, San Francisco, New York and Boston.
 
