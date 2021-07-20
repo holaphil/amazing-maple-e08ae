@@ -51,7 +51,7 @@ September 2019 - Present in New York, NY
 
 [Learn more here](/portfolio/project-1/)
 
-****[**Verizon Media**](https://www.verizonmedia.com/)
+[**Verizon Media**](https://www.verizonmedia.com/)
 Director of Product, Innovation
 December 2018 - September 2019 in New York, NY
 
