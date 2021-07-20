@@ -16,6 +16,7 @@ sections:
 
       **It was time to time to build my own house.**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TBzA0zdtkJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       Take a tour by simply scrolling down or selecting any of the nav items
       above. Lastly, as with any new house, there is plenty of work to do. My
