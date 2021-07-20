@@ -35,7 +35,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: What doI enjoy about the work?
+    title: What do I enjoy about the work?
     subtitle: i.e. What are my superpowers?
     col_number: two
     is_numbered: true
