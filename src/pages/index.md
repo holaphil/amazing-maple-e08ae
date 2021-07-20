@@ -7,10 +7,12 @@ sections:
     title: It's time to build your own house
     content: >
       If you look around the web, you may notice every place you exist, your
-      content and data is stored on a platform you do not own. Of course there
-      is purpose, value, and intent for existing on these third party platforms;
-      however, at the end of the day you are still living in someone else's
-      house.
+      content and data is stored on a platform you do not own. Of course these
+      third party platforms provide purpose and value; however, at the end of
+      the day you are still living in someone else's house.
+
+
+      holaphil is my house
 
 
       Take a tour by simply scrolling down or selecting any of the nav items
