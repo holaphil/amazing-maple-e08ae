@@ -8,8 +8,9 @@ sections:
     content: >
       Thanks for stopping by my personal website, holaphil.com. I spun this site
       up using Jamstack, an architecture designed to make the web faster, more
-      secure, and easier to scale. If you're a closet nerd like me or just
-      curious, you can learn more about Jamstack here. 
+      secure, and easier to scale. What's not to love about that! If you're a
+      closet nerd like me or just curious, you can learn more about Jamstack
+      here.
 
 
       Now that we got that part out of the way, why build your own website?
