@@ -41,8 +41,9 @@ sections:
     is_numbered: true
     grid_items:
       - title: Solve problems with creative solutions
-        content: |
-          I seek out problems and love a great challenge. 
+        content: >
+          With a background in UX and Design combined with the technical
+          proficiency to solve problems, I and love a great challenge.
       - title: Unify teams
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
