@@ -27,7 +27,7 @@ sections:
         type: action
   - section_id: latest-projects
     type: section_portfolio
-    layout_style: tiles
+    layout_style: mosaic
     title: Recent Roles
     subtitle: >-
       A few of my most recent and work experience. Select “Work” in main
