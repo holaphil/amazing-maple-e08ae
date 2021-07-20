@@ -140,6 +140,6 @@ Design Engineer<BR>
 2000 - 2002 in Philadephia, PA
 
 [**eBay (GSI Commerce)**](https://www.ebay.com/)<BR>
-Design Engineer<BR>
-2000 - 2002 in Philadephia, PA
+Designer<BR>
+1999 - 2000 in King of Prussia, PA
 #
