@@ -31,7 +31,7 @@ seo:
       relativeUrl: true
 template: page
 ---
-Writing about yourself is not too dissimilar from recording your own outbound voicemail message (remember those!?). Overthink it, and you're left recording again and again and again. Then there's the grammar part: Do you write in first person (I did this, I did that) or third person (he did this, he did that) — as if you are being introduced to a crowd? Either way, you don’t want to come off as a bragger — at least I don't. But then what story is there to tell if you are 100% humble? How does one adjust the EQ to match the IQ? As with the voicemail example, I think the lesson is to not overthink it — your first take is almost always the best one.
+Writing about yourself is not too dissimilar from recording your own outbound voicemail message (remember those!?). Overthink it, and you're left recording again and again and again. Then there's the grammar part: Do you write in first person (I did this, I did that) or third person (he did this, he did that) — as if you are being introduced to a crowd? Either way, you don’t want to come off as a bragger — at least I don't. But then what story is there to tell if you are 100% humble? How does one adjust the EQ to match the IQ? As with the voicemail example, my best advice is to not overthink it — your first take is almost always the best one.
 
 So here is goes...
 
