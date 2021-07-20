@@ -23,7 +23,7 @@ sections:
       of place or broken – I will fix it in due time!
 
 
-      *PS\* Continuing the house analogy, you need tools to build. I built
+      *PS Continuing the house analogy, you need tools to build. I built
       holaphil.com using an architecture called **Jamstack**. Designed to make
       the web faster, more secure, and easier to scale, Jamstack is what helps
       these pages load incredibly fast. What's not to love about that! If you're
