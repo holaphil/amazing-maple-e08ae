@@ -121,7 +121,7 @@ Co-Founder, Head of Product & Marketing<BR>
 
 [**NYTVF**](https://www.nytvf.com/)<BR>
 Creative Director<BR>
-2005 in New York, NY
+2005 - 2007 in New York, NY
 
 *   Co-founded the world’s first SAAS based video platform for real estate.
 
