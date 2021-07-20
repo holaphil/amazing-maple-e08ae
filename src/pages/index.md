@@ -58,7 +58,7 @@ sections:
           a requirement. I make the time necessary to appreciate the challenges
           they face so that, together with our entire team, we build the right
           products that serve the best interest of our customers. Happy
-          customers equal happy investors.
+          customers equal happy clients, partners, investors.
       - title: Build brands
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
