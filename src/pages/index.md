@@ -53,10 +53,9 @@ sections:
           to develop, launch, and market products that deliver immediate
           business value.
       - title: Stand up for the customer
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          Empathy for the customer or client is not a nice to have, it's a
+          requirement. 
       - title: Build brands
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
