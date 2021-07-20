@@ -101,7 +101,7 @@ September 2013 -  August 2015 in New York, NY
 
 *   Served as voice of the customer for ad trafficking team building new features to improve platform audience management, viewability, inventory, and cross-device targeting.
 
-<mark>[**Learn more here**](/portfolio/project-5/)</mark>
+<mark>[**Learn more here**](/portfolio/project-6/)</mark>
 
 <HR>
 
@@ -115,6 +115,6 @@ Co-Founder, Head of Product & Marketing<BR>
 
 *   Designed and patented one of the web’s first cloud-based interactive video players.
 
-<mark>[**Learn more here**](/portfolio/project-6/)</mark>
+<mark>[**Learn more here**](/portfolio/project-7/)</mark>
 
 #
