@@ -44,7 +44,7 @@ sections:
     grid_items:
       - title: Solve problems
         content: >
-          With over 20 years experience (**15 years working in Product
+          With over 20+ years experience (**15 years working in Product
           Management roles**), I've spent a majority of my career working in
           collaboration with engineers, data analysts, designers, and
           researchers to identify the best most creative ways to solve complex
