@@ -49,7 +49,7 @@ September 2019 - Present in New York, NY
 
 *   The platform contains several key products including but not limited to a universal checkout SDK, interactive video, social data mapping, and reporting/product ingestion tools for brands and talent.
 
-[Learn more here](/portfolio/project-1/)
+[**Learn more here**](/portfolio/project-1/)
 
 <HR>
 
@@ -63,6 +63,6 @@ December 2018 - September 2019 in New York, NY
 
 *   Founding member of Verizon Media's Innovation Council, a task force empowered by our CEO  to help spotlight, develop and grow internal product innovation across the entire organization.
 
-[Learn more here](/portfolio/project-2/)
+[**Learn more here**](/portfolio/project-2/)
 
 #
