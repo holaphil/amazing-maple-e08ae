@@ -63,9 +63,10 @@ sections:
           Happy customers equal happy clients, partners, investors.
       - title: Build brands
         content: >
-          Having both built and grown new startups as well as packaged together
-          and managed the launch of new products and services, I know what is
-          required to build a brand that connects with an audience.
+          Having built, launched, and then grown new startups as well as
+          packaged together and managed the launch of new products and services,
+          I know what is required to build a brand that connects with an
+          audience.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
