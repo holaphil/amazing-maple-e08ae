@@ -36,7 +36,7 @@ sections:
   - section_id: services
     type: section_grid
     title: What doI enjoy about the work?
-    subtitle: What are my superpowers?
+    subtitle: i.e. What are my superpowers?
     col_number: two
     is_numbered: true
     grid_items:
