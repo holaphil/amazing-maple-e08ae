@@ -1,9 +1,6 @@
 ---
 title: Experience
-subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+subtitle: "I am a multi-disciplined product leader, founder, and creator with over 20 years experience building new products and brands across both startup and corporate environments. If you are here to check out my work, you'll find a subset of that work here. Alternatively you can view some of the\_ startups I've either founded or helped build here."
 image_alt: lorem-ipsum
 seo:
   title: Theme Style Guide
