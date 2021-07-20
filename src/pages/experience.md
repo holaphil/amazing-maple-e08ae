@@ -49,7 +49,7 @@ September 2019 - Present in New York, NY
 
 *   The platform contains several key products including but not limited to a universal checkout SDK, interactive video, social data mapping, and reporting/product ingestion tools for brands and talent.
 
-[Learn more here](/portfolio/project1.html)
+[Learn more here](/portfolio/project-1/)
 
 [**NOW//with**](https://nowwith.com/)
 Chief Product Officer
