@@ -3,7 +3,8 @@ title: Experience
 subtitle: >-
   Over the last 20+ years, my experience comes from building new products and
   brands across both startup and corporate environments. A majority of those
-  experiences are listed below.
+  experiences are listed below in resume form. Should you wish to learn more
+  about my specific experiences, achievements
 image_alt: lorem-ipsum
 seo:
   title: Theme Style Guide
