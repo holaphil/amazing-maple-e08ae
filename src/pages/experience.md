@@ -128,7 +128,7 @@ Freelance Art Director<BR>
 2004 - 2005 in New York, NY
 
 [**Razorfish**](https://www.razorfish.com/)<BR>
-Creative Director<BR>
+Innovation Manager<BR>
 2005 - 2007 in New York, NY
 
 
