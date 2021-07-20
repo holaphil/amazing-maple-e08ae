@@ -31,7 +31,7 @@ sections:
     title: Recent Roles
     subtitle: >-
       A few of my most recent and work experience. Select “Work” in main
-      navigation to view them all.
+      navigation to view other roles.
     projects_number: 2
     view_all_label: View All
     view_all_url: portfolio
