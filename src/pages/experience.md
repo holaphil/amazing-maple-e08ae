@@ -5,7 +5,7 @@ subtitle: >-
   new products and brands across both startup and corporate environments. A
   majority of those experiences are listed below. Alternatively, if you wish to
   view some of my work building brands, teams, and startup, you'll find that
-  work [**eBay (GSI Commerce)**](https://www.ebay.com/)here.
+  work [**here)**](https://www.ebay.com/).
 image_alt: lorem-ipsum
 seo:
   title: Theme Style Guide
