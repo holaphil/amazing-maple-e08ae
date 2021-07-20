@@ -124,6 +124,5 @@ Creative Director<BR>
 2005 - 2007 in New York, NY
 
 
-<mark>[**Learn more here**](/portfolio/project-7/)</mark>
 
 #
