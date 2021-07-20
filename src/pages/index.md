@@ -7,15 +7,16 @@ sections:
     title: Hola!
     content: >
       Thanks for stopping by my personal website, **holaphil.com**. If you look
-      around the web, you may notice every place you exist (that is your data)
-      is on a platform you do not own. Of course there is purpose, value, and
-      intent living on these third party platforms; however, you are living in
-      someone else's house.
+      around the web, you may notice every place you exist (that is your content
+      and data) is stored on a platform you do not own. Of course there is
+      purpose, value, and intent for existing on these third party platforms;
+      however, at the end of the day you are still living in someone else's
+      house.
 
 
-      **It was time to time to build my own house. **With any new house, there
-      is plenty of work to do. My apologies if something is out of place or
-      broken I will fix it in time! For now, take a tour by scrolling down or
+      \*\*It was time to time to build my own house. \*\*With any new house,
+      there is plenty of work to do. My apologies if something is out of place
+      or broken I will fix it in time! For now, take a tour by scrolling down or
       selecting any of the navigational topics that interest you.
 
 
