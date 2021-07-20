@@ -46,10 +46,9 @@ sections:
           my entire career figuring out better more useful ways to solve complex
           problems.
       - title: Unify teams
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          Throughout my career I have had the pleasure building teams as an
+          Entrepreneur and connecting teams as an Intrapreneur.
       - title: Stand up for the customer
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
