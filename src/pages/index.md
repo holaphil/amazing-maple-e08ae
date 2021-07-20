@@ -15,7 +15,7 @@ sections:
       **holaphil.com is my house**. Here you will find a resources and
       information related to my 20+ years of experience building brands,
       products, and services. Take a tour by simply scrolling further down or
-      selecting any of the nav items above.
+      selecting any of the nav items above. Thanks for visiting!
 
 
       PS — this website is built using an architecture called **Jamstack**.
