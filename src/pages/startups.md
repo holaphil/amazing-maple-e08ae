@@ -18,7 +18,9 @@ Supporting many of world’s leading real estate brands, WellcomeMat’s video p
 
 Learn More
 
-![](images/1.jpg)
+
+
+
 
 # Product Council
 
