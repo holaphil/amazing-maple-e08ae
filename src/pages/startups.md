@@ -1,7 +1,7 @@
 ---
 title: Startups
 subtitle: >-
-  The following is a list of brand and startups I had a hand in helping to
+  The following is a list of brand and startups I've had a hand in helping
   build, launch and grow over the years.
 image_alt: lorem-ipsum
 seo:
