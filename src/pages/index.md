@@ -16,7 +16,7 @@ sections:
       Now that we got that part out of the way, let's get started.
     actions:
       - label: View Work
-        url: /contact
+        url: /work
         style: button
       - label: Let's Talk
         url: '#'
