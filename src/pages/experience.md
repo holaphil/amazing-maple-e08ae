@@ -65,7 +65,7 @@ December 2018 - September 2019 in New York, NY
 
 <mark>[**Learn more here**](/portfolio/project-2/)</mark>
 
-\<HR>
+<HR>
 
 [**Verizon Media**](https://www.verizonmedia.com/)<BR>
 Principle Product Manager, Innovation<BR>
