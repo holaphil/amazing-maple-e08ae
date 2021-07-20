@@ -54,8 +54,10 @@ sections:
           business value.
       - title: Stand up for the customer
         content: >
-          Empathy for the customer or client is not a nice to have, it's a
-          requirement. 
+          Empathy for the user (customer or client) is not a nice to have, it's
+          a requirement. I make the time necessary to appreciate the challenges
+          they face so that, together with our entire team, we build products
+          that serve our customers.
       - title: Build brands
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
