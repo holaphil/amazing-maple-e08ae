@@ -94,10 +94,11 @@ September 2015 -  August 2017 in New York, NY
 
 [**Tremor Video**](https://www.tremorvideo.com/)<BR>
 Senior Product Manager, Ad Formats<BR>
-September 2015 -  August 2017 in New York, NY
+September 2013 -  August 2015 in New York, NY
 
-*   Oversaw design & development of all video (VPAID/VAST) + interactive ad experiences.
-    Managed team of 10 designers, developers and QA technicians
+*   Owned product roadmap of Tremor’s DSP service working with 25+ engineers and designers located in Singapore, San Francisco, New York and Boston.
+Served as voice of the customer for ad trafficking team building new features to improve platform audience management, viewability, inventory, and cross-device targeting.
+
 
 *   Initiated first user research programs which led to the development and launch of several new native ad products in the mobile payments and interactive video space.
 
