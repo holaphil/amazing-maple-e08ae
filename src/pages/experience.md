@@ -93,7 +93,7 @@ September 2015 -  August 2017 in New York, NY
 <HR>
 
 [**Tremor Video**](https://www.tremorvideo.com/)<BR>
-Principle Product Manager, Ad Formats<BR>
+Senior Product Manager, Ad Formats<BR>
 September 2015 -  August 2017 in New York, NY
 
 *   Oversaw design & development of all video (VPAID/VAST) + interactive ad experiences.
