@@ -42,8 +42,8 @@ sections:
     grid_items:
       - title: Solve problems with creative solutions
         content: >
-          With a background in UX and Design combined with the technical
-          proficiency to solve problems, I and love a great challenge.
+          With a background in UX and Design and Product Management, I solve
+          problems
       - title: Unify teams
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
