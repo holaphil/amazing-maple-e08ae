@@ -31,7 +31,7 @@ seo:
       relativeUrl: true
 template: page
 ---
-UGH!! This is the part of my website I like the least. It's not too dissimilar from recording your own outbound voicemail message. Overthink it, and you're left recording again and again. Do you write this in first or third person? You don’t want to come off as a bragger, however, what story is there to tell if you are 100% humble? How does one manage those dials? As with the voicemail example, I think the lesson is to not overthink it -- your first take is almost always the best one.
+UGH!! This is the part of my website I like the least. Writing and “About Me“ section is not too dissimilar from recording your own outbound voicemail message. Overthink it, and you're left recording again and again. Do you write this in first or third person? You don’t want to come off as a bragger, however, what story is there to tell if you are 100% humble? How does one manage those dials? As with the voicemail example, I think the lesson is to not overthink it -- your first take is almost always the best one.
 
 Onward! Here it goes...
 
