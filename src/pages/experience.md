@@ -67,7 +67,7 @@ December 2018 - September 2019 in New York, NY
 
 \<HR>
 
-Verizon Media<BR>
+[**Verizon Media**]<BR>
 Principle Product Manager, Innovation\<BR>
 September 2017 -  November 2018 in New York, NY
 
