@@ -1,6 +1,8 @@
 ---
 title: Startups
-subtitle: "The following is a\_ list of brand and startups I had a hand in helping to build, launch and grow over the years."
+subtitle: >-
+  The following is a list of brand and startups I had a hand in helping to
+  build, launch and grow over the years.
 image_alt: lorem-ipsum
 seo:
   title: ''
