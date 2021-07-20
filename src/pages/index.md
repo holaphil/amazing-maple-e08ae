@@ -40,7 +40,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Solve problems with creative solutions
+      - title: Solve problems
         content: >
           With a background in UX and Design and Product Management, I solve
           problems
