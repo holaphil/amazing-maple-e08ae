@@ -66,6 +66,7 @@ sections:
           either case, I am well versed on the types of collaboration required
           to develop, launch, and market products that deliver immediate
           business value.
+        image_alt: Unify Teams
       - title: Stand up for the customer
         content: >
           **Empathy** for the user (customer or client) is not a nice to have,
