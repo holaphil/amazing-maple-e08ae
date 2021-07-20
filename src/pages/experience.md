@@ -136,7 +136,7 @@ Web Design Manager<BR>
 2002 - 2003 in Philadephia, PA
 
 [**Digitas Health**](https://www.digitashealth.com/)<BR>
-Web Design Manager<BR>
+Design Engineer<BR>
 2002 - 2002 in Philadephia, PA
 
 
