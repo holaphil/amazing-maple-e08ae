@@ -31,7 +31,7 @@ seo:
       relativeUrl: true
 template: page
 ---
-**This is the part of creating your own personal website that I like the least.** Writing about yourself is not too dissimilar from recording your own outbound voicemail message. Overthink it, and you're left recording again and again and again. Do you write in first or third person (as if you are being introduced to a crowd)? Regardless, you don’t want to come off as a bragger — at least I don't. That said, what story is there to tell if you are 100% humble? How does one adjust those dials just right? As with the voicemail example, I think the lesson is to not overthink it — your first take is almost always the best one.
+**This is the part of creating your own personal website that I like the least.** Writing about yourself is not too dissimilar from recording your own outbound voicemail message. Overthink it, and you're left recording again and again and again. Do you write in first person (like Ozzy Ozborne) or third person (as if you are being introduced to a crowd)? Regardless, you don’t want to come off as a bragger — at least I don't. That said, what story is there to tell if you are 100% humble? How does one adjust those dials just right? As with the voicemail example, I think the lesson is to not overthink it — your first take is almost always the best one.
 
 Onward!
 
