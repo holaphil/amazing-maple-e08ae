@@ -7,7 +7,7 @@ sections:
     title: Hola!
     content: >
       Thanks for stopping by my site, holaphil.com. Here you can view some of my
-      work, current interests, writing, or just say hola!
+      work, current interests, writing, or get in touch.
 
 
       Some very brief background for context:
