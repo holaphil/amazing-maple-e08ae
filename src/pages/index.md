@@ -113,7 +113,7 @@ sections:
     posts_number: 3
     col_number: three
     actions:
-      - label: View Blog
+      - label: Read More
         url: blog
         style: button
 seo:
