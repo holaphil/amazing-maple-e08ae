@@ -5,7 +5,7 @@ date: '2021-07-16'
 thumb_image: images/portrait-logo-nowwith.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/image-nowwith-chief-product-officer.jpg
-image_alt: 'White, black, and red shoe sole'
+image_alt: NOW//with
 seo:
   title: Project Title 1
   description: This is the project 1 description
