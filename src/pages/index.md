@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hola, my name is Phil.'
+    title: Hola!
     content: >
       Thanks for stopping by. You're probably here for one of three reasons
 
