@@ -1,6 +1,8 @@
 ---
 title: Experience
-subtitle: "I am a multi-disciplined product leader, founder, and creator with over 20 years experience building new products and brands across both startup and corporate environments. If you are here to check out my work, you'll find a subset of that work here. Alternatively you can view some of the\_ startups I've either founded or helped build here."
+subtitle: >-
+  Over the last 20+ years, I have focused my energy gaining experience building
+  new products and brands across both startup and corporate environments.
 image_alt: lorem-ipsum
 seo:
   title: Theme Style Guide
