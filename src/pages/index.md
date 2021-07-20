@@ -15,7 +15,7 @@ sections:
 
       Now that we got that part out of the way, let's get started.
     actions:
-      - label: View Work
+      - label: View My Work
         url: /portfolio
         style: button
       - label: Talk to Me
