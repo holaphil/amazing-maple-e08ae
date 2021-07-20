@@ -14,10 +14,13 @@ sections:
       house.
 
 
-      \*\*It was time to time to build my own house. \*\*With any new house,
-      there is plenty of work to do. My apologies if something is out of place
-      or broken I will fix it in time! For now, take a tour by scrolling down or
-      selecting any of the navigational topics that interest you.
+      **It was time to time to build my own house.**
+
+
+      With any new house, there is plenty of work to do. My apologies if
+      something is out of place or broken I will fix it in time! For now, take a
+      tour by scrolling down or selecting any of the navigational topics that
+      interest you.
 
 
       PS\* Continuing the house analogy, every new house needs tools. I created
