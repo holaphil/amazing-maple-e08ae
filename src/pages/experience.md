@@ -2,11 +2,11 @@
 title: Experience
 subtitle: >-
   Over the last 20+ years, my experience comes from building new products and
-  brands across both startup and corporate environments. A majority of those
+  brands across both startup & corporate environments. A majority of those
   experiences are listed below in resume form. Should you wish to learn more
-  about the problems I worked to solve, achievements, and/or outcomes, simply
-  select the highlighted text under each role and you will be provided with
-  those details.
+  about the specific problems I worked to solve, achievements, and/or outcomes,
+  simply select the highlighted text under each role and you will be provided
+  with those details.
 image_alt: lorem-ipsum
 seo:
   title: Theme Style Guide
