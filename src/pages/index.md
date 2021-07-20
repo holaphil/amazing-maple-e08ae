@@ -52,6 +52,13 @@ sections:
           experience turning a novel idea into an innovative product.
         image_alt: Solve Problems
         actions: []
+      - title: Stand up for the customer
+        content: >
+          **Empathy** for the user (customer or client) is not a nice to have,
+          it **is a requirement**. I make the time necessary to appreciate the
+          challenges they face so that, together with our entire team, we build
+          the right products that serve the best interest of our customers.
+          Happy customers equal happy clients, partners, investors.
       - title: Unify teams
         content: >
           Throughout my career I have had the pleasure building teams and
@@ -61,13 +68,6 @@ sections:
           launch, and market products that deliver immediate value for both a
           business and its customers.
         image_alt: Unify Teams
-      - title: Stand up for the customer
-        content: >
-          **Empathy** for the user (customer or client) is not a nice to have,
-          it **is a requirement**. I make the time necessary to appreciate the
-          challenges they face so that, together with our entire team, we build
-          the right products that serve the best interest of our customers.
-          Happy customers equal happy clients, partners, investors.
       - title: Build brands
         content: >
           Having managed the branding and marketing of several **early stage
