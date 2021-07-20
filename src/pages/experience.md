@@ -51,8 +51,8 @@ September 2019 - Present in New York, NY
 
 [Learn more here](/portfolio/project-1/)
 
-[**NOW//with**](https://nowwith.com/)
-Chief Product Officer
+[**NOW//with**](https://nowwith.com/)<BR>
+Chief Product Officer<BR>
 September 2019 - Present in New York, NY
 
 Responsible for product innovation strategy and execution across emerging (VR, Audio, Connected Car) and growth (Commerce, Branded Content, Native Advertising) within Verizon Media’s premium sales business. Managed innovation programs for our Premium Sales business working within multiple departments across 50+ team members: design, engineering, marketing, operations, and sales. Founding member of Verizon Media's Innovation Council, a task force empowered by our CEO  to help spotlight, develop and grow internal product innovation across the entire organization.
