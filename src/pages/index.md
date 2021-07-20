@@ -17,10 +17,10 @@ sections:
       **It was time to time to build my own house.**
 
 
-      Take a tour by simply scrolling or selecting any of the navigational
-      topics here in the masthead above that interest you. Lastly, as with any
-      new house, there is plenty of work to do. My apologies if something is out
-      of place or broken – I will fix it in due time!
+      Take a tour by simply scrolling down or selecting any of the nav items
+      above. Lastly, as with any new house, there is plenty of work to do. My
+      apologies if something is out of place or broken – I will fix it in due
+      time!
 
 
       *PS Continuing the house analogy, you need tools to build. I built
