@@ -62,9 +62,9 @@ sections:
           the right products that serve the best interest of our customers.
           Happy customers equal happy clients, partners, investors.
       - title: Build brands
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Having both built and grown new startups as well as packaged together
+          and managed new products,
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
