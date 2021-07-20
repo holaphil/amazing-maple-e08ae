@@ -29,7 +29,7 @@ sections:
       here: https://jamstack.org/what-is-jamstack/
 
 
-      ![](images/signature.png)
+      ![](images/great-plankton.png)
     actions:
       - label: View My Work
         url: /portfolio
