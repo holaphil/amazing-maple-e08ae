@@ -110,12 +110,10 @@ Co-Founder, Head of Product & Marketing<BR>
 2006 -  2013 in New York, NY
 
 *   Co-founded the world’s first SAAS based video platform for real estate.
-Responsible for product development, design & marketing of WellcomeMat’s enterprise SAAS video products as well as all filmmaker/videographer outreach. 
+
+*   Responsible for product development, design & marketing of WellcomeMat’s enterprise SAAS video products as well as all filmmaker/videographer outreach. 
+
 Designed and patented one of the web’s first cloud-based interactive video players.
-
-
-
-*   Served as voice of the customer for ad trafficking team building new features to improve platform audience management, viewability, inventory, and cross-device targeting.
 
 <mark>[**Learn more here**](/portfolio/project-5/)</mark>
 
