@@ -139,7 +139,7 @@ Web Design Manager<BR>
 Design Engineer<BR>
 2000 - 2002 in Philadephia, PA
 
-[**Digitas Health**](https://www.digitashealth.com/)<BR>
+[**GSI Commerce**](https://www.digitashealth.com/)<BR>
 Design Engineer<BR>
 2000 - 2002 in Philadephia, PA
 #
