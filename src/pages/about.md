@@ -31,9 +31,9 @@ seo:
       relativeUrl: true
 template: page
 ---
-Writing about yourself is the hardest part. Do you write this in first or third person? You don’t want to come off as a bragger, however, what story is there to tell if you are 100% humble? How does one manage those dials? 
+Writing about yourself is the hardest part. Do you write this in first or third person? You don’t want to come off as a bragger, however, what story is there to tell if you are 100% humble? How does one manage those dials?
 
-I’ve built a startup. I have launched several brands. I have done work that was considered 'innovative' inside large corporate organizations. But what gives me the right to claim any of that as my own? Perhaps this is the point -- everything I have ever done has been a result of working with and/or managing the work of others beside only myself. 
+I’ve built two startups. I have launched several brands. I have done work that was considered 'innovative' inside large corporate organizations. But what gives me the right to claim any of that as my own? Perhaps this is the point -- everything I have ever done has been a result of working with and/or managing the work of others beside only myself.
 
 That said, this About Me might be useful to you. So out of respect, I’ll try to be as honest and forthright as possible. If you can not tell your own story, how can you be expected to help with someone else’s?
 
