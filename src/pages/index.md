@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Hola!
-    content: >+
+    content: >
       Thanks for stopping by my personal website, **holaphil.com**. If you look
       around the web, you may notice every place you exist (that is your content
       and data) is stored on a platform you do not own. Of course there is
@@ -18,8 +18,7 @@ sections:
 
       Take a tour by simply scrolling down or selecting any of the nav items
       above. Lastly, as with any new house, there is plenty of work to do.
-      Conversely, if you encounter any issues, contact me here so I can fix it.
-
+      Conversely, if you encounter any issues, contact me below so I can fix it.
     actions:
       - label: View My Work
         url: /portfolio
