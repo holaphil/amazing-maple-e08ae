@@ -13,14 +13,16 @@ sections:
       someone else's house.
 
 
-      It was time to time to build my own house.
+      It was time to time to build my own house. With any new house, there is
+      plenty of work to do. I'll get to that in due time. For now, the rooms are
+      here for you to tour: 
 
 
-      I created this site for I spun this site up using Jamstack, an
-      architecture designed to make the web faster, more secure, and easier to
-      scale. What's not to love about that! If you're a closet nerd like me or
-      just curious, you can learn more about
-      [Jamstack](https://jamstack.org/what-is-jamstack/) here.
+      PS\* Continuing the house analogy, every new house needs tools. I created
+      this site using an architecture called Jamstack. Jamstack is designed to
+      make the web faster, more secure, and easier to scale. What's not to love
+      about that! If you're a closet nerd like me or just curious, you can learn
+      more about [Jamstack](https://jamstack.org/what-is-jamstack/) here.
 
 
       Now that we got that part out of the way, let's get started.
