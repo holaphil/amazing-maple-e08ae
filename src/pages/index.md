@@ -32,7 +32,7 @@ sections:
     subtitle: >-
       A few of my most recent and work experience. Select “Work” in main
       navigation to view other roles.
-    projects_number: 2
+    projects_number: 3
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
