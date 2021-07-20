@@ -31,7 +31,7 @@ sections:
     title: Recent Roles
     subtitle: Select “Work” in main navigation to view other roles.
     projects_number: 2
-    view_all_label: View All Work
+    view_all_label: VIEW ALL WORK
     view_all_url: portfolio
   - section_id: services
     type: section_grid
