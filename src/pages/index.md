@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Maybe it's time to build your own house.
+    title: Is it time to build your own house?
     content: >
       Look around the web and you'll notice that every place we exist, we do so
       by sharing content and data stored on other people's platforms (e.g.
