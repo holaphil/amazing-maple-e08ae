@@ -14,13 +14,15 @@ template: page
 ---
 ## WellcomeMat.com
 
+![](images/panoramic-tomato.jpg)
+
 **WellcomeMat was born in a garage (yes a real garage) back in 2005.** I co-founded the company and spent six years running product and marketing while managing develop and design teams based in Boulder, CO and Brooklyn, NY. WellcomeMat’s video platform helps real estate brokers, agents, and brands create and intelligently share unique local content told through the power of video. At the time of our launch, online video was just beginning to grow in popularity with YouTube having launched just a few months earlier.
 
 Today, WellcomeMat and our team support video strategies for thousands of real agents and many of world’s leading real estate brands,
 
-![](images/panoramic-tomato.jpg)
-
 Learn More
+
+
 
 ## Product Council
 
@@ -34,11 +36,17 @@ Learn More
 
 # Pegshot
 
+![](images/portrait-image-pegshot.jpg)
+
+****
+
 **Pegshot is a mobile startup I co-founded in 2009.** The idea for this business came as a result of a mobile video service our team initially built for Wellcomemat. At the time, I had been working with the team to develop a mobile app for our users to shoot video and then upload on WellcomeMat. Videos could be tagged immediately with relevant local MLS information and then shared online. With Pegshot, we simply broadened the concept to support video AND photos tagged to places as opposed to property.
 
 While **Pegshot** received early support and accolades, over time the platform became overcome by similar services (e.g. Instagram) with more investment and a larger consumer base. Consequently, we elected to shuttered the business early 2011 to focus on **WellcomeMat** and a new video service we had been exploring called **Framesocket**.
 
-![](images/portrait-image-pegshot.jpg)
+Learn More
+
+
 
 # Framesocket
 
