@@ -4,7 +4,7 @@ subtitle: 'Ideas, inspiration, and other riffing about... as I get around to it.
 hide_title: false
 col_number: three
 seo:
-  title: Holaphil / Writing
+  title: Phil Thomas DiGiulio / Writing
   description: This is the blog page
   extra:
     - name: 'og:type'
