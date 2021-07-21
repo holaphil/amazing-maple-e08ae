@@ -14,7 +14,7 @@ template: page
 ---
 ## WellcomeMat.com
 
-WellcomeMat was born in a garage (yes a real garage) back in 2005. I co-founded the company and spent six years running product and marketing while managing develop and design teams based in Boulder, CO and Brooklyn, NY. WellcomeMat’s video platform helps real estate brokers, agents, and brands create and intelligently share unique local content told through the power of video. At the time of our launch, online video was just beginning to grow in popularity with YouTube having launched just a few months earlier.
+**WellcomeMat was born in a garage (yes a real garage) back in 2005.** I co-founded the company and spent six years running product and marketing while managing develop and design teams based in Boulder, CO and Brooklyn, NY. WellcomeMat’s video platform helps real estate brokers, agents, and brands create and intelligently share unique local content told through the power of video. At the time of our launch, online video was just beginning to grow in popularity with YouTube having launched just a few months earlier.
 
 Today, WellcomeMat and our team support video strategies for thousands of real agents and many of world’s leading real estate brands,
 
@@ -24,7 +24,7 @@ Learn More
 
 ## Product Council
 
-I founded the Product Council in 2013. The inspiration came to me after spending multiple years in the NYC startup community. Over time I discovered that many if not most startup themed events targeted how startups are funded, as opposed to how their products are made. I wanted to spotlight how startups (and also larger funded businesses) build great products.
+**I founded the Product Council in 2013.** The inspiration came to me after spending multiple years in the NYC startup community. Over time I discovered that many if not most startup themed events targeted how startups are funded, as opposed to how their products are made. I wanted to spotlight how startups (and also larger funded businesses) build great products.
 
 Today, Product Council has over 1,500 members and continues to host events in support of designers, entrepreneurs, and product managers gathering to share and solve product challenges.
 
