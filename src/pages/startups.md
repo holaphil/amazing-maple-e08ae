@@ -46,7 +46,7 @@ Learn More
 
 # Framesocket
 
-![](images/image-framesocket.png)\*\*\*\*
+![](images/image-framesocket.png)
 
 **I helped co-found, build, and brand Framesocket in 2011** with my long time business partner, Christian Sterner. Framesocket was initially conceived out of the need to make it easier to develop our own video-based applications. Having developed a majority of the video services and solutions for WellcomeMat ourselves, we understood the challenges other developers and founders would face trying to tackle similar challenges. With Framesocket, we could help others who might want to build apps that leverage video, without having to create the whole backend from scratch.
 
