@@ -17,7 +17,7 @@ seo:
       value: This is the about us page
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/portrait-image-product-council.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
