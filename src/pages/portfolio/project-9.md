@@ -31,7 +31,7 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 template: project
-thumb_image: images/image-pegshot.jpg
+thumb_image: images/portrait-image-framesocket.jpg
 image: images/portrait-image-framesocket.jpg
 ---
 and is one of those examples of a Take a picture or video and instantly show off what's happening where you are with your mobile phone. Mobile Application Quickly Ties Photo & Video Content To Location Take a picture or video and instantly show off what's happening where you are with your mobile phone. Peg shots to places, events or brands + share them online!
