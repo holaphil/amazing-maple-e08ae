@@ -5,7 +5,7 @@ image: images/portrait-image-product-council.jpeg
 image_alt: A man taking a picture
 seo:
   title: Phil Thomas DiGiulio / About
-  description: This is the about us page
+  description: "I am a multi-disciplined product leader, founder, and brand builder with over 20\_years of experience successfully innovating within startups and large orgs."
   extra:
     - name: 'og:type'
       value: website
