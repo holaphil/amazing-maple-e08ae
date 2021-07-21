@@ -11,7 +11,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Phil Thomas DiGiulio / Writing
       keyName: property
     - name: 'og:description'
       value: This is the blog page
