@@ -53,7 +53,10 @@ seo:
       value: Phil Thomas DiGiulio / Contact
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: >-
+        Hola! Want to reach out and connect? Please fill the contact form below
+        and I'll get back to you asap. Alternatively, DM me via LinkedIn or
+        Twitter.
       keyName: property
     - name: 'twitter:card'
       value: summary
