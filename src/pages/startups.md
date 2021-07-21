@@ -16,7 +16,7 @@ template: page
 
 Supporting many of world’s leading real estate brands, WellcomeMat’s video platform helps real estate brokers, agents, and brands create and intelligently share unique local content told through the power of video.
 
-![](images/image-startups-wellcomemat.jpg)
+![](images/panoramic-tomato.jpg)
 
 Learn More
 
