@@ -22,13 +22,13 @@ Learn More
 
 ## Product Council
 
-I formed the Product Council in 2013. The inspiration came to me after spending multiple years in the NYC startup community. I found that many if not most startup themed events targeted how startups are funded, as opposed to how their products are made. I wanted to spotlight how startups (and also larger funded businesses) build great products.
+I formed the Product Council in 2013. The inspiration came to me after spending multiple years in the NYC startup community. I found that many if not most startup themed events targeted how startups are funded, as opposed to how their products are made. I wanted to spotlight how startups (and also larger funded businesses) build great products. Today, Product Council is an event series where designers, entrepreneurs, and product managers gather to solve the world’s greatest product challenges. 
 
 ![](images/image-startups-product-council.jpg)
 
-<mark>[Learn More](/portfolio/project-5)</mark>
+Learn More
 
-<http://cnn.com>
+
 
 # Pegshot
 
