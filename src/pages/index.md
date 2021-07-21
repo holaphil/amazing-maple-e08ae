@@ -7,9 +7,10 @@ sections:
     title: Hola!
     content: >
       **Welcome to holaphil.com**. Inside you will find resources and
-      information related to my 20+ years of experience building brands,
-      products, and services. Take a tour by simply scrolling further down or
-      selecting any of the nav items above.
+      information related to my 20+ years of experience building products and
+      managing teams inside organizations including startups (pre-seed, funded)
+      and larger corporate environments. Take a tour by simply scrolling further
+      down or selecting any of the nav items above.
 
 
       PS — *this website is built using an architecture called **Jamstack**.
