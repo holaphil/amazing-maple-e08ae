@@ -41,7 +41,7 @@ seo:
       value: images/13.jpg
       relativeUrl: true
 template: post
-thumb_image: images/image-holy-bible.jpg
+thumb_image: images/holaphil-blog-video-search.jpg
 image: images/holaphil-blog-video-search.jpg
 ---
 The following post is an original copy of a [post I wrote back in May of 2012](https://web.archive.org/web/20120626174517/http://holaphil.com/2012/04/11/video-its-whats-inside-that-counts/). These topics were later addressed during a panel I hosted later that month at NYC Internet Week 2012.
