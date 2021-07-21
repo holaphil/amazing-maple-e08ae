@@ -6,11 +6,11 @@ sections:
     type: section_hero
     title: Hola!
     content: >
-      **Welcome to holaphil.com**. Inside you will find resources and
-      information related to my 20+ years of experience building products and
-      managing teams inside organizations including startups (pre-seed, funded)
-      and larger corporate environments. Take a tour by simply scrolling further
-      down or selecting any of the nav items above.
+      **Welcome to holaphil.com**. I built this site to begin sharing resources,
+      ideas, and advice gathered from my 20+ years of experience building
+      products and managing teams inside organizations including startups
+      (pre-seed, funded) and larger corporate environments. Take a tour by
+      simply scrolling further down or selecting any of the nav items above.
 
 
       PS — *this website is built using an architecture called **Jamstack**.
