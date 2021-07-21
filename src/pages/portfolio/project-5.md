@@ -44,4 +44,4 @@ Today, Product Council is an event series where designers, entrepreneurs, and pr
 
 You can learn all about Product Council here at [productcouncil.org](https://productcouncil.org/).
 
-![](http://box2469.temp.domains/~garbarna/staging/wp-content/uploads/2021/06/test-NFINITY-PRO-HDX.jpg)![](https://secure.meetupstatic.com/photos/event/8/7/e/7/600\_435874791.jpeg)
+![](https://lh3.googleusercontent.com/p0o0A-yEMvBOp1oqAzjTW9qPBg9n8kYv1dy-kAGG4R4bgh479L9Fjl80umn3EAx6092f-XtO1TUHd2THuuI8MrGCGmfdYOAtiMn1OBa4ZS5dACVyUremONw7rfH9LdkWGPOnrccmGmM9vIxH26r24prmAMwbsKkfO5xPn9tX39GbAbetMW9mDQhUOTVzlUMop2lDYaeI2rKlZjD9Gd8EZZvehzuLT1CBA4nVc7n5KseAkbvFaxp6aEbSJd0j2XcAw0hFcF4JCQOz5bvwjj5BIckI1o-aXzNvWDXM0-4iZznVEIOZg7T3P5Oqt5iPRYdKwlpw-7JTUc5h0HCZ5VYEXzhVbMP2BjtCxVCnOc-CbDC44C19SAYfAUYGlHFcvuq_n0YT7iTkVoOThw\_70RiHuf17aTMYM4ouXUc-ycEQoJWiBXFTMewjLnEs34pAnOLwVuqFSiYFTViiXUnKi2hLGqwTTNqJsYrJI3WlY4K0Sn3srs1lA4UqC8Uek0S4F8ljh6htGuWOV8cA_LXuORzh40WFLw1JeYzgJfJp2slodM8vxtWo_stq1I3qtoF91XuGsOW5ja5BROBgLJwlV7-7SUdpwusTcdA-oDWmV5yX6foCzuQMYM6DK-v55Lkla6oTfbBzjA4uHTr8xqe9IoDn7sAyYHLLsxkYwRv2YAXeku-1U8Bq0W4b0XgiG-FijAjoG1fKp9nnbb\_\_wQcPK22h2vGs1A=w1024-h768-no?authuser=0)
