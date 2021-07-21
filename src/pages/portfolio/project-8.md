@@ -34,12 +34,11 @@ template: project
 thumb_image: images/portrait-logo-wellcomemat.png
 image: images/portrait-logo-wellcomemat.png
 ---
+and is one of those examples of a Take a picture or video and instantly show off what's happening where you are with your mobile phone. Mobile Application Quickly Ties Photo & Video Content To Location Take a picture or video and instantly show off what's happening where you are with your mobile phone. Peg shots to places, events or brands + share them online!
 
-Diam maecenas sed enim ut sem. Nisl purus in mollis nunc sed id semper. Dictum sit amet justo donec enim diam vulputate ut pharetra. Eget velit aliquet sagittis id consectetur purus ut. Auctor neque vitae tempus quam pellentesque nec. Sed enim ut sem viverra aliquet eget. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada. Enim tortor at auctor urna nunc id cursus. Fermentum et sollicitudin ac orci phasellus. Nunc non blandit massa enim nec dui. Cursus euismod quis viverra nibh cras pulvinar. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Dui vivamus arcu felis bibendum ut.
+Founded Pegshot, arguably the first location-based mobile photo and video sharing application available on the Apple iPhone.
 
-Sed risus pretium quam vulputate dignissim suspendisse in est. Vitae auctor eu augue ut lectus arcu. Tristique magna sit amet purus. Aliquet enim tortor at auctor urna nunc. Id leo in vitae turpis massa sed elementum tempus. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. Amet consectetur adipiscing elit duis tristique sollicitudin. Egestas sed sed risus pretium quam vulputate. Nunc eget lorem dolor sed viverra ipsum nunc. Consequat mauris nunc congue nisi vitae suscipit tellus. Fames ac turpis egestas maecenas pharetra convallis posuere morbi leo. Et ultrices neque ornare aenean euismod elementum nisi quis. Varius morbi enim nunc faucibus a pellentesque sit amet. Vitae proin sagittis nisl rhoncus mattis rhoncus urna. In mollis nunc sed id semper risus in hendrerit gravida.
-
->"Design is not a single object or dimension. Design is messy and complex." - Natasha Jen
+> "Design is not a single object or dimension. Design is messy and complex." - Natasha Jen
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tincidunt augue interdum velit euismod in. Justo laoreet sit amet cursus sit amet dictum sit. Viverra aliquet eget sit amet. Scelerisque varius morbi enim nunc faucibus a pellentesque sit. Lectus nulla at volutpat diam ut venenatis tellus. Nunc consequat interdum varius sit. Ultrices neque ornare aenean euismod elementum. Ante metus dictum at tempor commodo. Sed vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Etiam non quam lacus suspendisse faucibus interdum posuere lorem.
 
