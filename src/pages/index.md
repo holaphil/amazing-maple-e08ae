@@ -96,9 +96,7 @@ sections:
           Phil has a rare and special blend of being equal parts creative,
           imaginative and thought-provoking, combined with analytical, organized
           and disciplined in his work.
-      - author: >-
-          Jeff Turner, Entrepreneur In Residence Company NameSecond Century
-          Ventures
+      - author: 'Jeff Turner, Entrepreneur In Residence @ Second Century Ventures'
         avatar: images/image-jeff-turner.jpeg
         avatar_alt: Aubrey Hoover's photo
         content: >-
