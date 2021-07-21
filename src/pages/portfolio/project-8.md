@@ -1,6 +1,6 @@
 ---
 title: 'Co-Founder, Head of Product & Marketing — Pegshot'
-subtitle: 2009 - August 2011
+subtitle: 2009 - 2011
 date: '2018-01-15'
 thumb_image_alt: WellcomeMat
 image_alt: A black headphones on a yeallow background
