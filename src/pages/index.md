@@ -118,7 +118,7 @@ sections:
         style: button
 seo:
   title: holaphil.com
-  description: The preview of the Exto theme
+  description: Welcome to holaphil.com
   extra:
     - name: 'og:type'
       value: website
