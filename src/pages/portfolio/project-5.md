@@ -34,7 +34,7 @@ seo:
       relativeUrl: true
 template: project
 ---
-I formed the [**Product Council**](https://productcouncil.org/) in 2013 with my then co-host, [**Tami Reiss**](https://www.linkedin.com/in/tamireiss/). After investing many years traveling around the NYC startup community, I found that a majority of the product themed events focused on the business and viability of a startup. None focused on how products are made. The Product Council would become a vessel for spotlighting how startups (and also larger funded businesses) build great products. Motivated by the same interests, Tami and I organized and kicked off our first event back in August of 2013 at HUGE Agency in Brooklyn, NY. Supercharged coming off the success of our first event, we continued with additional events growing the Product Council to become one of the most lauded product themed events in NYC.
+I formed the [**Product Council**](https://productcouncil.org/) in 2013 with my then co-host, [**Tami Reiss**](https://www.linkedin.com/in/tamireiss/). After investing many years traveling around the NYC startup community, I found that a majority of the product themed events focused on the business and viability of a startup — none focused on how products are made. The Product Council would become a vessel for spotlighting how startups (and also larger funded businesses) build great products. Motivated by the same interests, Tami and I organized and kicked off our first event back in August of 2013 at HUGE Agency in Brooklyn, NY. Supercharged coming off the success of our first event, we continued with additional events growing the Product Council to become one of the most lauded product themed events in NYC.
 
 > Hands down the best place for product owners to get live, in-person feedback from experts in the field.”
 >
@@ -45,3 +45,4 @@ Today, Product Council is an event series where designers, entrepreneurs, and pr
 You can learn all about Product Council here at [productcouncil.org](https://productcouncil.org/).
 
 ![](images/portrait-image-product-council2.jpeg)
+
