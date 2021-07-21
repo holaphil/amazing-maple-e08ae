@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Is it time to build your own house?
+    title: Hola!
     content: >
       **Welcome to holaphil.com**. Thanks for stopping by! Inside you will find
       resources and information related to my 20+ years of experience building
