@@ -46,7 +46,9 @@ Learn More
 
 # Framesocket
 
-Coming soon...
+Framesocket was initially conceived out of the need to make it easier to develop our own video-based applications. Having developed a majority of the video services and solutions for WellcomeMat ourselves, we understood the challenges other developers and founders would face trying to do the same. With Framesocket, we could help others who might want to build apps that leverage video, without having to create the whole backend from scratch.
+
+I co-founded Framesocket in 2011 with my business partner and fellow founder, Christian Sterner. WellcomeMat was designed to make it easy for publishers to create video sites and reach a number of devices. 
 
 # New York Television Festival
 
