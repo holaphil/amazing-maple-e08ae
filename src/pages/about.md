@@ -31,4 +31,15 @@ seo:
       relativeUrl: true
 template: page
 ---
-I am a product leader, builder, innovator with over 20 years experience creating and managing products inside design and development organizations. Equally comfortable working with startups (pre/post seed, funded) and large corporate environments. Throughout my career I have served various roles working as a builder, founder and executive — in every case, facilitating the creation of products that deliver value to both customers and the business. Self-motivated, equally creative and technical, extremely detail oriented, and driven to deliver results.
+I am a multi-disciplined product leader, founder, and brand builder with over 20 years of experience successfully innovating within both startup and corporate environments. Throughout my career I have served various product and executive roles both as an Entrepreneur and an Intrapreneur — in every case, I have managed teams and products that deliver tangible value to both the customer and the business. I am self-motivated, equally creative and technical, extremely detail oriented, and driven by an insatiable desire to innovate and bring new ideas to life.
+
+
+\+ Video Platforms
+\+ User Experience Design
+\+ Ecommerce, DTC
+\+ CMS Publishing
+\+ Ad Creative & Authoring
+\+ Ad Trafficking
+\+ Analytics, Data
+\+ User Research
+\+ Video Production
