@@ -17,7 +17,7 @@ seo:
       value: This is the blog page
       keyName: property
     - name: 'og:image'
-      value: images/12.jpg
+      value: images/image-holy-bible.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
