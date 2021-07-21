@@ -1,6 +1,6 @@
 ---
 title: Creative Director — NYTVF
-subtitle: '2011'
+subtitle: 2005 - 2008
 date: '2018-01-15'
 thumb_image_alt: Pegshot
 image_alt: Framesocket
