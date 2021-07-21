@@ -52,11 +52,11 @@ While **Pegshot** received early support and accolades, over time the platform b
 
 Today, while we no longer sell Framesocket as a service, the core of Framesocket's API services continue to power WellcomeMat's video solutions.
 
-Learn More
+[Learn More](/portfolio/project-9/)
 
 # New York Television Festival
 
-Coming soon...
+[Learn More](/portfolio/project-10/)
 
 # The Future of Local
 
