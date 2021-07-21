@@ -17,7 +17,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Theme Style Guide
+      value: Holaphil / Experience
       keyName: property
     - name: 'og:description'
       value: >-
