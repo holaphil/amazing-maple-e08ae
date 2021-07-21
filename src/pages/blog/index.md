@@ -5,7 +5,7 @@ hide_title: false
 col_number: three
 seo:
   title: Phil Thomas DiGiulio / Writing
-  description: This is the blog page
+  description: 'Ideas, inspiration, and other riffing about... as I get around to it.'
   extra:
     - name: 'og:type'
       value: website
