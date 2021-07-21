@@ -17,7 +17,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Holaphil / Experience
+      value: Phil Thomas DiGiulio / Experience
       keyName: property
     - name: 'og:description'
       value: >-
