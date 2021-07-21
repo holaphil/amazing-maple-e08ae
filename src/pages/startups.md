@@ -30,9 +30,7 @@ Learn More
 
 # Pegshot
 
-Pegshot was a mobile startup I co-founded in 2009. Our idea for this business came as a result of a mobile video service our team initially built for Wellcomemat. At the time, we had created a mobile app for our users to shoot video and then upload on WellcomeMat. Videos could be tagged immediately with relevant local MLS information and then shared online. With Pegshot, we simply broadened the concept to support video AND photos tagged to places as opposed to property. 
-
-and is one of those examples of a Take a picture or video and instantly show off what's happening where you are with your mobile phone. Mobile Application Quickly Ties Photo & Video Content To Location Take a picture or video and instantly show off what's happening where you are with your mobile phone. Peg shots to places, events or brands + share them online!
+Pegshot was a mobile startup I co-founded in 2009. The idea for this business came as a result of a mobile video service our team initially built for Wellcomemat. At the time, I had been working with the team to develop a mobile app for our users to shoot video and then upload on WellcomeMat. Videos could be tagged immediately with relevant local MLS information and then shared online. With Pegshot, we simply broadened the concept to support video AND photos tagged to places as opposed to property.
 
 # Framesocket
 
