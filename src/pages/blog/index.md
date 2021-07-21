@@ -14,7 +14,7 @@ seo:
       value: Phil Thomas DiGiulio / Writing
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: 'Ideas, inspiration, and other riffing about... as I get around to it.'
       keyName: property
     - name: 'og:image'
       value: images/image-holy-bible.jpg
