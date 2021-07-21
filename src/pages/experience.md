@@ -8,7 +8,7 @@ subtitle: >-
   select the highlighted text under each role to learn more.
 image_alt: lorem-ipsum
 seo:
-  title: Theme Style Guide
+  title: Holaphil / Experience
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
