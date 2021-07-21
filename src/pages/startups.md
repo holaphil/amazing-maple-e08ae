@@ -22,8 +22,6 @@ Today, WellcomeMat and our team support video strategies for thousands of real a
 
 Learn More
 
-
-
 ## Product Council
 
 ![](images/image-startups-product-council.jpg)
@@ -38,7 +36,7 @@ Learn More
 
 ![](images/portrait-image-pegshot.jpg)
 
-****
+***
 
 **Pegshot is a mobile startup I co-founded in 2009.** The idea for this business came as a result of a mobile video service our team initially built for Wellcomemat. At the time, I had been working with the team to develop a mobile app for our users to shoot video and then upload on WellcomeMat. Videos could be tagged immediately with relevant local MLS information and then shared online. With Pegshot, we simply broadened the concept to support video AND photos tagged to places as opposed to property.
 
@@ -46,16 +44,14 @@ While **Pegshot** received early support and accolades, over time the platform b
 
 Learn More
 
-
-
 # Framesocket
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Coming soon...
 
 # New York Television Festival
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Coming soon...
 
 # The Future of Local
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.![](http://box2469.temp.domains/~garbarna/staging/wp-content/uploads/2021/07/image-startups-wellcomeamat.gif)![](http://box2469.temp.domains/~garbarna/staging/wp-content/uploads/2021/06/test-NFINITY-PRO-HDX.jpg)
+Coming soon...
