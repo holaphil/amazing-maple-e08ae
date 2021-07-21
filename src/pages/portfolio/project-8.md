@@ -31,7 +31,7 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 template: project
-thumb_image: images/portrait-logo-wellcomemat.png
+thumb_image: images/image-pegshot.jpg
 image: images/portrait-logo-wellcomemat.png
 ---
 and is one of those examples of a Take a picture or video and instantly show off what's happening where you are with your mobile phone. Mobile Application Quickly Ties Photo & Video Content To Location Take a picture or video and instantly show off what's happening where you are with your mobile phone. Peg shots to places, events or brands + share them online!
