@@ -12,10 +12,10 @@ sections:
       the day you are still living in someone else's house.
 
 
-      **holaphil.com is my house**. Here you will find a resources and
-      information related to my 20+ years of experience building brands,
-      products, and services. Take a tour by simply scrolling further down or
-      selecting any of the nav items above. And thank you for visiting!
+      **holaphil.com is my house**. Here you will find resources and information
+      related to my 20+ years of experience building brands, products, and
+      services. Take a tour by simply scrolling further down or selecting any of
+      the nav items above. And of course, thank you for visiting!
 
 
       PS — *this website is built using an architecture called **Jamstack**.
