@@ -24,11 +24,11 @@ Learn More
 
 ## Product Council
 
+![](images/image-startups-product-council.jpg)
+
 **I founded the Product Council in 2013.** The inspiration came to me after spending multiple years in the NYC startup community. Over time I discovered that many if not most startup themed events targeted how startups are funded, as opposed to how their products are made. I wanted to spotlight how startups (and also larger funded businesses) build great products.
 
 Today, Product Council has over 1,500 members and continues to host events in support of designers, entrepreneurs, and product managers gathering to share and solve product challenges.
-
-![](images/image-startups-product-council.jpg)
 
 Learn More
 
