@@ -24,7 +24,7 @@ Learn More
 
 ## Product Council
 
-I founded the Product Council in 2013. The inspiration came to me after spending multiple years in the NYC startup community. Over time I discovered that many if not most startup themed events targeted how startups are funded, as opposed to how their products are made. I wanted to spotlight how startups (and also larger funded businesses) build great products. 
+I founded the Product Council in 2013. The inspiration came to me after spending multiple years in the NYC startup community. Over time I discovered that many if not most startup themed events targeted how startups are funded, as opposed to how their products are made. I wanted to spotlight how startups (and also larger funded businesses) build great products.
 
 Today, Product Council has over 1,500 members and continues to host events in support of designers, entrepreneurs, and product managers gathering to share and solve product challenges.
 
@@ -34,7 +34,9 @@ Learn More
 
 # Pegshot
 
-Pegshot was a mobile startup I co-founded in 2009. The idea for this business came as a result of a mobile video service our team initially built for Wellcomemat. At the time, I had been working with the team to develop a mobile app for our users to shoot video and then upload on WellcomeMat. Videos could be tagged immediately with relevant local MLS information and then shared online. With Pegshot, we simply broadened the concept to support video AND photos tagged to places as opposed to property.
+**Pegshot was a mobile startup I co-founded in 2009. **The idea for this business came as a result of a mobile video service our team initially built for Wellcomemat. At the time, I had been working with the team to develop a mobile app for our users to shoot video and then upload on WellcomeMat. Videos could be tagged immediately with relevant local MLS information and then shared online. With Pegshot, we simply broadened the concept to support video AND photos tagged to places as opposed to property.
+
+While **Pegshot** received early support and accolades, over time the platform became overcome by similar services (e.g. Instagram) with more investment and a larger consumer base. Consequently, we elected to shuttered the business early 2011 to focus on **WellcomeMat** and a new video service we had been exploring called **Framesocket**.
 
 ![](images/portrait-image-pegshot.jpg)
 
