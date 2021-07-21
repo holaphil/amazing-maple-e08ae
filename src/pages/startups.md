@@ -6,7 +6,9 @@ subtitle: >-
 image_alt: lorem-ipsum
 seo:
   title: Phil Thomas DiGiulio / Startups
-  description: ''
+  description: >-
+    The following is a list of brand and startups I've had a hand in helping
+    build, launch, and grow over the years.
   robots: []
   extra: []
   type: stackbit_page_meta
