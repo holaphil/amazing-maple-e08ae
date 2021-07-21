@@ -31,7 +31,7 @@ seo:
       value: images/7.jpg
       relativeUrl: true
 template: project
-thumb_image: images/portrait-image-framesocket.jpg
+thumb_image: images/portrait-image-nytvf.jpg
 image: images/portrait-image-nytvf.jpg
 ---
 Details coming soon...
