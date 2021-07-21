@@ -10,7 +10,11 @@ seo:
     The following is a list of brand and startups I've had a hand in helping
     build, launch, and grow over the years.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Phil Thomas DiGiulio / Startups
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 template: page
 ---
