@@ -6,11 +6,11 @@ sections:
     type: section_hero
     title: 'It''s time to build, your own house.'
     content: >
-      Look around the web, and you'll notice every place we exist, our content
-      and data is stored on platforms (e.g. Facebook, LinkedIn, Twitter,
-      Instagram) we do not own. Yes, many of these platforms provide us with
-      purpose and value; however, at the end of the day we are renting space in
-      someone else's house.
+      Look around the web and you'll notice every place we exist, we do so by
+      sharing content and data that is stored on platforms (e.g. Facebook,
+      LinkedIn, Twitter, Instagram) we do not own. It's true that many of these
+      platforms provide us with purpose and value; however, at the end of the
+      day we are still renting space in someone else's house.
 
 
       **This is my house**. Inside you will find resources and information
