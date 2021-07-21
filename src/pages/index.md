@@ -144,7 +144,10 @@ seo:
     - name: 'twitter:title'
       value: Phil Thomas DiGiulio / holaphil.com
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: >-
+        Welcome to holaphil.com. I built this site to begin sharing resources,
+        ideas, and advice gathered from my 20+ years of experience building
+        products & services.
     - name: 'twitter:image'
       value: images/holaphil-screenshot.png
       relativeUrl: true
