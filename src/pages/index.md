@@ -117,7 +117,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: holaphil.com
+  title: Phil Thomas DiGiulio / holaphil.com
   description: Welcome to holaphil.com
   extra:
     - name: 'og:type'
