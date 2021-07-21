@@ -9,7 +9,9 @@ subtitle: >-
 image_alt: lorem-ipsum
 seo:
   title: Holaphil / Experience
-  description: A reference for suggested typographic treatment and styles for your content
+  description: >-
+    Over the last 20+ years, my experience comes from building new products and
+    brands across both startup & corporate environments. Learn more here.
   extra:
     - name: 'og:type'
       value: website
