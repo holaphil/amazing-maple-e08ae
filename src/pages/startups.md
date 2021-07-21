@@ -5,7 +5,7 @@ subtitle: >-
   build, launch, and grow over the years.
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: Holaphil on Startups
   description: ''
   robots: []
   extra: []
