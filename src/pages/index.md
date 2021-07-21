@@ -6,13 +6,14 @@ sections:
     type: section_hero
     title: 'It''s time to build, your own house.'
     content: >
-      If you look around the web, you may notice every place you exist, your
-      content and data is stored on a platform you do not own. Of course these
-      third party platforms provide purpose and value; however, at the end of
-      the day you are still living in someone else's house.
+      Look around the web, and you'll notice every place we exist, our content
+      and data is stored on platforms (e.g. Facebook, LinkedIn, Twitter,
+      Instagram) we do not own. Yes, many of these platforms provide us with
+      purpose and value; however, at the end of the day we are renting space in
+      someone else's house.
 
 
-      **holaphil.com is my house**. Here you will find resources and information
+      **This is my house**. Inside you will find resources and information
       related to my 20+ years of experience building brands, products, and
       services. Take a tour by simply scrolling further down or selecting any of
       the nav items above. And of course, thank you for visiting!
