@@ -4,7 +4,7 @@ subtitle: 'Ideas, inspiration, and other riffing about... as I get around to it.
 hide_title: false
 col_number: three
 seo:
-  title: Blog
+  title: Holaphil / Writing
   description: This is the blog page
   extra:
     - name: 'og:type'
