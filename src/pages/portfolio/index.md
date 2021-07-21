@@ -4,7 +4,9 @@ subtitle: "Over the past 20+ years, I've had the pleasure of supporting consumer
 layout_style: tiles
 seo:
   title: Holaphil / Work
-  description: This is the portfolio page
+  description: >-
+    Over the past 20+ years, I've had the pleasure of supporting consumers,
+    businesses and brands in the following product and creative inspired roles. 
   extra:
     - name: 'og:type'
       value: website
