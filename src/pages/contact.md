@@ -50,7 +50,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Phil Thomas DiGiulio / Contact
       keyName: property
     - name: 'og:description'
       value: This is the contact page
