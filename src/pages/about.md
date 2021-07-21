@@ -31,18 +31,4 @@ seo:
       relativeUrl: true
 template: page
 ---
-Writing about yourself is not too dissimilar from recording your own outbound voicemail message (remember those!?). Overthink it, and you're left recording again and again and again. Oh then what about the proper format and tone? Do you write in first person (I did this, I did that) or third person (he did this, he did that) — as if you are being introduced to a crowd? Either way, you don’t want to come off as a bragger — at least I don't. But then what story is there to tell if you are 100% humble? How does one adjust the volume and strike the write chord? How can the EQ match the IQ? As with the voicemail example, my best advice is to not overthink it — your first take is almost always the best one.
-
-So here is goes...
-
-I’ve co-founded two startups (WellcomeMat, Pegshot) — I am now working on my third (TBA). I have launched [several brands](/startups): one of them literally from a garage, another literally about garages (Garbar Nation). I have done work building products that were considered 'innovative' inside large corporate organizations (AOL, Verizon Media). But what gives me the right to claim any of that as my own? How can the work be labeled “innovative” when other people are building rockets or solving the worlds energy challenges? Perhaps this is the point -- everything you and I have ever done has likely been a result of working with and/or managing the work of a team. Even a Rocket Scientist doesn't launch a rocket by herself. The best sports (IMHO) require a team.
-
-So I am going to let the work (and the work of my teams) speak for itself. Instead, I'll use this opportunity to give you a brief glimpse into who I am as a person. In doing so, I am going attempt being honest and forthright as possible. If you can not tell your own story, how can you be expected to help someone else tell theirs?
-
-> The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
-
-1.  I am a multi-disciplined product leader, founder, and creator with over 20 years experience building new products and brands across both startup and corporate environments.
-
-2.
-
-*Thank You for reading!*
+I am a product leader, builder, innovator with over 20 years experience creating and managing products inside design and development organizations. Equally comfortable working with startups (pre/post seed, funded) and large corporate environments. Throughout my career I have served various roles working as a builder, founder and executive — in every case, facilitating the creation of products that deliver value to both customers and the business. Self-motivated, equally creative and technical, extremely detail oriented, and driven to deliver results.
