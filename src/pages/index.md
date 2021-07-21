@@ -127,7 +127,7 @@ seo:
       value: holaphil.com
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: Welcome to holaphil.com
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
