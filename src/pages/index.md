@@ -118,7 +118,10 @@ sections:
         style: button
 seo:
   title: Phil Thomas DiGiulio / holaphil.com
-  description: Welcome to holaphil.com
+  description: >-
+    Welcome to holaphil.com. I built this site to begin sharing resources,
+    ideas, and advice gathered from my 20+ years of experience building products
+    & services.
   extra:
     - name: 'og:type'
       value: website
