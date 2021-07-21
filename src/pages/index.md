@@ -6,10 +6,10 @@ sections:
     type: section_hero
     title: Hola!
     content: >
-      **Welcome to holaphil.com**. Thanks for stopping by! Inside you will find
-      resources and information related to my 20+ years of experience building
-      brands, products, and services. Take a tour by simply scrolling further
-      down or selecting any of the nav items above. 
+      **Welcome to holaphil.com**. Inside you will find resources and
+      information related to my 20+ years of experience building brands,
+      products, and services. Take a tour by simply scrolling further down or
+      selecting any of the nav items above. 
 
 
       PS — *this website is built using an architecture called **Jamstack**.
