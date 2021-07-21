@@ -16,7 +16,7 @@ seo:
       value: This is the portfolio page
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: images/holaphil-work-screenshot.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
