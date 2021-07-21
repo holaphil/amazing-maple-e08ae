@@ -1,5 +1,5 @@
 ---
-title: 'Co-Founder, Head of Product & Marketing — WellcomeMat'
+title: 'Co-Founder, Head of Product & Marketing — Pegshot'
 subtitle: January 2005 - August 2013
 date: '2018-01-15'
 thumb_image_alt: WellcomeMat
