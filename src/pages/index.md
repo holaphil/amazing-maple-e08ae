@@ -6,17 +6,10 @@ sections:
     type: section_hero
     title: Is it time to build your own house?
     content: >
-      Look around the web and you'll notice that every place we exist, we do so
-      by sharing content and data stored on other people's platforms (e.g.
-      Facebook, LinkedIn, Twitter, Instagram). Yes it's true many of these
-      platforms provide us with purpose and value; however, we are renters
-      occupying space in someone else's house.
-
-
-      **This is my house**. Inside you will find resources and information
-      related to my 20+ years of experience building brands, products, and
-      services. Take a tour by simply scrolling further down or selecting any of
-      the nav items above. And of course, thank you for visiting!
+      **Welcome to holaphil.com**. Thanks for stopping by! Inside you will find
+      resources and information related to my 20+ years of experience building
+      brands, products, and services. Take a tour by simply scrolling further
+      down or selecting any of the nav items above. 
 
 
       PS — *this website is built using an architecture called **Jamstack**.
