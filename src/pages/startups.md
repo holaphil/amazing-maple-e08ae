@@ -5,7 +5,7 @@ subtitle: >-
   build, launch, and grow over the years.
 image_alt: lorem-ipsum
 seo:
-  title: Holaphil / Startups
+  title: Phil Thomas DiGiulio / Startups
   description: ''
   robots: []
   extra: []
