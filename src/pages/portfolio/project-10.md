@@ -1,5 +1,5 @@
 ---
-title: 'Co-Founder, Head of Product & Marketing — Framesocket'
+title: Creative Director — NYTVF
 subtitle: '2011'
 date: '2018-01-15'
 thumb_image_alt: Pegshot
