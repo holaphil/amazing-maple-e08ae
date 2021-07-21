@@ -42,7 +42,9 @@ sections:
     submit_label: Send Message
 seo:
   title: Phil Thomas DiGiulio / Contact
-  description: This is the contact page
+  description: >-
+    Hola! Want to reach out and connect? Please fill the contact form below and
+    I'll get back to you asap. Alternatively, DM me via LinkedIn or Twitter.
   extra:
     - name: 'og:type'
       value: website
