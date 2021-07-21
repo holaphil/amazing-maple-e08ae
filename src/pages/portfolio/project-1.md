@@ -1,6 +1,6 @@
 ---
 title: Chief Product Officer — NOW//with
-subtitle: October 2019 - P
+subtitle: October 2019 - Present
 date: '2021-07-16'
 thumb_image: images/portrait-logo-nowwith.jpg
 thumb_image_alt: NOW//with
