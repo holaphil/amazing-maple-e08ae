@@ -130,7 +130,7 @@ seo:
       value: Welcome to holaphil.com
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: images/holaphil-screenshot.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
