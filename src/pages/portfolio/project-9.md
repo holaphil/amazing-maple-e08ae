@@ -3,7 +3,7 @@ title: 'Co-Founder, Head of Product & Marketing — Framesocket'
 subtitle: 2009 - 2011
 date: '2018-01-15'
 thumb_image_alt: Pegshot
-image_alt: A black headphones on a yeallow background
+image_alt: Framesocket
 seo:
   title: Project Title 7
   description: This is the project 7 description
