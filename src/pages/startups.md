@@ -42,7 +42,7 @@ Learn More
 
 While **Pegshot** received early support and accolades, over time the platform became overcome by similar services (e.g. Instagram) with more investment and a larger consumer base. Consequently, we elected to shuttered the business early 2011 to focus on **WellcomeMat** and a new video service we had been exploring called **Framesocket**.
 
-Learn More
+[Learn More](www.cnn.com)
 
 # Framesocket
 
