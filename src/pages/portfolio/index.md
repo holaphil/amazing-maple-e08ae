@@ -13,7 +13,10 @@ seo:
       value: Phil Thomas DiGiulio / Work
       keyName: property
     - name: 'og:description'
-      value: This is the portfolio page
+      value: >-
+        Over the past 20+ years, I've had the pleasure of supporting consumers,
+        businesses and brands in the following product and creative inspired
+        roles. 
       keyName: property
     - name: 'og:image'
       value: images/holaphil-work-screenshot.png
