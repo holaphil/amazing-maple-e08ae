@@ -3,7 +3,7 @@ title: Work
 subtitle: "Over the past 20+ years, I've had the pleasure of supporting consumers, businesses and brands across many product and creative inspired roles.\_ You will find some of those roles listed below."
 layout_style: tiles
 seo:
-  title: Portfolio
+  title: Holaphil / My Work
   description: This is the portfolio page
   extra:
     - name: 'og:type'
