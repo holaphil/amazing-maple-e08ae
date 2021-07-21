@@ -14,7 +14,7 @@ seo:
       value: Phil Thomas DiGiulio / About
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: "I am a multi-disciplined product leader, founder, and brand builder with over 20\_years of experience successfully innovating within startups and large orgs."
       keyName: property
     - name: 'og:image'
       value: images/portrait-image-product-council.jpeg
