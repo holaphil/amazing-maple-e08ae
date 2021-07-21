@@ -12,7 +12,7 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-# WellcomeMat
+# WellcomeMat.com
 
 WellcomeMat was born in a garage (yes a real garage) back in 2006. I co-founded the company and spent six years running product and marketing with a team based in Boulder, CO and Brooklyn, NY. WellcomeMat’s video platform helps real estate brokers, agents, and brands create and intelligently share unique local content told through the power of video. At the time of our launch, online video was just beginning  to grow in popularity with YouTube having launched just a few months earlier. Today, WellcomeMat supports thousand real agents and many of world’s leading real estate brands,
 
