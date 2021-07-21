@@ -1,5 +1,5 @@
 ---
-title: 'Co-Founder, Head of Product & Marketing — Pegshot'
+title: 'Co-Founder, Head of Product & Marketing — Framesocket'
 subtitle: 2009 - 2011
 date: '2018-01-15'
 thumb_image_alt: Pegshot
