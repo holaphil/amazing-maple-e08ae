@@ -21,6 +21,10 @@ seo:
         build, launch, and grow over the years.
       keyName: property
       relativeUrl: false
+    - name: 'og:image'
+      value: images/portrait-logo-wellcomemat.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: page
 ---
