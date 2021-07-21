@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: It's time to build your own house
+    title: It's time to build... your own house.
     content: >
       If you look around the web, you may notice every place you exist, your
       content and data is stored on a platform you do not own. Of course these
