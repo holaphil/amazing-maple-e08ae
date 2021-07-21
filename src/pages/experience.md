@@ -8,7 +8,7 @@ subtitle: >-
   select the highlighted text under each role to learn more.
 image_alt: lorem-ipsum
 seo:
-  title: ' / Experience'
+  title: Phil Thomas DiGiulio / Experience
   description: >-
     Over the last 20+ years, my experience comes from building new products and
     brands across both startup & corporate environments. Learn more here.
