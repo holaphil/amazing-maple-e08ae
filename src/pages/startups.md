@@ -16,7 +16,7 @@ template: page
 
 Supporting many of world’s leading real estate brands, WellcomeMat’s video platform helps real estate brokers, agents, and brands create and intelligently share unique local content told through the power of video.
 
-
+![](images/image-startups-wellcomeamat.jpg)
 
 Learn More
 
@@ -42,4 +42,4 @@ Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod temp
 
 # The Future of Local
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.![](http://box2469.temp.domains/~garbarna/staging/wp-content/uploads/2021/07/image-startups-wellcomeamat.gif)
+Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.![](http://box2469.temp.domains/~garbarna/staging/wp-content/uploads/2021/07/image-startups-wellcomeamat.gif)![](http://box2469.temp.domains/~garbarna/staging/wp-content/uploads/2021/06/test-NFINITY-PRO-HDX.jpg)
