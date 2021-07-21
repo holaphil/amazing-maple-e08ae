@@ -24,9 +24,11 @@ Learn More
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
+![](images/image-startups-product-council.jpg)
+
 <mark>[Learn More](/portfolio/project-5)</mark>
 
-![](images/portrait-image-product-council2.jpeg)<http://cnn.com>
+<http://cnn.com>
 
 # Pegshot
 
