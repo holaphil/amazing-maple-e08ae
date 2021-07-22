@@ -4,7 +4,7 @@ subtitle: >-
   Whether advancing the quality of existing products or bringing new
   products/ideas into the market, the following is a list of startups and large
   organizations I've worked with over my 20+ year career in product design,
-  marketing and management.
+  marketing, and management.
 layout_style: tiles
 seo:
   title: Phil Thomas DiGiulio / Work
