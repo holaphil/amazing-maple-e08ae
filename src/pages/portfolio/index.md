@@ -1,6 +1,6 @@
 ---
 title: Work
-subtitle: "Over the 20+ years directing products, brands, and services\_ , I've both managed new products and brands consumers, businesses and brands across many product and creative inspired roles.\_ You will find some of those roles listed below."
+subtitle: "Over the past 20+ years, I've worked in The following is a list of businesses I've had the directing products, brands, and services\_ , I've both managed new products and brands consumers, businesses and brands across many product and creative inspired roles.\_ You will find some of those roles listed below."
 layout_style: tiles
 seo:
   title: Phil Thomas DiGiulio / Work
