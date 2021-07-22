@@ -120,7 +120,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Phil Thomas DiGiulio / holaphil.com
+      value: Phil Thomas DiGiulio
       keyName: property
     - name: 'og:description'
       value: >-
