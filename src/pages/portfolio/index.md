@@ -1,9 +1,10 @@
 ---
 title: Work
 subtitle: >-
-  Over the past 20+ years, I've worked with the following startups and large
-  organizations helping them identify, build, and bring new ideas into the
-  market.
+  Whether advancing the quality of existing products or bringing new
+  products/ideas into the market, the following is a list startups and large
+  organizations I've worked with over my 20+ year career in product design,
+  marketing and management.
 layout_style: tiles
 seo:
   title: Phil Thomas DiGiulio / Work
