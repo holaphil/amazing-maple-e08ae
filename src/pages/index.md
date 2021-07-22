@@ -56,11 +56,11 @@ sections:
           investors.
       - title: Unify teams
         content: >
-          Throughout my career I've founded businesses building teams and
-          products as an **Entrepreneur** and developed new products and
+          Throughout my career, I've both founded businesses building teams and
+          products as an **Entrepreneur** AND developed new products and
           services within larger organization as an **Intrapreneur**. In either
-          situation, I am well versed on the management required to
-          collaboratively develop, launch, and market products that deliver
+          example, I am well versed on the organization and management required
+          to collaboratively develop, launch, and market products that deliver
           immediate value for both a business and its customers.
         image_alt: Unify Teams
       - title: Build brands
