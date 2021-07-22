@@ -1,6 +1,6 @@
 ---
 title: Work
-subtitle: "Over the past 20+ years, I've\_ supported\_ built new products and brands consumers, businesses and brands across many product and creative inspired roles.\_ You will find some of those roles listed below."
+subtitle: "Over the past 20+ years, I've built new products and brands consumers, businesses and brands across many product and creative inspired roles.\_ You will find some of those roles listed below."
 layout_style: tiles
 seo:
   title: Phil Thomas DiGiulio / Work
