@@ -52,7 +52,8 @@ sections:
           **empathy is a requirement**. I make the time necessary to appreciate
           the challenges our users face so that, together with my entire team,
           we build the products that serve the best interest of our customers.
-          Happy customers equal happy clients, partners, investors.
+          Happy customers equal repeat customers ergo happy clients, partners,
+          investors.
       - title: Unify teams
         content: >
           Throughout my career I have had the pleasure building teams and
