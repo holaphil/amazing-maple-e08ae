@@ -4,7 +4,7 @@ image_alt: Thank You Led Signage
 template: page
 seo:
   title: Phil Thomas DiGiulio / Thank You
-  description: ''
+  description: Thank you for contacting me. Your message was sent!
   robots: []
   extra: []
   type: stackbit_page_meta
