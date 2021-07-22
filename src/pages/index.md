@@ -51,9 +51,9 @@ sections:
           Empathy for the user (customer or client) is not a nice to have —
           **empathy is a requirement**. I make the time necessary to appreciate
           the challenges our users face so that, together with my entire team,
-          we build the products that serve the best interest of our customers.
-          Happy customers equal repeat customers ergo happy clients, partners,
-          investors.
+          we **build the products that serve the best interest of our
+          customers**. Happy customers equal repeat customers ergo happy
+          clients, partners, investors.
       - title: Unify teams
         content: >
           Throughout my career, I've both founded businesses building teams and
