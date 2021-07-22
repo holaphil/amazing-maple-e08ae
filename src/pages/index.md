@@ -6,11 +6,10 @@ sections:
     type: section_hero
     title: Hola!
     content: >
-      **Welcome to holaphil.com**. I built this site to begin sharing resources,
-      ideas, and advice gathered from my 20+ years of experience building
-      products and managing teams inside organizations including startups
-      (pre-seed, funded) and larger corporate environments. Take a tour by
-      simply scrolling further down or selecting any of the nav items above.
+      **Welcome to holaphil.com**. Here you will find a list of resources,
+      ideas, and advice gathered from 20+ years of experience building products
+      and managing teams inside both startups (pre-seed, funded) and larger
+      corporate environments.
     actions:
       - label: View My Work
         url: /portfolio
