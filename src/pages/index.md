@@ -42,8 +42,8 @@ sections:
           Management roles**), I've spent a majority of my career working in
           collaboration with engineers, data analysts, designers, and
           researchers to identify the best most creative ways to solve complex
-          problems for our clients and customers. I have many years of
-          experience turning a novel idea into an innovative product.
+          problems for our clients and customers. I have many years experience
+          turning novel ideas into innovative products.
         image_alt: Solve Problems
         actions: []
       - title: Stand up for the customer
