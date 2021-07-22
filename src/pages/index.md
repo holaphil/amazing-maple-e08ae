@@ -16,7 +16,7 @@ sections:
         url: /portfolio
         style: button
       - label: Talk to Me
-        url: /contact/
+        url: /contact
         style: button
         icon: dribbble
         new_window: false
