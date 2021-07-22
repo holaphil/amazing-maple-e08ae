@@ -2,8 +2,8 @@
 title: Work
 subtitle: >-
   Over the past 20+ years, I've worked with the following startups and large
-  organizations helping them identify, build, and launch innovative services and
-  brands.
+  organizations helping them identify, build, and bring new ideas into the
+  market.
 layout_style: tiles
 seo:
   title: Phil Thomas DiGiulio / Work
