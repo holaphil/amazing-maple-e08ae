@@ -124,9 +124,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Welcome to holaphil.com. I built this site to begin sharing resources,
-        ideas, and advice gathered from my 20+ years of experience building
-        products & services.
+        A list of resources, ideas, advice gathered from 20+ years of experience
+        building products and managing teams inside startups and larger
+        corporate environments.
       keyName: property
     - name: 'og:image'
       value: images/knowledgeable-onion.png
