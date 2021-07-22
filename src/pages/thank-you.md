@@ -3,7 +3,7 @@ title: Message sent!
 image_alt: Thank You Led Signage
 template: page
 seo:
-  title: ''
+  title: Phil Thomas DiGiulio / Thank You
   description: ''
   robots: []
   extra: []
