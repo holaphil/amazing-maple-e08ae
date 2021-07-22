@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About
 subtitle: In as few words as possible...
 image: images/portrait-image-product-council.jpeg
 image_alt: A man taking a picture
