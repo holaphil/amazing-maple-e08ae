@@ -129,7 +129,7 @@ seo:
         products & services.
       keyName: property
     - name: 'og:image'
-      value: images/holaphil-screenshot.png
+      value: images/knowledgeable-onion.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
