@@ -1,6 +1,6 @@
 ---
 title: About
-subtitle: "I am a multi-disciplined product leader, founder, and brand builder with over 20\_years of experience successfully innovating within startups and large organizations."
+subtitle: "I am a multi-disciplined product leader, founder, and brand builder with over 20\_years experience successfully innovating within startups and large organizations."
 image: images/portrait-image-product-council.jpeg
 image_alt: A man taking a picture
 seo:
