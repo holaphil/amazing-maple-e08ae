@@ -67,8 +67,9 @@ sections:
         content: >
           Having managed the branding and marketing of several **early stage
           startups** as well as packaged and managed the launch of new products
-          and services inside **larger growth organizations**, I know what is
-          required to build brands that connects with their audience.
+          and services inside **larger growth organizations**, I have
+          experienced the work and dedication required building brands that
+          connect with an audience.
   - section_id: testimonials
     type: section_testimonials
     title: What do other people say?
