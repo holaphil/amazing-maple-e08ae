@@ -1,9 +1,9 @@
 ---
 title: Work
 subtitle: >-
-  Over the past 20+ years, I've managed products and within startups and larger
-  organizations to help identify, build, and launch new brands. You will find
-  some of those roles listed below.
+  Over the past 20+ years, I've worked with startups and large organizations
+  helping them identify, build, and launch innovative services and brands. You
+  will find some of those roles listed below.
 layout_style: tiles
 seo:
   title: Phil Thomas DiGiulio / Work
