@@ -24,7 +24,7 @@ sections:
   - section_id: latest-projects
     type: section_portfolio
     layout_style: tiles
-    title: Recent Roles
+    title: Work
     subtitle: Select “Work” in main navigation to view other roles.
     projects_number: 2
     view_all_label: VIEW ALL WORK
