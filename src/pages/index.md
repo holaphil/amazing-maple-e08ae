@@ -124,9 +124,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        A list of resources, ideas, advice gathered from 20+ years of experience
-        building products and managing teams inside startups and larger
-        corporate environments.
+        I am a multi-disciplined product leader, founder, brand builder with
+        over 20 years experience successfully innovating within startups and
+        large organizations.
       keyName: property
     - name: 'og:image'
       value: images/knowledgeable-onion.png
