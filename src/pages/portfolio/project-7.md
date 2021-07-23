@@ -34,12 +34,13 @@ seo:
 template: project
 subtitle: 2005 - 2013
 ---
-Founded in 2006, WellcomeMat is a cloud-based video content management system. As a Co-Founder and Head of Product and Marketing, I built and lead a team of designers, developers and producers while overseeing the execution of our strategic consumer and enterprise video products. A few responsibilities include design/UX for our patented interactive video technologies and product direction of our enterprise video content management (CMS) and hosting platforms. 
+Founded in 2006, WellcomeMat is a cloud-based video content management system. As a Co-Founder and Head of Product and Marketing, I built and lead a team of designers, developers and producers while overseeing the execution of our strategic consumer and enterprise video products. A few responsibilities include design/UX for our patented interactive video technologies and product direction of our enterprise video content management (CMS) and hosting platforms.
 
 Achievements:
 
 *   Successfully scaled (SAAS) consumer/enterprise user base from zero to 100K
 
+<!---->
 
 *   Created one of the web’s first (now patented) cloud-based interactive video players
 
