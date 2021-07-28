@@ -21,7 +21,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Contact Me
+      - label: Contact me
         url: /contact
         style: button
         icon: dribbble
