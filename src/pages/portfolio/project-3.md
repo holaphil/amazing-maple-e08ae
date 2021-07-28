@@ -20,7 +20,7 @@ seo:
       value: This is the project 3 description
       keyName: property
     - name: 'og:image'
-      value: images/3.jpg
+      value: images/portrait-logo-RYOT-Studio.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
