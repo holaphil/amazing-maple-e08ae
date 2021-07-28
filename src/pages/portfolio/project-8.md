@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:description'
       value: This is the project 7 description
     - name: 'twitter:image'
-      value: images/7.jpg
+      value: images/image-pegshot.jpg
       relativeUrl: true
 template: project
 thumb_image: images/image-pegshot.jpg
