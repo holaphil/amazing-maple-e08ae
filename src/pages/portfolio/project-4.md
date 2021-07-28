@@ -25,7 +25,7 @@ seo:
         Techcrunch).
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: images/image-verizon-principal-product-manager-adformats.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
