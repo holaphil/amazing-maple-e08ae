@@ -16,6 +16,11 @@
                 "style": "link"
             },
             {
+                "label": "Experience",
+                "url": "/experience",
+                "style": "link"
+            },
+            {
                 "label": "Startups",
                 "url": "/startups",
                 "style": "link",
@@ -27,11 +32,6 @@
             {
                 "label": "Writing",
                 "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "Experience",
-                "url": "/experience",
                 "style": "link"
             },
             {
