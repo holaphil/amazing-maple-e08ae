@@ -7,7 +7,7 @@ thumb_image_alt: A handheld game console on a yellow background
 image: images/portrait-logo-tremor-video.png
 image_alt: A handheld game console on a yellow background
 seo:
-  title: Project Title 6
+  title: Sr. Product Manager @ Tremor Video
   description: This is the project 6 description
   extra:
     - name: 'og:type'
