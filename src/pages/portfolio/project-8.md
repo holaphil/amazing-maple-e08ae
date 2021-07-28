@@ -39,9 +39,7 @@ Launched in 2009, **Pegshot** was arguably the first location-based mobile photo
 <HR>
 
 > I even loved his concept of pegshot that honestly could have been what instagram was today, it was the same concept at the exact time instagram was in play.“
-> —
->
-> **Matthew J. Leone**, Chief Marketing Officer at Brown Harris Stevens
+> — **Matthew J. Leone**, Chief Marketing Officer at Brown Harris Stevens
 
 <HR>
 While **Pegshot** received early support and accolades, over time the market became oversaturated with platforms (e.g. Instagram) with more greater scale and larger financial backing. Consequently, in 2011 we shuttered **Pegshot** and continued focusing on the growth of **WellcomeMat.**
