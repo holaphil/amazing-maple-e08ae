@@ -199,7 +199,7 @@ models:
     urlPath: /portfolio
     label: Portfolio
     layout: portfolio
-    file: portfolio/index.md
+    file: work/index.md
     hideContent: true
     singleInstance: true
     fields:
