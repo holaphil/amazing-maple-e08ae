@@ -18,7 +18,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: The function of design is letting design function
+      value: holaphil / The future of video search
       keyName: property
     - name: 'og:description'
       value: >-
