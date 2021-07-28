@@ -34,14 +34,8 @@ template: project
 thumb_image: images/image-pegshot.jpg
 image: images/image-pegshot.jpg
 ---
-Launched in 2009, **Pegshot** was arguably the first location-based mobile photo AND video sharing application available on the Apple iPhone. As a co-founder, I focused largely on my team's mobile app development as well as all product design and marketing. At the time, I had been working with our team to develop a mobile app for consumers to quickly capture and upload video on WellcomeMat.
+Launched in 2009, **Pegshot** was arguably the first location-based mobile photo AND video sharing application available on the Apple iPhone. As a co-founder, I focused largely on my team's mobile app development as well as all product design and marketing. At the time, I had been working with our team to develop a mobile app for consumers to quickly capture and upload video on WellcomeMat. Videos could be tagged immediately with relevant local MLS information and then shared online. With Pegshot, we simply broadened the concept to support video AND photos tagged to places as opposed to property.
 
-
-
-As the Head of Product & Marketing, I oversaw both our product design and development as well as all product marketing.
+> I even loved his concept of pegshot that honestly could have been what instagram was today, it was the same concept at the exact time instagram was in play.“
 
 While **Pegshot** received early support and accolades, over time the market became oversaturated with platforms (e.g. Instagram) with more greater scale and larger financial backing. Consequently, in 2011 we shuttered **Pegshot** and continued focusing on the growth of **WellcomeMat.**
-
-I even loved his concept of pegshot that honestly could have been what instagram was today, it was the same concept at the exact time instagram was in play.“
-
-> "Design is not a single object or dimension. Design is messy and complex." - Natasha Jen
