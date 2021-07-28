@@ -6,7 +6,10 @@ thumb_image_alt: Pegshot
 image_alt: Framesocket
 seo:
   title: Creative Director @ NYTVF
-  description: This is the project 7 description
+  description: >-
+    The New York Television Festival is a pioneer of the independent television
+    movement, connecting its community of artists, networks, studios, and
+    brands.
   extra:
     - name: 'og:type'
       value: website
