@@ -23,7 +23,7 @@ seo:
         Media.
       keyName: property
     - name: 'og:image'
-      value: images/2.jpg
+      value: images/portrait-logo-verizon-media.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
