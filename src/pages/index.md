@@ -14,7 +14,7 @@ sections:
       - label: View My Work
         url: /portfolio
         style: button
-      - label: See What I do
+      - label: See what I do
         url: '#services'
         style: button
         icon: dribbble
