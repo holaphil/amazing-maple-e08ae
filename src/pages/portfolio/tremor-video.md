@@ -3,7 +3,7 @@ title: Sr. Product Manager — Tremor Video
 subtitle: September 2013 - August 2015
 date: '2018-12-18'
 thumb_image: images/portrait-logo-tremor-video.png
-thumb_image_alt: A handheld game console on a yellow background
+thumb_image_alt: Tremor Video logo
 image: images/portrait-logo-tremor-video.png
 image_alt: A handheld game console on a yellow background
 seo:
