@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 4
+      value: 'Principal Product Manager, Ad Formats @ Verizon Media'
     - name: 'twitter:description'
       value: >-
         Managed the design, development, and operational scaling for all video
