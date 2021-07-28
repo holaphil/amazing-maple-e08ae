@@ -2,7 +2,7 @@
 title: 'Co-Founder, Head of Product & Marketing — WellcomeMat'
 date: '2018-01-20'
 thumb_image: images/portrait-logo-wellcomemat.png
-thumb_image_alt: WellcomeMat
+thumb_image_alt: WellcomeMat logo
 image: images/portrait-logo-wellcomemat.png
 image_alt: A black headphones on a yeallow background
 seo:
