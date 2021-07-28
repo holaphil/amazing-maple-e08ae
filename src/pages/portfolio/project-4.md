@@ -38,7 +38,7 @@ seo:
         ad formats across AOL’s publisher ecosystem (e.g. Huffington Post,
         Techcrunch).
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: images/image-verizon-principal-product-manager-adformats.jpg
       relativeUrl: true
 template: project
 ---
