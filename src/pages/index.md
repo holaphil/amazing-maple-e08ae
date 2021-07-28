@@ -11,7 +11,7 @@ sections:
       and managing teams inside both startups (pre-seed, funded) and larger
       corporate environments. You can learn more about me [here](/about/).
     actions:
-      - label: View My Work
+      - label: View my work
         url: /portfolio
         style: button
       - label: See what I do
