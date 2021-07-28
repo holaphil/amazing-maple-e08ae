@@ -24,7 +24,7 @@ seo:
         studios, and brands.
       keyName: property
     - name: 'og:image'
-      value: images/7.jpg
+      value: images/portrait-image-nytvf.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
