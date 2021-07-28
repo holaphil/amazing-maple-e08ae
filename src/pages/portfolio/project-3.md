@@ -7,7 +7,7 @@ thumb_image_alt: A yellow retro telephone on a yellow background
 image: images/portrait-image-ryot-studio.png
 image_alt: A yellow retro telephone on a yellow background
 seo:
-  title: Project Title 3
+  title: 'Principal Product Manager, Innovation @ Verizon Media (RYOT)'
   description: This is the project 3 description
   extra:
     - name: 'og:type'
