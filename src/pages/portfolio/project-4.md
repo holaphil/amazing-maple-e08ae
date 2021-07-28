@@ -8,7 +8,9 @@ image: images/image-verizon-principal-product-manager-adformats.jpg
 image_alt: A table tennis racket on a pink background
 seo:
   title: 'Principal Product Manager, Ad Formats @ Verizon Media'
-  description: This is the project 4 description
+  description: >-
+    Managed the design, development, and operational scaling for all video ad
+    formats across AOL’s publisher ecosystem (e.g. Huffington Post, Techcrunch).
   extra:
     - name: 'og:type'
       value: website
