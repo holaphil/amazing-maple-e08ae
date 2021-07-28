@@ -33,7 +33,10 @@ seo:
     - name: 'twitter:title'
       value: Project Title 5
     - name: 'twitter:description'
-      value: This is the project 5 description
+      value: >-
+        I formed the Product Council in 2013, a series of events where
+        designers, entrepreneurs, product managers gather to solve product
+        challenges together.
     - name: 'twitter:image'
       value: images/5.jpg
       relativeUrl: true
