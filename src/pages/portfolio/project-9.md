@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:description'
       value: "FrameSocket\_is a video solution for development teams. Quickly implement video uploads, custom CDN’s, encoding, hosting, and distribution into your products."
     - name: 'twitter:image'
-      value: images/7.jpg
+      value: images/portrait-image-framesocket.jpg
       relativeUrl: true
 template: project
 thumb_image: images/portrait-image-framesocket.jpg
