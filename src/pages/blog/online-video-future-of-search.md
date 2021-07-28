@@ -22,8 +22,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore
+        The guts of every video on the internet has been utterly overlooked and
+        ignored by search engines. How will that be resolved?
       keyName: property
     - name: 'og:image'
       value: images/holaphil-blog-video-search.jpg
