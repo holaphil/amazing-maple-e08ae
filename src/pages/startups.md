@@ -56,7 +56,7 @@ Today, Product Council has over 1,500 members and continues to host events in su
 
 While **Pegshot** received early support and accolades, over time the market became oversaturated with platforms (e.g. Instagram) with more greater scale and larger financial backing. Consequently, we shuttered **Pegshot** in 2011 to continue focusing on the growth of **WellcomeMat.**
 
-[Learn More](/portfolio/project-8/)
+[Learn More](/portfolio/pegshot/)
 
 # Framesocket
 
