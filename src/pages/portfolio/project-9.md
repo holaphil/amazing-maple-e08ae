@@ -6,7 +6,7 @@ thumb_image_alt: Pegshot
 image_alt: Framesocket
 seo:
   title: Project Title 7
-  description: This is the project 7 description
+  description: 'Co-Founder, Head of Product & Marketing — Framesocket'
   extra:
     - name: 'og:type'
       value: website
