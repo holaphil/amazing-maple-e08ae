@@ -28,7 +28,9 @@ seo:
     - name: 'twitter:title'
       value: 'Co-Founder, Head of Product & Marketing @ Pegshot'
     - name: 'twitter:description'
-      value: This is the project 7 description
+      value: >-
+        Launched in 2009, Pegshot was arguably the first location-based mobile
+        photo AND video sharing application available on the Apple iPhone.
     - name: 'twitter:image'
       value: images/image-pegshot.jpg
       relativeUrl: true
