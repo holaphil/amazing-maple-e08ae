@@ -70,7 +70,7 @@ Today, while we no longer sell Framesocket as a service, the core of Framesocket
 
 # New York Television Festival
 
-[Learn More](/portfolio/project-10/)
+[Learn More](/portfolio/nytvf/)
 
 # The Future of Local
 
