@@ -32,7 +32,10 @@ seo:
     - name: 'twitter:title'
       value: Project Title 7
     - name: 'twitter:description'
-      value: This is the project 7 description
+      value: >-
+        The New York Television Festival is a pioneer of the independent
+        television movement, connecting its community of artists, networks,
+        studios, and brands.
     - name: 'twitter:image'
       value: images/7.jpg
       relativeUrl: true
