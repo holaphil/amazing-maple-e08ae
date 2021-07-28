@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: This is the project 6 description
     - name: 'twitter:image'
-      value: images/6.jpg
+      value: images/portrait-logo-tremor-video.png
       relativeUrl: true
 template: project
 ---
