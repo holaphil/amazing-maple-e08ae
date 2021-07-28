@@ -2,7 +2,7 @@
 title: 'Co-Founder, Head of Product & Marketing — Framesocket'
 subtitle: '2011'
 date: '2018-01-15'
-thumb_image_alt: Pegshot
+thumb_image_alt: Framesocket logo
 image_alt: Framesocket
 seo:
   title: 'Co-Founder, Head of Product & Marketing @ Framesocket'
