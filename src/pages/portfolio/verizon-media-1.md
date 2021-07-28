@@ -5,7 +5,7 @@ date: '2019-02-26'
 thumb_image: images/portrait-logo-aol-yahoo.jpg
 thumb_image_alt: A table tennis racket on a pink background
 image: images/image-verizon-principal-product-manager-adformats.jpg
-image_alt: A table tennis racket on a pink background
+image_alt: AOL and Yahoo logo
 seo:
   title: 'Principal Product Manager, Ad Formats @ Verizon Media'
   description: >-
