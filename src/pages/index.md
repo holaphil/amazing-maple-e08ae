@@ -9,7 +9,7 @@ sections:
       **Welcome to holaphil.com**. Here you will find a list of resources,
       ideas, and advice gathered from 20+ years of experience building products
       and managing teams inside both startups (pre-seed, funded) and larger
-      corporate environments. You can learn more about me here.
+      corporate environments. You can learn more about me [here](cnn.com).
     actions:
       - label: View My Work
         url: /portfolio
