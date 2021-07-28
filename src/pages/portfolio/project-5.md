@@ -7,7 +7,7 @@ thumb_image_alt: 'The Product Council, NYC'
 image: images/portrait-image-product-council-6.jpg
 image_alt: Image of the Product Council event and stage c. 2019
 seo:
-  title: Project Title 5
+  title: 'Founder, Managing Director @ Product Council'
   description: This is the project 5 description
   extra:
     - name: 'og:type'
