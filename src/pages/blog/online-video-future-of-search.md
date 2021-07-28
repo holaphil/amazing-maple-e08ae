@@ -38,7 +38,7 @@ seo:
         The guts of every video on the internet has been utterly overlooked and
         ignored by search engines. How will that be resolved?
     - name: 'twitter:image'
-      value: images/13.jpg
+      value: images/holaphil-blog-video-search.jpg
       relativeUrl: true
 template: post
 thumb_image: images/holaphil-blog-video-search.jpg
