@@ -18,7 +18,10 @@ seo:
       value: Project Title 7
       keyName: property
     - name: 'og:description'
-      value: This is the project 7 description
+      value: >-
+        The New York Television Festival is a pioneer of the independent
+        television movement, connecting its community of artists, networks,
+        studios, and brands.
       keyName: property
     - name: 'og:image'
       value: images/7.jpg
