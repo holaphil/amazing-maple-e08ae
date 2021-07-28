@@ -22,7 +22,7 @@ seo:
         shoppable experience.
       keyName: property
     - name: 'og:image'
-      value: NOW//with
+      value: images/1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
