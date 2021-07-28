@@ -7,7 +7,10 @@ image: images/portrait-logo-wellcomemat.png
 image_alt: A black headphones on a yeallow background
 seo:
   title: 'Co-Founder, Head of Product & Marketing @ WellcomeMat'
-  description: This is the project 7 description
+  description: >-
+    I built and lead a team of designers, developers and producers while
+    overseeing the execution of our strategic consumer and enterprise video
+    products.
   extra:
     - name: 'og:type'
       value: website
