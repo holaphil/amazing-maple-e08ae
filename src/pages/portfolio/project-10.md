@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 7
+      value: Creative Director @ NYTVF
     - name: 'twitter:description'
       value: >-
         The New York Television Festival is a pioneer of the independent
