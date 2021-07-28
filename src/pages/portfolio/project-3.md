@@ -28,7 +28,9 @@ seo:
     - name: 'twitter:title'
       value: 'Principal Product Manager, Innovation @ Verizon Media (RYOT)'
     - name: 'twitter:description'
-      value: This is the project 3 description
+      value: >-
+        Focused on driving innovation for RYOT’s team of 25+ content creators,
+        creative directors, business analysts, and account executives.
     - name: 'twitter:image'
       value: images/portrait-logo-RYOT-Studio.jpg
       relativeUrl: true
