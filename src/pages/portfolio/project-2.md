@@ -17,7 +17,10 @@ seo:
       value: 'Director of Product, Innovation @ Verizon Media'
       keyName: property
     - name: 'og:description'
-      value: This is the project 2 description
+      value: >-
+        Managed innovation programs providing direct product support and
+        leadership in two specific areas of our business: Growth and Emerging
+        Media.
       keyName: property
     - name: 'og:image'
       value: images/2.jpg
