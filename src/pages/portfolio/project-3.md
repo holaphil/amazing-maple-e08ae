@@ -14,7 +14,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 3
+      value: 'Principal Product Manager, Innovation @ Verizon Media (RYOT)'
       keyName: property
     - name: 'og:description'
       value: This is the project 3 description
