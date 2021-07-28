@@ -2,7 +2,7 @@
 title: Creative Director — NYTVF
 subtitle: 2005 - 2008
 date: '2017-01-15'
-thumb_image_alt: Pegshot
+thumb_image_alt: NYTVF logo
 image_alt: Framesocket
 seo:
   title: Creative Director @ NYTVF
