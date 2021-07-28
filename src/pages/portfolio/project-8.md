@@ -15,7 +15,9 @@ seo:
       value: 'Co-Founder, Head of Product & Marketing @ Pegshot'
       keyName: property
     - name: 'og:description'
-      value: This is the project 7 description
+      value: >-
+        Launched in 2009, Pegshot was arguably the first location-based mobile
+        photo AND video sharing application available on the Apple iPhone.
       keyName: property
     - name: 'og:image'
       value: images/image-pegshot.jpg
