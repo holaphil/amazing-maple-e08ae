@@ -8,7 +8,10 @@ image: images/portrait-logo-tremor-video.png
 image_alt: A handheld game console on a yellow background
 seo:
   title: Sr. Product Manager @ Tremor Video
-  description: This is the project 6 description
+  description: >-
+    Managed the product roadmap for Tremor Video’s VideoHub service (a Demand
+    Side Platform -- DSP), largely for the managed service side of the
+    business. 
   extra:
     - name: 'og:type'
       value: website
