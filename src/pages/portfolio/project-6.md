@@ -31,7 +31,10 @@ seo:
     - name: 'twitter:title'
       value: Sr. Product Manager @ Tremor Video
     - name: 'twitter:description'
-      value: This is the project 6 description
+      value: >-
+        Managed the product roadmap for Tremor Video’s VideoHub service (a
+        Demand Side Platform -- DSP), largely for the managed service side of
+        the business. 
     - name: 'twitter:image'
       value: images/portrait-logo-tremor-video.png
       relativeUrl: true
