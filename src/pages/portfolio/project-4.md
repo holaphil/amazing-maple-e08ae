@@ -17,7 +17,10 @@ seo:
       value: 'Principal Product Manager, Ad Formats @ Verizon Media'
       keyName: property
     - name: 'og:description'
-      value: This is the project 4 description
+      value: >-
+        Managed the design, development, and operational scaling for all video
+        ad formats across AOL’s publisher ecosystem (e.g. Huffington Post,
+        Techcrunch).
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
