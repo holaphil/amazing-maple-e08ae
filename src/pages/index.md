@@ -22,7 +22,7 @@ sections:
         no_follow: false
         type: action
       - label: lorem-ipsum
-        url: '#'
+        url: '#service'
         style: link
         icon: dribbble
         new_window: false
