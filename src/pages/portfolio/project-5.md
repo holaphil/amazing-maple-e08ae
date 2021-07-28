@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 5
+      value: 'Founder, Managing Director @ Product Council'
     - name: 'twitter:description'
       value: >-
         I formed the Product Council in 2013, a series of events where
