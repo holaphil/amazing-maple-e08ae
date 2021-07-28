@@ -19,7 +19,10 @@ seo:
       value: Project Title 5
       keyName: property
     - name: 'og:description'
-      value: This is the project 5 description
+      value: >-
+        I formed the Product Council in 2013, a series of events where
+        designers, entrepreneurs, product managers gather to solve product
+        challenges together.
       keyName: property
     - name: 'og:image'
       value: images/5.jpg
