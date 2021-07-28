@@ -38,7 +38,7 @@ seo:
         making video the center of real estate consumer experiences for agents,
         brokers & brands.
     - name: 'twitter:image'
-      value: images/7.jpg
+      value: images/portrait-logo-wellcomemat.png
       relativeUrl: true
 template: project
 subtitle: 2005 - 2013
