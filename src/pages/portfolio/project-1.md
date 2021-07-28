@@ -7,7 +7,7 @@ thumb_image_alt: NOW//with
 image: images/image-nowwith-chief-product-officer.jpg
 image_alt: NOW//with
 seo:
-  title: Project Title 1
+  title: NOW//with
   description: This is the project 1 description
   extra:
     - name: 'og:type'
