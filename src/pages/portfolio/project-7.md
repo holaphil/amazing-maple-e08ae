@@ -19,7 +19,10 @@ seo:
       value: 'Co-Founder, Head of Product & Marketing @ WellcomeMat'
       keyName: property
     - name: 'og:description'
-      value: This is the project 7 description
+      value: >-
+        WellcomeMat is a cloud-based video content management system (CMS)
+        making video the center of real estate consumer experiences for agents,
+        brokers & brands.
       keyName: property
     - name: 'og:image'
       value: images/7.jpg
