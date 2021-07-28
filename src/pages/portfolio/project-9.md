@@ -6,7 +6,7 @@ thumb_image_alt: Pegshot
 image_alt: Framesocket
 seo:
   title: 'Co-Founder, Head of Product & Marketing @ Framesocket'
-  description: "FrameSocket\_is a video solution for development teams and businesses of any kind.  FrameSocket's turnkey API engine "
+  description: "FrameSocket\_is a video solution for development teams and businesses of any kind.  FrameSocket's turnkey API engine helps to quickly implement video and photo uploads, custom CDN’s, encoding, hosting, and distribution into your products."
   extra:
     - name: 'og:type'
       value: website
