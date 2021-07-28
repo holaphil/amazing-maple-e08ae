@@ -38,7 +38,7 @@ seo:
         designers, entrepreneurs, product managers gather to solve product
         challenges together.
     - name: 'twitter:image'
-      value: images/5.jpg
+      value: images/portrait-logo-product-council.jpg
       relativeUrl: true
 template: project
 ---
