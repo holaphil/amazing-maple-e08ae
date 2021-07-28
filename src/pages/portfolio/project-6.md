@@ -14,7 +14,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 6
+      value: Sr. Product Manager @ Tremor Video
       keyName: property
     - name: 'og:description'
       value: This is the project 6 description
