@@ -17,7 +17,10 @@ seo:
       value: Sr. Product Manager @ Tremor Video
       keyName: property
     - name: 'og:description'
-      value: This is the project 6 description
+      value: >-
+        Managed the product roadmap for Tremor Video’s VideoHub service (a
+        Demand Side Platform -- DSP), largely for the managed service side of
+        the business. 
       keyName: property
     - name: 'og:image'
       value: images/super-eucalyptus.png
