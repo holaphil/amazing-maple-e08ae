@@ -34,7 +34,11 @@ template: project
 thumb_image: images/image-pegshot.jpg
 image: images/image-pegshot.jpg
 ---
-Launched in 2009, **Pegshot** was arguably the first location-based mobile photo AND video sharing application available on the Apple iPhone. As the Head of Product & Marketing, I oversaw both our product design and development as well as all product marketing.
+Launched in 2009, **Pegshot** was arguably the first location-based mobile photo AND video sharing application available on the Apple iPhone. As a co-founder, I focused largely on my team's mobile app development as well as all product design and marketing. At the time, I had been working with our team to develop a mobile app for consumers to quickly capture and upload video on WellcomeMat.
+
+
+
+As the Head of Product & Marketing, I oversaw both our product design and development as well as all product marketing.
 
 While **Pegshot** received early support and accolades, over time the market became oversaturated with platforms (e.g. Instagram) with more greater scale and larger financial backing. Consequently, in 2011 we shuttered **Pegshot** and continued focusing on the growth of **WellcomeMat.**
 
