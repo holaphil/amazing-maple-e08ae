@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:title'
       value: Project Title 7
     - name: 'twitter:description'
-      value: This is the project 7 description
+      value: "FrameSocket\_is a video solution for development teams. Quickly implement video uploads, custom CDN’s, encoding, hosting, and distribution into your products."
     - name: 'twitter:image'
       value: images/7.jpg
       relativeUrl: true
