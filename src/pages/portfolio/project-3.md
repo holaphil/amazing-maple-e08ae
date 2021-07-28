@@ -17,7 +17,9 @@ seo:
       value: 'Principal Product Manager, Innovation @ Verizon Media (RYOT)'
       keyName: property
     - name: 'og:description'
-      value: This is the project 3 description
+      value: >-
+        Focused on driving innovation for RYOT’s team of 25+ content creators,
+        creative directors, business analysts, and account executives.
       keyName: property
     - name: 'og:image'
       value: images/portrait-logo-RYOT-Studio.jpg
