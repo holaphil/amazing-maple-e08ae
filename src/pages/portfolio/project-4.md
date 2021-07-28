@@ -7,7 +7,7 @@ thumb_image_alt: A table tennis racket on a pink background
 image: images/image-verizon-principal-product-manager-adformats.jpg
 image_alt: A table tennis racket on a pink background
 seo:
-  title: Project Title 4
+  title: 'Principal Product Manager, Ad Formats @ Verizon Media'
   description: This is the project 4 description
   extra:
     - name: 'og:type'
