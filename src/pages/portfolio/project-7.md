@@ -6,7 +6,7 @@ thumb_image_alt: WellcomeMat
 image: images/portrait-logo-wellcomemat.png
 image_alt: A black headphones on a yeallow background
 seo:
-  title: Project Title 7
+  title: 'Co-Founder, Head of Product & Marketing @ WellcomeMat'
   description: This is the project 7 description
   extra:
     - name: 'og:type'
