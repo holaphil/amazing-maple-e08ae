@@ -11,6 +11,11 @@
                 "style": "link"
             },
             {
+                "label": "Work",
+                "url": "/portfolio/",
+                "style": "link"
+            },
+            {
                 "label": "Startups",
                 "url": "/startups",
                 "style": "link",
@@ -18,11 +23,6 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
-            },
-            {
-                "label": "Work",
-                "url": "/portfolio/",
-                "style": "link"
             },
             {
                 "label": "Writing",
