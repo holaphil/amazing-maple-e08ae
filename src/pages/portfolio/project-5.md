@@ -8,7 +8,9 @@ image: images/portrait-image-product-council-6.jpg
 image_alt: Image of the Product Council event and stage c. 2019
 seo:
   title: 'Founder, Managing Director @ Product Council'
-  description: 'I formed the Product Council in 2013. '
+  description: >-
+    I formed the Product Council in 2013, a series of events where designers,
+    entrepreneurs, product managers gather to solve product challenges together.
   extra:
     - name: 'og:type'
       value: website
