@@ -5,7 +5,7 @@ date: '2017-01-15'
 thumb_image_alt: Pegshot
 image_alt: Framesocket
 seo:
-  title: Project Title 7
+  title: Creative Director @ NYTVF
   description: This is the project 7 description
   extra:
     - name: 'og:type'
