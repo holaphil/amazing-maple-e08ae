@@ -11,8 +11,8 @@ excerpt: >-
 seo:
   title: holaphil / The future of video search
   description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore
+    The guts of every video on the internet has been utterly overlooked and
+    ignored by search engines. How will that be resolved?
   extra:
     - name: 'og:type'
       value: article
