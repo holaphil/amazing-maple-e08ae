@@ -16,7 +16,10 @@ seo:
       value: Project Title 1
       keyName: property
     - name: 'og:description'
-      value: This is the project 1 description
+      value: >-
+        NOW//with curates new forms of social commerce for consumers by
+        integrating talent, e-commerce, and video into a seamless unified
+        shoppable experience.
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
