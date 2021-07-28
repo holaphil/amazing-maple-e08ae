@@ -25,7 +25,7 @@ seo:
         challenges together.
       keyName: property
     - name: 'og:image'
-      value: images/5.jpg
+      value: images/portrait-logo-product-council.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
