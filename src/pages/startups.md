@@ -46,7 +46,7 @@ Today, WellcomeMat and our team support video strategies for thousands of real a
 
 Today, Product Council has over 1,500 members and continues to host events in support of designers, entrepreneurs, and product managers gathering to share and solve product challenges.
 
-[Learn More](/portfolio/project-5/)
+[Learn More](/portfolio/product)
 
 # Pegshot
 
