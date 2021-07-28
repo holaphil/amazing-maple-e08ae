@@ -8,9 +8,9 @@ image_alt: A black headphones on a yeallow background
 seo:
   title: 'Co-Founder, Head of Product & Marketing @ WellcomeMat'
   description: >-
-    I built and lead a team of designers, developers and producers while
-    overseeing the execution of our strategic consumer and enterprise video
-    products.
+    WellcomeMat is a cloud-based video content management system (CMS) making
+    video the center of real estate consumer experiences for agents, brokers &
+    brands.
   extra:
     - name: 'og:type'
       value: website
