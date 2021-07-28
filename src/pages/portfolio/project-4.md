@@ -33,7 +33,10 @@ seo:
     - name: 'twitter:title'
       value: Project Title 4
     - name: 'twitter:description'
-      value: This is the project 4 description
+      value: >-
+        Managed the design, development, and operational scaling for all video
+        ad formats across AOL’s publisher ecosystem (e.g. Huffington Post,
+        Techcrunch).
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
