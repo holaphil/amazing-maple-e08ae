@@ -14,7 +14,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 4
+      value: 'Principal Product Manager, Ad Formats @ Verizon Media (AOL/Yahoo)'
       keyName: property
     - name: 'og:description'
       value: This is the project 4 description
