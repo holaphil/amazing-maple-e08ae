@@ -6,7 +6,9 @@ thumb_image_alt: Pegshot
 image_alt: A black headphones on a yeallow background
 seo:
   title: Project Title 7
-  description: This is the project 7 description
+  description: >-
+    Launched in 2009, Pegshot was arguably the first location-based mobile photo
+    AND video sharing application available on the Apple iPhone.
   extra:
     - name: 'og:type'
       value: website
