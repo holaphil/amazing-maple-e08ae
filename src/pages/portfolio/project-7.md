@@ -33,7 +33,10 @@ seo:
     - name: 'twitter:title'
       value: 'Co-Founder, Head of Product & Marketing @ WellcomeMat'
     - name: 'twitter:description'
-      value: This is the project 7 description
+      value: >-
+        WellcomeMat is a cloud-based video content management system (CMS)
+        making video the center of real estate consumer experiences for agents,
+        brokers & brands.
     - name: 'twitter:image'
       value: images/7.jpg
       relativeUrl: true
