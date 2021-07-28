@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: NOW//with
+      value: Chief Product Officer @ NOW//with
       keyName: property
     - name: 'og:description'
       value: >-
