@@ -12,7 +12,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 7
+      value: 'Co-Founder, Head of Product & Marketing @ Framesocket'
       keyName: property
     - name: 'og:description'
       value: "FrameSocket\_is a video solution for development teams. Quickly implement video uploads, custom CDN’s, encoding, hosting, and distribution into your products."
