@@ -36,4 +36,8 @@ image: images/image-pegshot.jpg
 ---
 Co-founded Pegshot in 2010, arguably the first location-based mobile photo AND video sharing application available on the Apple iPhone.
 
+and is one of those examples of a Take a picture or video and instantly show off what's happening where you are with your mobile phone. Mobile Application Quickly Ties Photo & Video Content To Location Take a picture or video and instantly show off what's happening where you are with your mobile phone. Peg shots to places, events or brands + share them online!
+
+Launched in 2009, Pegshot was a powerfully simple way to instantly broadcast mobile media (videos & photos) while also tagging media to places and events. Over time, Pegshot precursor to newer photo sharing services, including Instagram and Color.
+
 > "Design is not a single object or dimension. Design is messy and complex." - Natasha Jen
