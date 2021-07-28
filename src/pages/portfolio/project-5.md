@@ -16,7 +16,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 5
+      value: 'Founder, Managing Director @ Product Council'
       keyName: property
     - name: 'og:description'
       value: >-
