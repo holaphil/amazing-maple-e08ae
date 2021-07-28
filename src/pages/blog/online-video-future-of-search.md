@@ -26,7 +26,7 @@ seo:
         tempor incididunt ut labore
       keyName: property
     - name: 'og:image'
-      value: images/13.jpg
+      value: images/holaphil-blog-video-search.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
