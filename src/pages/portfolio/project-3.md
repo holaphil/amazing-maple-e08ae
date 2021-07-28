@@ -8,7 +8,9 @@ image: images/portrait-image-ryot-studio.png
 image_alt: A yellow retro telephone on a yellow background
 seo:
   title: 'Principal Product Manager, Innovation @ Verizon Media (RYOT)'
-  description: This is the project 3 description
+  description: >-
+    Focused on driving innovation for RYOT’s team of 25+ content creators,
+    creative directors, business analysts, and account executives.
   extra:
     - name: 'og:type'
       value: website
