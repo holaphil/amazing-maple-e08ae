@@ -2,7 +2,7 @@
 title: 'Co-Founder, Head of Product & Marketing — Pegshot'
 subtitle: 2009 - 2011
 date: '2018-01-15'
-thumb_image_alt: Pegshot
+thumb_image_alt: Pegshot logo
 image_alt: A black headphones on a yeallow background
 seo:
   title: 'Co-Founder, Head of Product & Marketing @ Pegshot'
