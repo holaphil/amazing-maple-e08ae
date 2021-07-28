@@ -30,7 +30,10 @@ seo:
     - name: 'twitter:title'
       value: Chief Product Officer @ NOW//with
     - name: 'twitter:description'
-      value: This is the project 1 description
+      value: >-
+        NOW//with curates new forms of social commerce for consumers by
+        integrating talent, e-commerce, and video into a seamless unified
+        shoppable experience.
     - name: 'twitter:image'
       value: images/portrait-logo-nowwith.jpg
       relativeUrl: true
