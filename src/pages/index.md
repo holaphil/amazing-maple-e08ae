@@ -14,15 +14,15 @@ sections:
       - label: View My Work
         url: /portfolio
         style: button
-      - label: Contact Me
-        url: /contact
+      - label: What I do
+        url: '#services'
         style: button
         icon: dribbble
         new_window: false
         no_follow: false
         type: action
-      - label: What I do
-        url: '#services'
+      - label: Contact Me
+        url: /contact
         style: button
         icon: dribbble
         new_window: false
