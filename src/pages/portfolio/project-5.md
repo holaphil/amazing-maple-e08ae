@@ -8,7 +8,7 @@ image: images/portrait-image-product-council-6.jpg
 image_alt: Image of the Product Council event and stage c. 2019
 seo:
   title: 'Founder, Managing Director @ Product Council'
-  description: This is the project 5 description
+  description: 'I formed the Product Council in 2013. '
   extra:
     - name: 'og:type'
       value: website
