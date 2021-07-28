@@ -9,7 +9,7 @@ excerpt: >-
   for all parties involved – content producers, platforms and search engines
   alike. How can we fix what we can not see? What is the future of video search?
 seo:
-  title: The function of design is letting design function
+  title: holaphil / The future of video search
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore
