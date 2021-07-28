@@ -8,7 +8,9 @@ image: images/marvelous-tulip.png
 image_alt: An orange on a blue background
 seo:
   title: 'Director of Product, Innovation @ Verizon Media'
-  description: This is the project 2 description
+  description: >-
+    Managed innovation programs providing direct product support and leadership
+    in two specific areas of our business: Growth and Emerging Media.
   extra:
     - name: 'og:type'
       value: website
