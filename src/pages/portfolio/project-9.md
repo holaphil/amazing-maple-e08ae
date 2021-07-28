@@ -15,7 +15,7 @@ seo:
       value: Project Title 7
       keyName: property
     - name: 'og:description'
-      value: This is the project 7 description
+      value: "FrameSocket\_is a video solution for development teams. Quickly implement video uploads, custom CDN’s, encoding, hosting, and distribution into your products."
       keyName: property
     - name: 'og:image'
       value: images/7.jpg
