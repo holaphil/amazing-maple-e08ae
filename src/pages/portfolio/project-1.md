@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:description'
       value: This is the project 1 description
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: images/portrait-logo-nowwith.jpg
       relativeUrl: true
   description: >-
     NOW//with curates new forms of social commerce for consumers by integrating
