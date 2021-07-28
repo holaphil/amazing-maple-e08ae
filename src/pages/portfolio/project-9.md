@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 7
+      value: 'Co-Founder, Head of Product & Marketing @ Framesocket'
     - name: 'twitter:description'
       value: "FrameSocket\_is a video solution for development teams. Quickly implement video uploads, custom CDN’s, encoding, hosting, and distribution into your products."
     - name: 'twitter:image'
