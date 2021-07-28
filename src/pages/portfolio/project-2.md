@@ -28,7 +28,10 @@ seo:
     - name: 'twitter:title'
       value: 'Director of Product, Innovation @ Verizon Media'
     - name: 'twitter:description'
-      value: This is the project 2 description
+      value: >-
+        Managed innovation programs providing direct product support and
+        leadership in two specific areas of our business: Growth and Emerging
+        Media.
     - name: 'twitter:image'
       value: images/portrait-logo-verizon-media.jpg
       relativeUrl: true
