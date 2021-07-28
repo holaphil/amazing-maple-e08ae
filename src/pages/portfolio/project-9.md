@@ -6,7 +6,7 @@ thumb_image_alt: Pegshot
 image_alt: Framesocket
 seo:
   title: 'Co-Founder, Head of Product & Marketing @ Framesocket'
-  description: 'Co-Founder, Head of Product & Marketing — Framesocket'
+  description: "FrameSocket\_is a video solution for developers."
   extra:
     - name: 'og:type'
       value: website
