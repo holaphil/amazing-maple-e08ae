@@ -14,7 +14,7 @@ sections:
       - label: View My Work
         url: /portfolio
         style: button
-      - label: Talk to Me
+      - label: Say Hello
         url: /contact
         style: button
         icon: dribbble
