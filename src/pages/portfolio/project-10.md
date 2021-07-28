@@ -37,7 +37,7 @@ seo:
         television movement, connecting its community of artists, networks,
         studios, and brands.
     - name: 'twitter:image'
-      value: images/7.jpg
+      value: images/portrait-image-nytvf.jpg
       relativeUrl: true
 template: project
 thumb_image: images/portrait-image-nytvf.jpg
