@@ -54,7 +54,7 @@ September 2019 - Present in New York, NY
 
 *   The platform contains several key products including but not limited to a universal checkout SDK, interactive video, social data mapping, and reporting/product ingestion tools for brands and talent.
 
-<mark>[**Learn more here**](/work/project-1/)</mark>
+<mark>[**Learn more here**](/work/nowwith/)</mark>
 
 <HR>
 
