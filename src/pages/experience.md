@@ -54,7 +54,7 @@ September 2019 - Present in New York, NY
 
 *   The platform contains several key products including but not limited to a universal checkout SDK, interactive video, social data mapping, and reporting/product ingestion tools for brands and talent.
 
-<mark>[**Learn more here**](/portfolio/project-1/)</mark>
+<mark>[**Learn more here**](/work/project-1/)</mark>
 
 <HR>
 
@@ -80,7 +80,7 @@ September 2017 -  November 2018 in New York, NY
 
 *   Oversaw consolidation of RYOT’s service data/analytics reporting systems (social, native, video) into a single centralized reporting platform and the activation of Verizon Media's first shoppable video commerce experiences.
 
-<mark>[**Learn more here**](/portfolio/project-3/)</mark>
+<mark>[**Learn more here**](/work/project-3/)</mark>
 
 <HR>
 
@@ -93,7 +93,7 @@ September 2015 -  August 2017 in New York, NY
 
 *   Initiated first user research programs which led to the development and launch of several new native ad products in the mobile payments and interactive video space.
 
-<mark>[**Learn more here**](/portfolio/project-4/)</mark>
+<mark>[**Learn more here**](/work/project-4/)</mark>
 
 <HR>
 
@@ -106,7 +106,7 @@ September 2013 -  August 2015 in New York, NY
 
 *   Served as voice of the customer for ad trafficking team building new features to improve platform audience management, viewability, inventory, and cross-device targeting.
 
-<mark>[**Learn more here**](/portfolio/project-6/)</mark>
+<mark>[**Learn more here**](/work/project-6/)</mark>
 
 <HR>
 
@@ -120,7 +120,7 @@ Co-Founder, Head of Product & Marketing<BR>
 
 *   Designed and patented one of the web’s first cloud-based interactive video players.
 
-<mark>[**Learn more here**](/portfolio/project-7/)</mark>
+<mark>[**Learn more here**](/work/project-7/)</mark>
 
 <HR>
 
