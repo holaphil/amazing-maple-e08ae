@@ -28,6 +28,16 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
+## NOW//with
+
+![](images/image-nowwith-chief-product-officer.jpg)
+
+
+
+
+
+
+
 ## WellcomeMat.com
 
 ![](images/panoramic-tomato.jpg)
@@ -52,7 +62,7 @@ Today, Product Council has over 1,500 members and continues to host events in su
 
 ![](images/portrait-image-pegshot.jpg)
 
-**Pegshot is a mobile startup I co-founded in 2009.** The idea for this business came as a result of a mobile video service our team initially built for [**Wellcomemat**](https://www.wellcomemat.com/). At the time, I had been working with our team to develop a mobile app for consumers to quickly capture and upload video on WellcomeMat. Each video could be tagged immediately with relevant local MLS information and then shared on WellcomeMat as well as promoted across relevant social media platforms (e.g. Facebook, Twitter). With Pegshot, we simply broadened that concept beyond real estate in support of video AND photos tagged to any place or space around the world. 
+**Pegshot is a mobile startup I co-founded in 2009.** The idea for this business came as a result of a mobile video service our team initially built for [**Wellcomemat**](https://www.wellcomemat.com/). At the time, I had been working with our team to develop a mobile app for consumers to quickly capture and upload video on WellcomeMat. Each video could be tagged immediately with relevant local MLS information and then shared on WellcomeMat as well as promoted across relevant social media platforms (e.g. Facebook, Twitter). With Pegshot, we simply broadened that concept beyond real estate in support of video AND photos tagged to any place or space around the world.
 
 While **Pegshot** received early support and accolades, over time the market became oversaturated with platforms (e.g. Instagram) with more greater scale and larger financial backing. Consequently, we shuttered **Pegshot** in 2011 to continue focusing on the growth of **WellcomeMat.**
 
