@@ -127,10 +127,9 @@ Co-Founder, Head of Product & Marketing<BR>
 
 Roles I performed earlier in my career prior to focusing on building and managing products include the following:
 
-[**NYTVF**](https://www.nytvf.com/)
-
-Creative Director
-2005 - 2007 in New York, NY
+[**NYTVF**](https://www.nytvf.com/)<BR>
+Creative Director<BR>
+2005 - 2007 in New York, NY<BR>
 
 [**BBDO**](https://www.bbdo.com/), [**Heartbeat Digital**](https://www.weareheartbeat.com/)<BR>
 Freelance Art Director<BR>
