@@ -125,9 +125,7 @@ Co-Founder, Head of Product & Marketing<BR>
 
 ###### Other Past Roles
 
-Roles I performed earlier in my career prior to focusing on building and managing products.
-
-
+Roles I performed earlier in my career prior to focusing on building and managing products include the following:
 
 [**NYTVF**](https://www.nytvf.com/)
 Creative Director
