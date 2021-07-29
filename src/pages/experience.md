@@ -103,7 +103,6 @@ September 2013 -  August 2015 in New York, NY
 
 *   Owned product roadmap of Tremor’s DSP service working with 25+ engineers and designers located in Singapore, San Francisco, New York and Boston.
 
-
 *   Served as voice of the customer for ad trafficking team building new features to improve platform audience management, viewability, inventory, and cross-device targeting.
 
 <mark>[**Learn more here**](/work/tremor-video/)</mark>
@@ -116,13 +115,19 @@ Co-Founder, Head of Product & Marketing<BR>
 
 *   Co-founded the world’s first SAAS based video platform for real estate.
 
-*   Responsible for product development, design & marketing of WellcomeMat’s enterprise SAAS video products as well as all filmmaker/videographer outreach. 
+*   Responsible for product development, design & marketing of WellcomeMat’s enterprise SAAS video products as well as all filmmaker/videographer outreach.
 
 *   Designed and patented one of the web’s first cloud-based interactive video players.
 
 <mark>[**Learn more here**](/work/wellcomemat/)</mark>
 
 <HR>
+
+
+
+# Other Roles
+
+
 
 [**NYTVF**](https://www.nytvf.com/)<BR>
 Creative Director<BR>
@@ -147,4 +152,5 @@ Design Engineer<BR>
 [**eBay (GSI Commerce)**](https://www.ebay.com/)<BR>
 Designer<BR>
 1999 - 2000 in King of Prussia, PA
+
 #
