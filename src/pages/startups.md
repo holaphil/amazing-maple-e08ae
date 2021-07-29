@@ -34,7 +34,7 @@ template: page
 
 NOW//with creates and curates new forms of social commerce for consumers by integrating talent, e-commerce, and video into a seamless unified shoppable experience. I joined NOW//with in 2019 as their two co-founders were just closing a first round of funding. While there had been some preliminary testing of the idea,  At the time there were two co-founders with a vision  
 
-[Learn More](/work/wellcomemat/)
+[Learn More](/work/nowwith/)
 
 
 
