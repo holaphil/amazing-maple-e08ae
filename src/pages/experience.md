@@ -125,7 +125,7 @@ Co-Founder, Head of Product & Marketing<BR>
 
 ###### Other Past Roles
 
-
+<BR>
 
 [**NYTVF**](https://www.nytvf.com/)<BR>
 Creative Director<BR>
