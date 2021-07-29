@@ -36,7 +36,7 @@ template: page
 
 Today, WellcomeMat and our team support video strategies for thousands of real agents and many of world’s leading real estate brands,
 
-[Learn More](/portfolio/wellcomemat/)
+[Learn More](/work/wellcomemat/)
 
 ## Product Council
 
@@ -46,7 +46,7 @@ Today, WellcomeMat and our team support video strategies for thousands of real a
 
 Today, Product Council has over 1,500 members and continues to host events in support of designers, entrepreneurs, and product managers gathering to share and solve product challenges.
 
-[Learn More](/portfolio/product-council/)
+[Learn More](/work/product-council/)
 
 # Pegshot
 
@@ -56,7 +56,7 @@ Today, Product Council has over 1,500 members and continues to host events in su
 
 While **Pegshot** received early support and accolades, over time the market became oversaturated with platforms (e.g. Instagram) with more greater scale and larger financial backing. Consequently, we shuttered **Pegshot** in 2011 to continue focusing on the growth of **WellcomeMat.**
 
-[Learn More](/portfolio/pegshot/)
+[Learn More](/work/pegshot/)
 
 # Framesocket
 
@@ -66,11 +66,11 @@ While **Pegshot** received early support and accolades, over time the market b
 
 Today, while we no longer sell Framesocket as a service, the core of Framesocket's API services continue to power WellcomeMat's video solutions.
 
-[Learn More](/portfolio/framesocket/)
+[Learn More](/work/framesocket/)
 
 # New York Television Festival
 
-[Learn More](/portfolio/nytvf/)
+[Learn More](/work/nytvf/)
 
 # The Future of Local
 
