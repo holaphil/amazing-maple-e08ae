@@ -80,7 +80,7 @@ September 2017 -  November 2018 in New York, NY
 
 *   Oversaw consolidation of RYOT’s service data/analytics reporting systems (social, native, video) into a single centralized reporting platform and the activation of Verizon Media's first shoppable video commerce experiences.
 
-<mark>[**Learn more here**](/work/project-3/)</mark>
+<mark>[**Learn more here**](/work/verizon-media-2/)</mark>
 
 <HR>
 
