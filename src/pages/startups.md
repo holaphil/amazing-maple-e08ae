@@ -32,11 +32,13 @@ template: page
 
 ![](images/image-nowwith-chief-product-officer.jpg)
 
-NOW//with creates and curates new forms of social commerce for consumers by integrating talent, e-commerce, and video into a seamless unified shoppable experience. I joined NOW//with in 2019 as their two co-founders were just closing a first round of funding. While there had been some preliminary testing of the idea,  At the time there were two co-founders with a vision  
+**As the first executive hire, I joined NOW//with in 2019** at a time when there were a lot of ideas for what the NOW//with would become, but no obvious direction nor MVP to **. **At the time, our two co-founders had just completed a round of funding and were seeking to position the brand as a destination where consumers could watch and shop their favorite brands -- all curated by celebrity talent. “The people you love, sharing the things they love.” Over the following 18 months I helped a conboard a team , build our MVP, and establish a framework for success
+
+While there had been some preliminary testing of the idea, there
+
+ At the time there were two co-founders with a vision NOW//with creates and curates new forms of social commerce for consumers by integrating talent, e-commerce, and video into a seamless unified shoppable experience. 
 
 [Learn More](/work/nowwith/)
-
-
 
 ## WellcomeMat.com
 
