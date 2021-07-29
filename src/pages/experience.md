@@ -93,7 +93,7 @@ September 2015 -  August 2017 in New York, NY
 
 *   Initiated first user research programs which led to the development and launch of several new native ad products in the mobile payments and interactive video space.
 
-<mark>[**Learn more here**](/work/project-4/)</mark>
+<mark>[**Learn more here**](/work/verizon-media-1/)</mark>
 
 <HR>
 
