@@ -196,7 +196,7 @@ models:
         label: Seo
   portfolio:
     type: page
-    urlPath: /portfolio
+    urlPath: /work
     label: Portfolio
     layout: portfolio
     file: work/index.md
@@ -231,7 +231,7 @@ models:
     layout: page
     exclude:
       - blog/**
-      - portfolio/**
+      - work/**
     fields:
       - type: string
         name: title
@@ -302,10 +302,10 @@ models:
         label: Seo
   project:
     type: page
-    urlPath: /portfolio/{slug}
+    urlPath: /work/{slug}
     label: Project
     layout: project
-    folder: portfolio
+    folder: work
     fields:
       - type: string
         name: title
