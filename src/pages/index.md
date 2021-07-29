@@ -12,7 +12,7 @@ sections:
       corporate environments. You can learn more about me [here](/about/).
     actions:
       - label: View my work
-        url: /portfolio
+        url: /work
         style: button
       - label: See what I do
         url: '#services'
@@ -35,7 +35,7 @@ sections:
     subtitle: Select “Work” in main navigation to view other roles.
     projects_number: 2
     view_all_label: VIEW ALL WORK
-    view_all_url: portfolio
+    view_all_url: /work
   - section_id: services
     type: section_grid
     title: What I Do
