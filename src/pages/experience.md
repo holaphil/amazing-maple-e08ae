@@ -125,6 +125,8 @@ Co-Founder, Head of Product & Marketing<BR>
 
 ###### Other Past Roles
 
+
+
 [**NYTVF**](https://www.nytvf.com/)<BR>
 Creative Director<BR>
 2005 - 2007 in New York, NY
