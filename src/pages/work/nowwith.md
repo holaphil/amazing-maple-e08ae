@@ -38,7 +38,7 @@ seo:
       value: images/portrait-logo-nowwith.jpg
       relativeUrl: true
   description: >-
-    NOW//with curates new forms of social commerce for consumers by integrating
+    NOWwith curates new forms of social commerce for consumers by integrating
     talent, e-commerce, and video into a seamless unified shoppable experience.
 template: project
 ---
