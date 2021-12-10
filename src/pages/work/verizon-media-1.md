@@ -1,5 +1,5 @@
 ---
-title: 'Principal Product Manager, Interactive Ad Formats — Verizon Media (AOL/Yahoo)'
+title: 'Principal Product Manager, Video Ad Formats — Verizon Media (AOL/Yahoo)'
 subtitle: September 2015 - August 2017
 date: '2019-02-26'
 thumb_image: images/portrait-logo-aol-yahoo.jpg
