@@ -1,5 +1,5 @@
 ---
-title: Creative Director — NYTVF
+title: Managing Director — NYTVF
 subtitle: 2005 - 2008
 date: '2017-01-15'
 thumb_image_alt: NYTVF logo
