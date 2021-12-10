@@ -42,7 +42,7 @@ seo:
       relativeUrl: true
 template: project
 ---
-As a **Product Innovation Director**, I managed innovation programs providing direct product support and leadership in two specific areas of our business: **Growth** (e.g. Commerce, Branded Content and Native Advertising) and **Emerging Media** (e.g. VR, Audio, Connected Car). This role  required the management of products across multiple departments (Demand, Supply, Publisher CMS) while working with teams of **50+ product managers, engineers, and designers** extending across the organization to identify, develop, and deliver new innovations across Verizon Media's owned and operating publisher networks (e.g. Huffington Post, Yahoo Sports / Entertainment / Finance, AOL, Techcrunch, etc.)
+As **Director of Product Innovation**, I managed product innovation execution across emerging (VR, Audio, and Connected Car) & growth (Commerce, Branded Content, and Native Advertising) within Verizon Media’s premium sales business. This role  required the management of products across multiple departments (Demand, Supply, Publisher CMS) while working with teams of **50+ product managers, engineers, and designers** extending across the organization to identify, develop, and deliver new innovations across Verizon Media's owned and operating publisher networks (e.g. Huffington Post, Yahoo Sports / Entertainment / Finance, AOL, Techcrunch, etc.)
 
 <HR>
 
