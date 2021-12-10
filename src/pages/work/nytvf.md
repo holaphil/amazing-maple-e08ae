@@ -45,12 +45,8 @@ image: images/portrait-image-nytvf.jpg
 ---
 The **New York Television Festival** launched in 2005 as the industry's first creative festival for television artists. The festival became a pioneer of the independent television movement, connecting its community of artists with leading networks, studios, agencies, production companies, and brands. I joined as a founding team member in 2005 helping to manage and guide the festival's online digital strategy. Over the course of three plus years, I helped identify and establish NYTVF's brand identify (both on and offline). Following our initial success, the festival continued on for a total of 12 years. Over that time it attracted over 140k attendees and 17k members submitting content across our digital channels.
 
-![](images/nytvf-quote.jpg)
-
 **Brand Development**: Oversaw the establishment of our initial brand identity including all design and visual guidelines. Served as in-house Creative  Director leading all festival related branding both for online digital promotions and the physical festival.
 
-related content development
+**Content Activations**: Led content activation strategy discussions and subsequent activations for all network partner integrations including NBC, ABC, and FOX.
 
-Lead a team of developers, designers, producers, and data scientists while overseeing the creative and technical execution of our product roadmap all the way through delivery, including concept, testing, and launch.
-
-Content Integrations
+**Product Integrations:** Initiated and managed all product integrations with our MSN / XBOX partner.
