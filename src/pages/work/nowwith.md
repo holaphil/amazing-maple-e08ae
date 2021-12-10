@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Chief Product Officer @ NOW//with
+      value: 'Chief Product Officer, NOWwith'
     - name: 'twitter:description'
       value: >-
         NOW//with curates new forms of social commerce for consumers by
