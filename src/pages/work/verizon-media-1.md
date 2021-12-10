@@ -48,11 +48,11 @@ As a **Principal Product Manager**, I managed the design, development, and opera
 
 **Problems I worked on:**
 
-*   **How can we upgrade and advance our existing product line of ad formats** to provide the sales team a more competitive offering for their clients/brands?
+*   **How can we upgrade and advance our existing product line of video ad formats** to provide the sales team a more competitive offering for their clients/brands?
 
 <!---->
 
-*   **How can we develop best-in-class products offering compelling new forms of advertising** taking advantage of Verizon’s unique device and network footprint?
+*   **How can we develop best-in-class products offering compelling new forms of digital advertising** taking advantage of Verizon’s unique device and network footprint?
 
 <!---->
 
