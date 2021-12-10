@@ -49,18 +49,8 @@ The **New York Television Festival** launched in 2005 as the industry's first cr
 
 **Brand Development**: Oversaw the establishment of our initial brand identity including all design and visual guidelines. Served as in-house Creative  Director leading all festival related branding both for online digital promotions and the physical festival.
 
-
-
 related content development
 
- Lead a team of developers, designers, producers, and data scientists while overseeing the creative and technical execution of our product roadmap all the way through delivery, including concept, testing, and launch.
+Lead a team of developers, designers, producers, and data scientists while overseeing the creative and technical execution of our product roadmap all the way through delivery, including concept, testing, and launch.
 
 Content Integrations
-
-
-
-
-
-
-
- 
