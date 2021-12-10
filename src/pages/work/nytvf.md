@@ -52,7 +52,3 @@ I joined as a **founding team member in 2005** helping to manage and guide the f
 **Content Activations**: Led early stage digital content activation strategy and subsequent content distribution for all networks, studios, production companies, digital platforms and brands.
 
 **Product Integrations:** Initiated and managed all product development for product integrations within our MSN / XBOX partnership.
-
-
-
-![](images/6215120234\_383aa1da68\_k.jpg)
