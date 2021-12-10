@@ -43,4 +43,4 @@ template: project
 thumb_image: images/portrait-image-nytvf.jpg
 image: images/portrait-image-nytvf.jpg
 ---
-Details coming soon...
+The **New York Television Festival** launched in 2005 as the industry's first creative festival for television artists. The festival became a pioneer of the independent television movement, connecting its community of artists with leading networks, studios, agencies, production companies, and brands. I joined as a founding team member in 2005 helping to manage and guide the festival's online digital strategy. Over the course of three plus years, I helped identify and establish NYTVF's brand identify (both on and offline). Following our initial success, the festival continued on for a total of 12 years. Over that time it attracted over 140k attendees and 17k members submitting content across our digital channels.
