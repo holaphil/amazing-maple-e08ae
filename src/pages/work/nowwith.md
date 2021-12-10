@@ -7,7 +7,7 @@ thumb_image_alt: NOW//with logo
 image: images/image-nowwith-chief-product-officer.jpg
 image_alt: NOW//with
 seo:
-  title: Chief Product Officer @ NOW//with
+  title: Chief Product Officer @ NOWwith
   extra:
     - name: 'og:type'
       value: website
