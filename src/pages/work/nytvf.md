@@ -43,10 +43,12 @@ template: project
 thumb_image: images/portrait-image-nytvf.jpg
 image: images/portrait-image-nytvf.jpg
 ---
-The **New York Television Festival** launched in 2005 as the industry's first creative festival for television artists. The festival became a pioneer of the independent television movement, connecting its community of artists with leading networks, studios, agencies, production companies, and brands. I joined as a founding team member in 2005 helping to manage and guide the festival's online digital strategy. Over the course of three plus years, I helped identify and establish NYTVF's brand identify (both on and offline). Following our initial success, the festival continued on for a total of 12 years. Over that time it attracted over 140k attendees and 17k members submitting content across our digital channels.
+The **New York Television Festival** launched in 2005 as the industry's first creative festival for television artists. The festival became a pioneer of the independent television movement by constructing new and innovative paths of development and talent identification, while simultaneously complementing the traditional television development model.
+
+I joined as a founding team member in 2005 helping to manage and guide the festival's online digital strategy. Over the course of three plus years, I helped identify and establish NYTVF's brand identify (both on and offline). Following our initial success, the festival continued on for a total of 12 years. Over that time it attracted over 140k attendees and 17k members submitting content across our digital channels.
 
 **Brand Development**: Oversaw the establishment of our initial brand identity including all design and visual guidelines. Served as in-house Creative  Director leading all festival related branding both for online digital promotions and the physical festival. Established early social media presence across Facebook and Twitter.
 
-**Content Activations**: Led content activation strategy discussions and subsequent activations for all network partner integrations including NBC, ABC, and FOX.
+**Content Activations**: Led early stage digital content activation strategy and subsequent content distribution for all networks, studios, production companies, digital platforms and brands.
 
-**Product Integrations:** Initiated and managed all product integrations with our MSN / XBOX partner.
+**Product Integrations:** Initiated and managed all product development for product integrations within our MSN / XBOX partnership.
