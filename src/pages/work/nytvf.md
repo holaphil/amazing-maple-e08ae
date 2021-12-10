@@ -15,7 +15,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Creative Director @ NYTVF
+      value: Managing Director @ NYTVF
       keyName: property
     - name: 'og:description'
       value: >-
