@@ -5,7 +5,7 @@ date: '2017-01-15'
 thumb_image_alt: NYTVF logo
 image_alt: Framesocket
 seo:
-  title: Creative Director @ NYTVF
+  title: Managing Director @ NYTVF
   description: >-
     The New York Television Festival is a pioneer of the independent television
     movement, connecting its community of artists, networks, studios, and
