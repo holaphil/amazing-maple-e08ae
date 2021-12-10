@@ -42,11 +42,11 @@ seo:
     talent, e-commerce, and video into a seamless unified shoppable experience.
 template: project
 ---
-**NOW//with** creates and curates new forms of social commerce for consumers by integrating talent, e-commerce, and video into a seamless unified shoppable experience. As **Chief Product Officer**, I managed all aspects of prioritization, budgeting, and goal setting to ensure strategic alignment across the organization. This work included collaborating with the founding team to define a product strategy and roadmap for NOW//with’s consumer, brand, and talent platforms. The majority of my time and energy focused on the following three areas of our business: Product, Partnerships, and People.
+**NOWwith** creates and curates new forms of social commerce for consumers by integrating talent, e-commerce, and video into a seamless unified shoppable experience. As **Chief Product Officer**, I managed all aspects of prioritization, budgeting, and goal setting to ensure strategic alignment across the organization. This work included collaborating with the founding team to define a product strategy and roadmap for NOWwith’s consumer, brand, and talent platforms. The majority of my time and energy focused on the following three areas of our business: Product, Partnerships, and People.
 
 **Product**:  Developed best-in-class social commerce tool suite used by consumers to discover & shop for products that are promoted by celebrities; partnered with business, sales, and marketing teams on GTM & growth strategy
 
-**Partnerships**:  Pioneered all product development for interactive video & universal checkout SDK, which provided publishing partners ability to activate at-scale shoppable video experiences on their proprietary properties 
+**Partnerships**:  Pioneered all product development for interactive video & universal checkout SDK, which provided publishing partners ability to activate at-scale shoppable video experiences on their proprietary properties
 
 **People**:  Hired as first non-founder executive to build core product development team from 0 to 15 members, including Design, Development, & User Research leads; developed core vision, product strategy, and long-term roadmap
 
@@ -120,7 +120,7 @@ template: project
 
 <!---->
 
-*   **Launched NOW//with’s first e-commerce video platform**, a responsive marketplace featuring shoppable interactive videos helping consumers discover, shop, and share products promoted by their favorite celebrities and influencers.
+*   **Launched NOWwith’s first e-commerce video platform**, a responsive marketplace featuring shoppable interactive videos helping consumers discover, shop, and share products promoted by their favorite celebrities and influencers.
 
 <!---->
 
@@ -128,12 +128,12 @@ template: project
 
 <!---->
 
-*   **Oversaw the design and development for a universal checkout SDK**, a critical component for publisher and partnership activations. This SDK provides our publishing partners the ability to activate at scale shoppable video experiences on their owned and operated properties. Consumers can watch and shop products while viewing video across NOW//with’s channels as well as its partner’s.
+*   **Oversaw the design and development for a universal checkout SDK**, a critical component for publisher and partnership activations. This SDK provides our publishing partners the ability to activate at scale shoppable video experiences on their owned and operated properties. Consumers can watch and shop products while viewing video across NOWwith’s channels as well as its partner’s.
 
 <!---->
 
-*   **Identified, envisioned, and oversaw the instrumentation of all platform measurement across NOW//with’s shoppable ecosystem** including but not limited to video, marketplace, and checkout.  These integrations provided critical insights positioning the team with capabilities to track and segment user activity while also identifying user trends across the entire conversion funnel.
+*   **Identified, envisioned, and oversaw the instrumentation of all platform measurement across NOWwith’s shoppable ecosystem** including but not limited to video, marketplace, and checkout.  These integrations provided critical insights positioning the team with capabilities to track and segment user activity while also identifying user trends across the entire conversion funnel.
 
 <!---->
 
-*   **Helped founders establish the NOW//with brand** as we moved through the early stage exploratory phases of a startup through discovery.  A process including user research, rapid prototyping, design, and development to deliver on time and under budget NOW//with’s first ecommerce video platform experiences.
+*   **Helped founders establish the NOWwith brand** as we moved through the early stage exploratory phases of a startup through discovery.  A process including user research, rapid prototyping, design, and development to deliver on time and under budget NOWwith’s first e-commerce video platform experiences.
