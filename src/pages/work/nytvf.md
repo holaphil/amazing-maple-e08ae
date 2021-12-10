@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Creative Director @ NYTVF
+      value: Managing Director @ NYTVF
     - name: 'twitter:description'
       value: >-
         The New York Television Festival is a pioneer of the independent
