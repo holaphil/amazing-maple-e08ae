@@ -42,13 +42,13 @@ seo:
     talent, e-commerce, and video into a seamless unified shoppable experience.
 template: project
 ---
-**NOW//with** creates and curates new forms of social commerce for consumers by integrating talent, e-commerce, and video into a seamless unified shoppable experience. As **Chief Product Officer**, I manage all aspects of prioritization, budgeting, and goal setting to ensure strategic alignment across the organization. This work includes collaborating with my executive team to define a product strategy and roadmap for NOW//with’s consumer, brand, and talent platforms. The majority of my time and energy focused on the following three areas of our business: Product, Partnerships, and People.
+**NOW//with** creates and curates new forms of social commerce for consumers by integrating talent, e-commerce, and video into a seamless unified shoppable experience. As **Chief Product Officer**, I managed all aspects of prioritization, budgeting, and goal setting to ensure strategic alignment across the organization. This work included collaborating with the founding team to define a product strategy and roadmap for NOW//with’s consumer, brand, and talent platforms. The majority of my time and energy focused on the following three areas of our business: Product, Partnerships, and People.
 
-**Product**:  Lead a team of developers, designers, producers, and data scientists while overseeing the creative and technical execution of our product roadmap all the way through delivery, including concept, testing, and launch.
+**Product**:  Developed best-in-class social commerce tool suite used by consumers to discover & shop for products that are promoted by celebrities; partnered with business, sales, and marketing teams on GTM & growth strategy
 
-**Partnerships**:  Manage product discovery, research, and activation for all client and brand partner platform integrations including but not limited to API, CMS, video, and data services.
+**Partnerships**:  Pioneered all product development for interactive video & universal checkout SDK, which provided publishing partners ability to activate at-scale shoppable video experiences on their proprietary properties 
 
-**People**:  Recruit and onboard new talent while providing leadership and mentorship for a team of first and third-party product managers, designers, and developers.
+**People**:  Hired as first non-founder executive to build core product development team from 0 to 15 members, including Design, Development, & User Research leads; developed core vision, product strategy, and long-term roadmap
 
  <hr>
 
