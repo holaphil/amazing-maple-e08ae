@@ -101,7 +101,7 @@ September 2015 -  August 2017
 
 [**Tremor Video**](https://www.tremorvideo.com/)<BR>
 Senior Product Manager, Ad Formats<BR>
-September 2013 -  August 2015 in New York, NY
+September 2013 -  August 2015
 
 *   Owned product roadmap of Tremor’s DSP service working with 25+ engineers and designers located in Singapore, San Francisco, New York and Boston.
 
