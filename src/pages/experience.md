@@ -61,8 +61,8 @@ September 2019 - July 2021
 
 <HR>
 
-[**Verizon Media**](https://www.verizonmedia.com/) - **New York, NY**
-**Director of Product, Innovation**
+[**Verizon Media**](https://www.verizonmedia.com/) - **New York, NY**<BR>
+**Director of Product, Innovation**<BR>
 December 2018 - September 2019
 
 ☞ Managed product innovation execution across emerging (VR, Audio, and Connected Car) & growth (Commerce, Branded Content, and Native Advertising) within Verizon Media’s premium sales business
