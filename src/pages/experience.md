@@ -75,8 +75,8 @@ December 2018 - September 2019
 
 <HR>
 
-[**Verizon Media**](https://www.verizonmedia.com/) – **New York, NY**
-**Principle Product Manager, Innovation**
+[**Verizon Media**](https://www.verizonmedia.com/) – **New York, NY**<BR>
+**Principle Product Manager, Innovation**<BR>
 September 2017 -  November 2018
 
 ☞ Led internal research & development of new product innovation for Studio & Premium Sales teams, leading the creation of 5+ new add formats, including "Player Up," which increased purchase intent by 27%
