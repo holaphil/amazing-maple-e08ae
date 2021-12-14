@@ -86,8 +86,8 @@ September 2017 -  November 2018
 
 <HR>
 
-[**Verizon Media**](https://www.verizonmedia.com/) – **New York, NY**
-Principle Product Manager, Ad Formats
+[**Verizon Media**](https://www.verizonmedia.com/) – **New York, NY**<BR>
+Principle Product Manager, Ad Formats<BR>
 September 2015 -  August 2017
 
 Managed 10 Designers, Developers, & QA Techs in design, research programs, user testing, and development all video & interactive ad experiences & formats, including 360 Video, Interactive Video, and Mobile Payments
