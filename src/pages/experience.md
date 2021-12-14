@@ -123,6 +123,7 @@ June 2006 -  August 2013
 
 <mark>[**Learn more here**](/work/wellcomemat/)</mark>
 
+<HR>
 
 [**New York Television Festival**](https://www.nytvf.com/) - **New York, NY**<BR>
 **Managing Director**<BR>
