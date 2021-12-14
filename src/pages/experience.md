@@ -90,7 +90,7 @@ September 2017 -  November 2018
 Principle Product Manager, Ad Formats
 September 2015 -  August 2017
 
-Managed 10 Designers, Developers, & QA Techs in design, research programs, user testing, and development all video & interactive ad experiences & formats, including 360 Video, Interactive Video, and Mobile Payments 
+Managed 10 Designers, Developers, & QA Techs in design, research programs, user testing, and development all video & interactive ad experiences & formats, including 360 Video, Interactive Video, and Mobile Payments
 
 ☞ Led development of Pictela, a creative authoring tool, and transition from Flash to HTML5
 
@@ -102,7 +102,7 @@ Managed 10 Designers, Developers, & QA Techs in design, research programs, user 
 Senior Product Manager, Ad Formats
 September 2013 -  August 2015
 
-☞ Led global team of 25+ Engineers & Designers to build & own product roadmap of Tremor’s DSP service 
+☞ Led global team of 25+ Engineers & Designers to build & own product roadmap of Tremor’s DSP service
 
 ☞ Developed user stories to help build new customer management features and UX upgrades on proprietary DSP tool; improved viewability, inventory, and cross-device targeting tools
 
@@ -114,11 +114,11 @@ September 2013 -  August 2015
 Co-Founder, VP Product
 June 2006 -  August 2014
 
-*   Co-founded the world’s first SAAS based video platform for real estate; grew subscriber base from 0 to 100K
+☞ Co-founded the world’s first SAAS based video platform for real estate; grew subscriber base from 0 to 100K
 
-*   Responsible for product development, design & marketing of WellcomeMat’s enterprise SAAS video products as well as all filmmaker/videographer outreach.
+☞ Responsible for product development, design & marketing of WellcomeMat’s enterprise SAAS video products as well as all filmmaker/videographer outreach.
 
-*   Designed & patented nascent cloud-based interactive video players
+☞ Designed & patented nascent cloud-based interactive video players
 
 <mark>[**Learn more here**](/work/wellcomemat/)</mark>
 
