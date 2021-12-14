@@ -129,8 +129,8 @@ June 2006 -  August 2013
 
 Roles I performed earlier in my career prior to focusing on building and managing products include the following:
 
-[**New York Television Festival**](https://www.nytvf.com/) - **New York, NY**
-**Managing Director**
+[**New York Television Festival**](https://www.nytvf.com/) - **New York, NY**<BR>
+**Managing Director**<BR>
 August 2005 - December 2008
 
 ☞ Founding member; produce and execute initial brand development strategy
