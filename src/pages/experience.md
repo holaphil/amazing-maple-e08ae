@@ -99,7 +99,7 @@ September 2015 -  August 2017
 
 <HR>
 
-[**Tremor Video**](https://www.tremorvideo.com/)<BR>
+[**Tremor Video**](https://www.tremorvideo.com/) - New York, NY<BR>
 Senior Product Manager, Ad Formats<BR>
 September 2013 -  August 2015
 
