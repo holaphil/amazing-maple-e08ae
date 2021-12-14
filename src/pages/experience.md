@@ -39,7 +39,7 @@ seo:
         and brands across both startup & corporate environments. Learn more
         here.
     - name: 'twitter:image'
-      value: images/holaphil-experience-screenshot.png
+      value: images/holaphil-favicon.png
       relativeUrl: true
 template: page
 ---
