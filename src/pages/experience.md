@@ -42,8 +42,8 @@ seo:
       relativeUrl: true
 template: page
 ---
-[**NOW//with**](https://nowwith.com/) - New York, NY<BR>
-Chief Product Officer<BR>
+[**NOW//with**](https://nowwith.com/) - New York, NY
+Chief Product Officer
 September 2019 - July 2021
 
 *Social video commerce platform for celebrities & influencers; ($18M raised from investors, including Alex Rodriguez)*
@@ -74,13 +74,13 @@ December 2018 - September 2019
 
 <HR>
 
-[**Verizon Media**](https://www.verizonmedia.com/)<BR>
-Principle Product Manager, Innovation<BR>
-September 2017 -  November 2018 in New York, NY
+[**Verizon Media**](https://www.verizonmedia.com/) –  New York, NY
+Principle Product Manager, Innovation
+September 2017 -  November 2018
 
-*   Responsible for internal research and development of new product innovation for both RYOT Studio and the Premium Sales teams.
+☞ Led internal research & development of new product innovation for Studio & Premium Sales teams, leading the creation of 5+ new add formats, including "Player Up," which increased purchase intent by 27% 
 
-*   Oversaw consolidation of RYOT’s service data/analytics reporting systems (social, native, video) into a single centralized reporting platform and the activation of Verizon Media's first shoppable video commerce experiences.
+☞ Oversaw consolidation of RYOT’s service data/analytics reporting systems (social, native, video) into  centralized reporting platform & activation of Verizon Media's 1st shoppable video commerce experiences
 
 <mark>[**Learn more here**](/work/verizon-media-2/)</mark>
 
