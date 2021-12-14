@@ -88,7 +88,7 @@ September 2017 -  November 2018
 
 [**Verizon Media**](https://www.verizonmedia.com/)<BR>
 Principle Product Manager, Ad Formats<BR>
-September 2015 -  August 2017 in New York, NY
+September 2015 -  August 2017
 
 *   Oversaw design & development of all video (VPAID/VAST) + interactive ad experiences.
     Managed team of 10 designers, developers and QA technicians
