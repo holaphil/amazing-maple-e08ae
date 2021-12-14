@@ -46,14 +46,6 @@ template: page
 Chief Product Officer
 September 2019 - July 2021 in New York, NY
 
-\<HR>\<BR>
-Director of Product, Innovation\<BR>
-December 2018 - September 2019 in New York, NY
-
-[**Verizon Media**](https://www.verizonmedia.com/)
-
-
-
 *Social video commerce platform for celebrities & influencers; ($18M raised from investors, including Alex Rodriguez)*
 
 ☞ Hired as first non-founder executive to build core product development team from 0 to 15 members, including Design, Development, & User Research leads; developed core vision, product strategy, and long-term roadmap
