@@ -135,8 +135,8 @@ August 2005 - December 2008
 ☞ Founding member; produce and execute initial brand development strategy
 ☞ Led all video content and player integrations online and across network partners including NBC, FOX, ABC and MSN
 
-**BBDO & TBWA\CHIAT\DAY** – **New York, NY**
-Senior Interactive Designer (Freelancer)
+**BBDO & TBWA\CHIAT\DAY** – **New York, NY**<BR>
+Senior Interactive Designer (Freelancer)<BR>
 June 2004 -  June 2006
 
 [**Razorfish (i-Frontier)**](https://www.razorfish.com/) - **Philadephia, PA**
