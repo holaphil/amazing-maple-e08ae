@@ -128,24 +128,31 @@ June 2006 -  August 2014
 
 Roles I performed earlier in my career prior to focusing on building and managing products include the following:
 
-[**NYTVF**](https://www.nytvf.com/)<BR>
-Creative Director<BR>
-2005 - 2007 in New York, NY<BR>
+[**New York Television Festival **](https://www.nytvf.com/)- **New York, NY**
+Managing Director
+August 2005 - December 2008
 
-[**BBDO**](https://www.bbdo.com/), [**Heartbeat Digital**](https://www.weareheartbeat.com/)<BR>
-Freelance Art Director<BR>
-2004 - 2005 in New York, NY
+☞ Founding member; produce and execute initial brand development strategy
+☞ Led all video content and player integrations online and across network partners including NBC, FOX, ABC and MSN
 
-[**Razorfish (i-Frontier)**](https://www.razorfish.com/)<BR>
-Innovation Manager<BR>
-2003 - 2004 in Philadephia, PA
 
-[**Razorfish (i-Frontier)**](https://www.razorfish.com/)<BR>
-Web Design Manager<BR>
-2002 - 2003 in Philadephia, PA
 
-[**Digitas Health (MBC)**](https://www.digitashealth.com/)<BR>
-Design Engineer<BR>
+**BBDO & TBWA\CHIAT\DAY** – **New York, NY**
+Senior Interactive Designer (Freelancer)
+June 2004 -  June 2006
+
+
+
+[**Razorfish (i-Frontier)**](https://www.razorfish.com/) - **Philadephia, PA**
+Innovation Manager
+July 2003 - June 2004
+
+[**Razorfish (i-Frontier)**](https://www.razorfish.com/) - **Philadephia, PA**
+Web Manager
+November 2002 - June 2003 in Philadephia, PA
+
+[**Digitas Health (MBC)**](https://www.digitashealth.com/)
+Design Engineer
 2000 - 2002 in Philadephia, PA
 
 [**eBay (GSI Commerce)**](https://www.ebay.com/)<BR>
