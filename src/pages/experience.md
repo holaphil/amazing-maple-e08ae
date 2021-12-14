@@ -44,7 +44,7 @@ seo:
 template: page
 ---
 [**NOW//with**](https://nowwith.com/) - **New York, NY**
-Chief Product Officer
+**Chief Product Officer**
 September 2019 - July 2021
 
 *Social video commerce platform for celebrities & influencers; ($18M raised from investors, including Alex Rodriguez)*
@@ -61,8 +61,8 @@ September 2019 - July 2021
 
 <HR>
 
-[**Verizon Media**](https://www.verizonmedia.com/) - **New York, NY**<BR>
-Director of Product, Innovation<BR>
+[**Verizon Media**](https://www.verizonmedia.com/) - **New York, NY**
+**Director of Product, Innovation**
 December 2018 - September 2019
 
 ☞ Managed product innovation execution across emerging (VR, Audio, and Connected Car) & growth (Commerce, Branded Content, and Native Advertising) within Verizon Media’s premium sales business
@@ -75,8 +75,8 @@ December 2018 - September 2019
 
 <HR>
 
-[**Verizon Media**](https://www.verizonmedia.com/) – **New York, NY**<BR>
-Principle Product Manager, Innovation<BR>
+[**Verizon Media**](https://www.verizonmedia.com/) – **New York, NY**
+**Principle Product Manager, Innovation**
 September 2017 -  November 2018
 
 ☞ Led internal research & development of new product innovation for Studio & Premium Sales teams, leading the creation of 5+ new add formats, including "Player Up," which increased purchase intent by 27%
@@ -87,8 +87,8 @@ September 2017 -  November 2018
 
 <HR>
 
-[**Verizon Media**](https://www.verizonmedia.com/) – **New York, NY**<BR>
-Principle Product Manager, Ad Formats<BR>
+[**Verizon Media**](https://www.verizonmedia.com/) – **New York, NY**
+**Principle Product Manager, Ad Formats**
 September 2015 -  August 2017
 
 Managed 10 Designers, Developers, & QA Techs in design, research programs, user testing, and development all video & interactive ad experiences & formats, including 360 Video, Interactive Video, and Mobile Payments
@@ -99,8 +99,8 @@ Managed 10 Designers, Developers, & QA Techs in design, research programs, user 
 
 <HR>
 
-[**Tremor Video**](https://www.tremorvideo.com/) – **New York, NY**<BR>
-Senior Product Manager, Ad Formats<BR>
+[**Tremor Video**](https://www.tremorvideo.com/) – **New York, NY**
+**Senior Product Manager, Ad Formats**
 September 2013 -  August 2015
 
 ☞ Led global team of 25+ Engineers & Designers to build & own product roadmap of Tremor’s DSP service
@@ -111,8 +111,8 @@ September 2013 -  August 2015
 
 <HR>
 
-[**WellcomeMat**](https://www.wellcomemat.com/) - **New York, NY**<BR>
-Co-Founder, VP Product<BR>
+[**WellcomeMat**](https://www.wellcomemat.com/) - **New York, NY**
+**Co-Founder, VP Product**
 June 2006 -  August 2013
 
 ☞ Co-founded the world’s first SAAS based video platform for real estate; grew subscriber base from 0 to 100K
@@ -129,31 +129,31 @@ June 2006 -  August 2013
 
 Roles I performed earlier in my career prior to focusing on building and managing products include the following:
 
-[**New York Television Festival**](https://www.nytvf.com/) - **New York, NY**<BR>
-Managing Director<BR>
+[**New York Television Festival**](https://www.nytvf.com/) - **New York, NY**
+**Managing Director**
 August 2005 - December 2008
 
 ☞ Founding member; produce and execute initial brand development strategy
 ☞ Led all video content and player integrations online and across network partners including NBC, FOX, ABC and MSN
 
-**BBDO & TBWA\CHIAT\DAY** – **New York, NY**<BR>
-Senior Interactive Designer (Freelancer)<BR>
+**BBDO & TBWA\CHIAT\DAY** – **New York, NY**
+**Senior Interactive Designer (Freelancer)**
 June 2004 -  June 2006
 
-[**Razorfish (i-Frontier)**](https://www.razorfish.com/) - **Philadephia, PA**<BR>
-Innovation Manager<BR>
+[**Razorfish (i-Frontier)**](https://www.razorfish.com/) - **Philadephia, PA**
+**Innovation Manager**
 July 2003 - June 2004
 
-[**Razorfish (i-Frontier)**](https://www.razorfish.com/) - **Philadephia, PA**<BR>
-Web Manager<BR>
-November 2002 - June 2003 in Philadephia, PA
+[**Razorfish (i-Frontier)**](https://www.razorfish.com/) - **Philadephia, PA**
+**Web Manager**
+November 2002 - June 2003
 
-[**Digitas Health (MBC)**](https://www.digitashealth.com/) - **Philadephia, PA**<BR>
-Design Engineer<BR>
+[**Digitas Health (MBC)**](https://www.digitashealth.com/) - **Philadephia, PA**
+**Design Engineer**
 May 2000 - October 2002
 
-[**eBay (GSI Commerce**](https://www.ebay.com/))- \*\*King of Prussia, PA<BR>
-\*\*Designer<BR>
+[**eBay (GSI Commerce)**](https://www.ebay.com/) - **King of Prussia, PA**
+**Designer**
 October 1999 - April 2000
 
 #
