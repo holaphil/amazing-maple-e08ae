@@ -42,9 +42,9 @@ seo:
       relativeUrl: true
 template: page
 ---
-[**NOW//with**](https://nowwith.com/)
-Chief Product Officer<BR>
-September 2019 - July 2021 in New York, NY
+[**NOW//with**](https://nowwith.com/) - New York, NY
+Chief Product Officer
+September 2019 - July 2021
 
 *Social video commerce platform for celebrities & influencers; ($18M raised from investors, including Alex Rodriguez)*
 
@@ -66,7 +66,7 @@ December 2018 - September 2019
 
 ☞ Managed product innovation execution across emerging (VR, Audio, and Connected Car) & growth (Commerce, Branded Content, and Native Advertising) within Verizon Media’s premium sales business
 
-☞ Led innovation programs for Premium Sales business, collaborating with 50+ cross-functional team members across Verizon Media's publisher networks, including HuffPost, Yahoo Sports, and TechCrunch 
+☞ Led innovation programs for Premium Sales business, collaborating with 50+ cross-functional team members across Verizon Media's publisher networks, including HuffPost, Yahoo Sports, and TechCrunch
 
 ☞ Directed conception to launch of Mobile Wallet, Verizon’s 1st location-based mobile commerce ad format; delivered offers & content directly into consumer's mobile wallet, which generated $500K in revenue
 
