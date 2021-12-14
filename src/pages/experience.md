@@ -42,7 +42,7 @@ seo:
       relativeUrl: true
 template: page
 ---
-[**NOW//with -  in New York, NY**](https://nowwith.com/)<BR>
+[**NOW//with - New York, NY**](https://nowwith.com/)<BR>
 Chief Product Officer<BR>
 September 2019 - July 2021
 
