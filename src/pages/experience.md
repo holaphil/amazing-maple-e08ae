@@ -86,7 +86,7 @@ September 2017 -  November 2018
 
 <HR>
 
-[**Verizon Media**](https://www.verizonmedia.com/)<BR>
+[**Verizon Media**](https://www.verizonmedia.com/) - New York, NY<BR>
 Principle Product Manager, Ad Formats<BR>
 September 2015 -  August 2017
 
