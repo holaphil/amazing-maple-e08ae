@@ -152,7 +152,7 @@ November 2002 - June 2003
 **Design Engineer**
 May 2000 - October 2002
 
-[**eBay (GSI Commerce)**](https://www.ebay.com/) - **King of Prussia, PA**
+[**eBay (GSI Commerce)**](https://www.ebay.com/) - **King of Prussia, PA**<BR>
 **Designer**
 October 1999 - April 2000
 
