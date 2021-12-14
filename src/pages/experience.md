@@ -128,20 +128,16 @@ June 2006 -  August 2014
 
 Roles I performed earlier in my career prior to focusing on building and managing products include the following:
 
-[**New York Television Festival **](https://www.nytvf.com/)- **New York, NY**
+****[**New York Television Festival**](https://www.nytvf.com/)** **- **New York, NY**
 Managing Director
 August 2005 - December 2008
 
 ☞ Founding member; produce and execute initial brand development strategy
 ☞ Led all video content and player integrations online and across network partners including NBC, FOX, ABC and MSN
 
-
-
 **BBDO & TBWA\CHIAT\DAY** – **New York, NY**
 Senior Interactive Designer (Freelancer)
 June 2004 -  June 2006
-
-
 
 [**Razorfish (i-Frontier)**](https://www.razorfish.com/) - **Philadephia, PA**
 Innovation Manager
@@ -151,12 +147,12 @@ July 2003 - June 2004
 Web Manager
 November 2002 - June 2003 in Philadephia, PA
 
-[**Digitas Health (MBC)**](https://www.digitashealth.com/)
+[**Digitas Health (MBC)**](https://www.digitashealth.com/) - **Philadephia, PA**
 Design Engineer
-2000 - 2002 in Philadephia, PA
+May 2000 - October 2002
 
-[**eBay (GSI Commerce)**](https://www.ebay.com/)<BR>
-Designer<BR>
-1999 - 2000 in King of Prussia, PA
+[**eBay (GSI Commerce**](https://www.ebay.com/))- **King of Prussia, PA
+**Designer
+October 1999 - April 2000
 
 #
