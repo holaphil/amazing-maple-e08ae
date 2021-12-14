@@ -142,15 +142,21 @@ June 2004 -  June 2006
 [**Razorfish (i-Frontier)**](https://www.razorfish.com/) - **Philadephia, PA**<BR>
 **Innovation Manager**<BR>
 July 2003 - June 2004
+
 <HR>
+
 [**Razorfish (i-Frontier)**](https://www.razorfish.com/) - **Philadephia, PA**<BR>
 **Web Manager**<BR>
 November 2002 - June 2003
+
 <HR>
+
 [**Digitas Health (MBC)**](https://www.digitashealth.com/) - **Philadephia, PA**<BR>
 **Design Engineer**<BR>
 May 2000 - October 2002
+
 <HR>
+
 [**eBay (GSI Commerce)**](https://www.ebay.com/) - **King of Prussia, PA**<BR>
 **Designer**<BR>
 October 1999 - April 2000
