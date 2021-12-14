@@ -139,6 +139,8 @@ August 2005 - December 2008
 **Senior Interactive Designer (Freelancer)**<BR>
 June 2004 -  June 2006
 
+<HR>
+
 [**Razorfish (i-Frontier)**](https://www.razorfish.com/) - **Philadephia, PA**<BR>
 **Innovation Manager**<BR>
 July 2003 - June 2004
