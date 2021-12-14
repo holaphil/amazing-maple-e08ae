@@ -35,8 +35,9 @@ seo:
       value: Phil Thomas DiGiulio / Experience
     - name: 'twitter:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        Over the last 20+ years, my experience comes from building new products
+        and brands across both startup & corporate environments. Learn more
+        here.
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
