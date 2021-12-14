@@ -139,16 +139,16 @@ August 2005 - December 2008
 Senior Interactive Designer (Freelancer)<BR>
 June 2004 -  June 2006
 
-[**Razorfish (i-Frontier)**](https://www.razorfish.com/) - **Philadephia, PA**
-Innovation Manager
+[**Razorfish (i-Frontier)**](https://www.razorfish.com/) - **Philadephia, PA**<BR>
+Innovation Manager<BR>
 July 2003 - June 2004
 
-[**Razorfish (i-Frontier)**](https://www.razorfish.com/) - **Philadephia, PA**
-Web Manager
+[**Razorfish (i-Frontier)**](https://www.razorfish.com/) - **Philadephia, PA**<BR>
+Web Manager<BR>
 November 2002 - June 2003 in Philadephia, PA
 
-[**Digitas Health (MBC)**](https://www.digitashealth.com/) - **Philadephia, PA**
-Design Engineer
+[**Digitas Health (MBC)**](https://www.digitashealth.com/) - **Philadephia, PA**<BR>
+Design Engineer<BR>
 May 2000 - October 2002
 
 [**eBay (GSI Commerce**](https://www.ebay.com/))- \*\*King of Prussia, PA
