@@ -43,8 +43,8 @@ seo:
       relativeUrl: true
 template: page
 ---
-[**NOW//with**](https://nowwith.com/) - **New York, NY**
-**Chief Product Officer**
+[**NOW//with**](https://nowwith.com/) - **New York, NY**<BR>
+**Chief Product Officer**<BR>
 September 2019 - July 2021
 
 *Social video commerce platform for celebrities & influencers; ($18M raised from investors, including Alex Rodriguez)*
