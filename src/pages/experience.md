@@ -132,7 +132,9 @@ August 2005 - December 2008
 ☞ Founding member; produce and execute initial brand development strategy
 <BR>
 ☞ Led all video content and player integrations online and across network partners including NBC, FOX, ABC and MSN
+
 <HR>
+
 **BBDO & TBWA\CHIAT\DAY** – **New York, NY**<BR>
 **Senior Interactive Designer (Freelancer)**<BR>
 June 2004 -  June 2006
