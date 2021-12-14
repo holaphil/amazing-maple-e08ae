@@ -90,10 +90,9 @@ September 2017 -  November 2018
 Principle Product Manager, Ad Formats
 September 2015 -  August 2017
 
-*   Oversaw design & development of all video (VPAID/VAST) + interactive ad experiences.
-    Managed team of 10 designers, developers and QA technicians
+Managed 10 Designers, Developers, & QA Techs in design, research programs, user testing, and development all video & interactive ad experiences & formats, including 360 Video, Interactive Video, and Mobile Payments 
 
-*   Initiated first user research programs which led to the development and launch of several new native ad products in the mobile payments and interactive video space.
+☞ Led development of Pictela, a creative authoring tool, and transition from Flash to HTML5
 
 <mark>[**Learn more here**](/work/verizon-media-1/)</mark>
 
@@ -103,23 +102,23 @@ September 2015 -  August 2017
 Senior Product Manager, Ad Formats
 September 2013 -  August 2015
 
-*   Owned product roadmap of Tremor’s DSP service working with 25+ engineers and designers located in Singapore, San Francisco, New York and Boston.
+☞ Led global team of 25+ Engineers & Designers to build & own product roadmap of Tremor’s DSP service 
 
-*   Served as voice of the customer for ad trafficking team building new features to improve platform audience management, viewability, inventory, and cross-device targeting.
+☞ Developed user stories to help build new customer management features and UX upgrades on proprietary DSP tool; improved viewability, inventory, and cross-device targeting tools
 
 <mark>[**Learn more here**](/work/tremor-video/)</mark>
 
 <HR>
 
 [**WellcomeMat**](https://www.wellcomemat.com/) - **New York, NY**
-Co-Founder, Head of Product & Marketing
+Co-Founder, VP Product
 June 2006 -  August 2014
 
-*   Co-founded the world’s first SAAS based video platform for real estate.
+*   Co-founded the world’s first SAAS based video platform for real estate; grew subscriber base from 0 to 100K
 
 *   Responsible for product development, design & marketing of WellcomeMat’s enterprise SAAS video products as well as all filmmaker/videographer outreach.
 
-*   Designed and patented one of the web’s first cloud-based interactive video players.
+*   Designed & patented nascent cloud-based interactive video players
 
 <mark>[**Learn more here**](/work/wellcomemat/)</mark>
 
