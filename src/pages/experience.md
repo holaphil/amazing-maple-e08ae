@@ -42,8 +42,8 @@ seo:
       relativeUrl: true
 template: page
 ---
-[**NOW//with**](https://nowwith.com/) - **New York, NY**<BR>
-Chief Product Officer<BR>
+[**NOW//with**](https://nowwith.com/) - **New York, NY**
+Chief Product Officer
 September 2019 - July 2021
 
 *Social video commerce platform for celebrities & influencers; ($18M raised from investors, including Alex Rodriguez)*
@@ -60,8 +60,8 @@ September 2019 - July 2021
 
 <HR>
 
-[**Verizon Media**](https://www.verizonmedia.com/) - New York, NY<BR>
-Director of Product, Innovation<BR>
+[**Verizon Media**](https://www.verizonmedia.com/) - **New York, NY**
+Director of Product, Innovation
 December 2018 - September 2019
 
 ☞ Managed product innovation execution across emerging (VR, Audio, and Connected Car) & growth (Commerce, Branded Content, and Native Advertising) within Verizon Media’s premium sales business
@@ -74,7 +74,7 @@ December 2018 - September 2019
 
 <HR>
 
-[**Verizon Media**](https://www.verizonmedia.com/) –  New York, NY
+[**Verizon Media**](https://www.verizonmedia.com/) – **New York, NY**
 Principle Product Manager, Innovation
 September 2017 -  November 2018
 
@@ -86,9 +86,9 @@ September 2017 -  November 2018
 
 <HR>
 
-[**Verizon Media**](https://www.verizonmedia.com/)<BR>
-Principle Product Manager, Ad Formats<BR>
-September 2015 -  August 2017 in New York, NY
+[**Verizon Media**](https://www.verizonmedia.com/) – **New York, NY**
+Principle Product Manager, Ad Formats
+September 2015 -  August 2017
 
 *   Oversaw design & development of all video (VPAID/VAST) + interactive ad experiences.
     Managed team of 10 designers, developers and QA technicians
@@ -99,9 +99,9 @@ September 2015 -  August 2017 in New York, NY
 
 <HR>
 
-[**Tremor Video**](https://www.tremorvideo.com/)<BR>
-Senior Product Manager, Ad Formats<BR>
-September 2013 -  August 2015 in New York, NY
+[**Tremor Video**](https://www.tremorvideo.com/) – **New York, NY**
+Senior Product Manager, Ad Formats
+September 2013 -  August 2015
 
 *   Owned product roadmap of Tremor’s DSP service working with 25+ engineers and designers located in Singapore, San Francisco, New York and Boston.
 
@@ -111,9 +111,9 @@ September 2013 -  August 2015 in New York, NY
 
 <HR>
 
-[**WellcomeMat**](https://www.wellcomemat.com/)<BR>
-Co-Founder, Head of Product & Marketing<BR>
-2006 -  2013 in New York, NY
+[**WellcomeMat**](https://www.wellcomemat.com/) - **New York, NY**
+Co-Founder, Head of Product & Marketing
+June 2006 -  August 2014
 
 *   Co-founded the world’s first SAAS based video platform for real estate.
 
