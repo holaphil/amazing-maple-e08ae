@@ -26,7 +26,7 @@ seo:
         here.
       keyName: property
     - name: 'og:image'
-      value: images/holaphil-experience-screenshot.png
+      value: images/portrait-image-product-council.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
