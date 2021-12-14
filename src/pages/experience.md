@@ -42,7 +42,7 @@ seo:
       relativeUrl: true
 template: page
 ---
-[**NOW//with**](https://nowwith.com/) - New York, NY
+[**NOW//with**](https://nowwith.com/) - **New York, NY**
 Chief Product Officer
 September 2019 - July 2021
 
@@ -74,11 +74,11 @@ December 2018 - September 2019
 
 <HR>
 
-[**Verizon Media**](https://www.verizonmedia.com/) –  New York, NY<BR>
-Principle Product Manager, Innovation<BR>
+[**Verizon Media**](https://www.verizonmedia.com/) –  New York, NY
+Principle Product Manager, Innovation
 September 2017 -  November 2018
 
-☞ Led internal research & development of new product innovation for Studio & Premium Sales teams, leading the creation of 5+ new add formats, including "Player Up," which increased purchase intent by 27% 
+☞ Led internal research & development of new product innovation for Studio & Premium Sales teams, leading the creation of 5+ new add formats, including "Player Up," which increased purchase intent by 27%
 
 ☞ Oversaw consolidation of RYOT’s service data/analytics reporting systems (social, native, video) into  centralized reporting platform & activation of Verizon Media's 1st shoppable video commerce experiences
 
@@ -86,9 +86,9 @@ September 2017 -  November 2018
 
 <HR>
 
-[**Verizon Media**](https://www.verizonmedia.com/) - New York, NY<BR>
+[**Verizon Media**](https://www.verizonmedia.com/)<BR>
 Principle Product Manager, Ad Formats<BR>
-September 2015 -  August 2017
+September 2015 -  August 2017 in New York, NY
 
 *   Oversaw design & development of all video (VPAID/VAST) + interactive ad experiences.
     Managed team of 10 designers, developers and QA technicians
@@ -99,9 +99,9 @@ September 2015 -  August 2017
 
 <HR>
 
-[**Tremor Video**](https://www.tremorvideo.com/) - New York, NY<BR>
+[**Tremor Video**](https://www.tremorvideo.com/)<BR>
 Senior Product Manager, Ad Formats<BR>
-September 2013 -  August 2015
+September 2013 -  August 2015 in New York, NY
 
 *   Owned product roadmap of Tremor’s DSP service working with 25+ engineers and designers located in Singapore, San Francisco, New York and Boston.
 
