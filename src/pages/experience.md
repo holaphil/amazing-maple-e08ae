@@ -141,7 +141,7 @@ August 2005 - December 2008
 June 2004 -  June 2006
 
 [**Razorfish (i-Frontier)**](https://www.razorfish.com/) - **Philadephia, PA**<BR>
-**Innovation Manager**
+**Innovation Manager**<BR>
 July 2003 - June 2004
 
 [**Razorfish (i-Frontier)**](https://www.razorfish.com/) - **Philadephia, PA**
