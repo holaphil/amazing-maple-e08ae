@@ -98,8 +98,8 @@ Managed 10 Designers, Developers, & QA Techs in design, research programs, user 
 
 <HR>
 
-[**Tremor Video**](https://www.tremorvideo.com/) – **New York, NY**
-Senior Product Manager, Ad Formats
+[**Tremor Video**](https://www.tremorvideo.com/) – **New York, NY**<BR>
+Senior Product Manager, Ad Formats<BR>
 September 2013 -  August 2015
 
 ☞ Led global team of 25+ Engineers & Designers to build & own product roadmap of Tremor’s DSP service
