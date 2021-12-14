@@ -128,7 +128,7 @@ June 2006 -  August 2014
 
 Roles I performed earlier in my career prior to focusing on building and managing products include the following:
 
-****[**New York Television Festival**](https://www.nytvf.com/)** **- **New York, NY**
+[**New York Television Festival**](https://www.nytvf.com/) - **New York, NY**
 Managing Director
 August 2005 - December 2008
 
@@ -151,8 +151,8 @@ November 2002 - June 2003 in Philadephia, PA
 Design Engineer
 May 2000 - October 2002
 
-[**eBay (GSI Commerce**](https://www.ebay.com/))- **King of Prussia, PA
-**Designer
+[**eBay (GSI Commerce**](https://www.ebay.com/))- \*\*King of Prussia, PA
+\*\*Designer
 October 1999 - April 2000
 
 #
