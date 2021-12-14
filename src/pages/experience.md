@@ -60,13 +60,15 @@ September 2019 - July 2021 in New York, NY
 
 <HR>
 
-[**Verizon Media**](https://www.verizonmedia.com/)<BR>
-Director of Product, Innovation<BR>
-December 2018 - September 2019 in New York, NY
+[**Verizon Media**](https://www.verizonmedia.com/) - New York, NY
+Director of Product, Innovation
+December 2018 - September 2019
 
-☞ Managed product innovation execution across emerging (VR, Audio, and Connected Car) & growth (Commerce, Branded Content, and Native Advertising) within Verizon Media’s premium sales business 
+☞ Managed product innovation execution across emerging (VR, Audio, and Connected Car) & growth (Commerce, Branded Content, and Native Advertising) within Verizon Media’s premium sales business
 
-☞ Led innovation programs for Premium Sales business, collaborating with 50+ cross-functional team members across Verizon Media's publisher networks, including HuffPost, Yahoo Sports, and TechCrunch Directed conception to launch of Mobile Wallet, Verizon’s 1st location-based mobile commerce ad format; delivered offers & content directly into consumer's mobile wallet, which generated $500K in revenue
+☞ Led innovation programs for Premium Sales business, collaborating with 50+ cross-functional team members across Verizon Media's publisher networks, including HuffPost, Yahoo Sports, and TechCrunch 
+
+☞ Directed conception to launch of Mobile Wallet, Verizon’s 1st location-based mobile commerce ad format; delivered offers & content directly into consumer's mobile wallet, which generated $500K in revenue
 
 <mark>[**Learn more here**](/work/verizon-media-3/)</mark>
 
