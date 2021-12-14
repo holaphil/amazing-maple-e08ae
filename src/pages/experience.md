@@ -60,7 +60,7 @@ September 2019 - July 2021
 
 <HR>
 
-[**Verizon Media**](https://www.verizonmedia.com/) - **New York, NY**
+[**Verizon Media**](https://www.verizonmedia.com/) - **New York, NY**<BR>
 Director of Product, Innovation
 December 2018 - September 2019
 
