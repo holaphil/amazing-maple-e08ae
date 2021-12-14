@@ -111,8 +111,8 @@ September 2013 -  August 2015
 
 <HR>
 
-[**WellcomeMat**](https://www.wellcomemat.com/) - **New York, NY**
-**Co-Founder, VP Product**
+[**WellcomeMat**](https://www.wellcomemat.com/) - **New York, NY**<BR>
+**Co-Founder, VP Product**<BR>
 June 2006 -  August 2013
 
 ☞ Co-founded the world’s first SAAS based video platform for real estate; grew subscriber base from 0 to 100K
