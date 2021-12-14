@@ -153,7 +153,7 @@ November 2002 - June 2003
 May 2000 - October 2002
 
 [**eBay (GSI Commerce)**](https://www.ebay.com/) - **King of Prussia, PA**<BR>
-**Designer**
+**Designer**<BR>
 October 1999 - April 2000
 
 #
