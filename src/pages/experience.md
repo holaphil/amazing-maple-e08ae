@@ -74,7 +74,7 @@ December 2018 - September 2019
 
 <HR>
 
-[**Verizon Media**](https://www.verizonmedia.com/) –  New York, NY<BR>
+[**Verizon Mediahttps://www.verizonmedia.com/) –  New York, NY<BR>
 Principle Product Manager, Innovation<BR>
 September 2017 -  November 2018
 
