@@ -91,7 +91,7 @@ September 2017 -  November 2018
 **Principle Product Manager, Ad Formats**<BR>
 September 2015 -  August 2017
 
-Managed 10 Designers, Developers, & QA Techs in design, research programs, user testing, and development all video & interactive ad experiences & formats, including 360 Video, Interactive Video, and Mobile Payments
+☞ Managed 10 Designers, Developers, & QA Techs in design, research programs, user testing, and development all video & interactive ad experiences & formats, including 360 Video, Interactive Video, and Mobile Payments
 
 ☞ Led development of Pictela, a creative authoring tool, and transition from Flash to HTML5
 
