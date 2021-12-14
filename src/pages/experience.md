@@ -43,18 +43,16 @@ seo:
 template: page
 ---
 [**NOW//with**](https://nowwith.com/)
-
 Chief Product Officer
-
 September 2019 - July 2021 in New York, NY
 
 *Social video commerce platform for celebrities & influencers; ($18M raised from investors, including Alex Rodriguez)*
 
-☞ Hired as first non-founder executive to build core product development team from 0 to 15 members, including Design, Development, & User Research leads; developed core vision, product strategy, and long-term roadmap 
+☞ Hired as first non-founder executive to build core product development team from 0 to 15 members, including Design, Development, & User Research leads; developed core vision, product strategy, and long-term roadmap
 
-☞ Developed best-in-class social commerce tool suite used by consumers to discover & shop for products that are promoted by celebrities; partnered with business, sales, and marketing teams on GTM & growth strategy 
+☞ Developed best-in-class social commerce tool suite used by consumers to discover & shop for products that are promoted by celebrities; partnered with business, sales, and marketing teams on GTM & growth strategy
 
-☞ Pioneered all product development for interactive video & universal checkout SDK, which provided publishing partners ability to activate at-scale shoppable video experiences on their proprietary properties 
+☞ Pioneered all product development for interactive video & universal checkout SDK, which provided publishing partners ability to activate at-scale shoppable video experiences on their proprietary properties
 
 ☞ Built brand image through early startup stages; led user research, prototyping, design, & product development
 
