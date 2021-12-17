@@ -86,7 +86,7 @@ As **Director of Product Innovation**, I managed product innovation execution ac
 
 <!---->
 
-*   **Led all phases from conception to launch of Verizon’s first location based mobile commerce ad format (Mobile Wallet)**, a new ad format that delivers offers and content directly into the consumer's mobile wallet. This new format immediately **generated more than 500k of revenue** for the company and led to significant client interest in other innovation ad formats.
+*   **Led all phases from conception to launch of Verizon’s first location based mobile commerce ad format (**[**Mobile Wallet**](https://nar.adshowcase.yahooinc.com/?features=Mobile%20Wallet)**)**, a new ad format that delivers offers and content directly into the consumer's mobile wallet. This new format immediately **generated more than 500k of revenue** for the company and led to significant client interest in other innovation ad formats.
 
 <!---->
 
