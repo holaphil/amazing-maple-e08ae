@@ -84,4 +84,4 @@ As a **Principal Product Manager**, I managed the design, development, and opera
 
 <!---->
 
-*   **Introduced and oversaw** **consumer-centric product user research programs** with AOL’s User Research Lab in Dulles, VA. Working in close coordination with product and design teams, I owned and operated  user feedback sessions helping test and validate products before investing valuable team development and operational resources required to (if warranted) eventually scale them.
+*   **Introduced and oversaw** **consumer-centric product user research programs** with AOL’s User Research Lab in Dulles, VA. Working in close coordination with product and design teams, I owned and operated  user feedback sessions helping test and validate new ad products.
