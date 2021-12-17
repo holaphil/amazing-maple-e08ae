@@ -70,7 +70,7 @@ As a **Principal Product Manager**, I managed the design, development, and opera
 
 <!---->
 
-*   **Led engagements with Verizon product leadership testing new innovative mobile ad formats** which took advantage of Verizon’s unique device and network footprint. One example is Verizon’s ‘[Buy Now Button](https://youtu.be/6PHpFMCARt0)’, a mobile ad format which provides consumers the ability to connect their VZ account and purchase products or services in one tap on their mobile device. These experiments later led to further e-commerce integrations for video.
+*   **Led engagements with Verizon product leadership testing new innovative mobile ad formats** which took advantage of Verizon’s unique device and network footprint. One example is Verizon’s ‘Buy Now Button’ ([view demo here](https://youtu.be/6PHpFMCARt0) on YouTube), a mobile ad format which provides consumers the ability to connect their VZ account and purchase products or services in one tap on their mobile device. These experiments later led to further e-commerce integrations for video.
 
 
     ![](images/mobile-wallet-demo-edit.gif)
