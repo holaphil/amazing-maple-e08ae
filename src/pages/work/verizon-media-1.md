@@ -72,6 +72,8 @@ As a **Principal Product Manager**, I managed the design, development, and opera
 
 *   **Led engagements with Verizon product leadership testing new innovative mobile ad formats** which took advantage of Verizon’s unique device and network footprint. One example is Verizon’s ‘Buy Now Button’, a mobile ad format which provides consumers the ability to connect their VZ account and purchase products or services in one tap on their mobile device. These experiments later led to further e-commerce integrations for video.
 
+    ![](images/mobile-wallet-demo-edit.gif)
+
 <!---->
 
 *   **Built and scaled multiple products helping AOL’s sales team advertise and sell additional video inventory.** Two industry celebrated examples include AOL’s ‘[Player Up](https://martech.org/aol-brandbuilder-ad-format-suite-launch/)’ and ‘Pause Ads. Player Up offered consumer’s the ability to opt-in to learn more at any time while leveraging dynamic creative capabilities providing both brands and publishers persistent brand exposure across the lifetime of a video, regardless of which publisher that video was rendered. AOL’s ‘Pause Ad’, another non-intrusive ad format, provided AOL’s sales team additional inventory to both target and sell.
