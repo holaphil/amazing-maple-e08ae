@@ -76,7 +76,7 @@ As a **Principal Product Manager**, I managed the design, development, and opera
 
 *   **Built and scaled multiple products helping AOL’s sales team advertise and sell additional video inventory.** Two industry celebrated examples include AOL’s ‘[Player Up](https://martech.org/aol-brandbuilder-ad-format-suite-launch/)’ and ‘Pause Ads. ([**view demo here**](https://youtu.be/BsdrMzrHrT4) on YouTube) Player Up offered consumer’s the ability to opt-in to learn more at any time while leveraging dynamic creative capabilities providing both brands and publishers persistent brand exposure across the lifetime of a video, regardless of which publisher that video was rendered. AOL’s ‘Pause Ad’, another non-intrusive ad format, provided AOL’s sales team additional inventory to both target and sell.
 
-> “\*\*Player Up \*\*delivers a suite of video ad experiences in a customer-friendly way, while aligning directly with premium content. Built with clients in mind, and tested with consumers prior to launch, this launch is a testament to AOL's continued commitment to video innovation.“
+> “Player Up delivers a suite of video ad experiences in a customer-friendly way, while aligning directly with premium content. Built with clients in mind, and tested with consumers prior to launch, this launch is a testament to AOL's continued commitment to video innovation.“
 >
 > – Marla Natoli, Director of Video and Mobile @ AOL
 
