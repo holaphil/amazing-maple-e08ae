@@ -1,10 +1,11 @@
 ---
 title: Work
 subtitle: >-
-  Whether advancing the user experience, performance and growth of existing
-  platforms or bringing new ideas into the market, the following includes a list
-  of startups and large organizations I've worked with over my 20+ year career.
-  Click/tap any block to learn more.
+  I've worked with over my 20+ year career Whether advancing the user
+  experience, performance and growth of existing platforms or bringing new ideas
+  into the market, the following includes a list of startups and large
+  organizations I've worked with over my 20+ year career. Click/tap any block to
+  learn more.
 layout_style: tiles
 seo:
   title: Phil Thomas DiGiulio / Work
