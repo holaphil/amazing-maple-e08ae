@@ -1,10 +1,10 @@
 ---
 title: Work
 subtitle: >-
-  Whether advancing the quality of existing products or bringing new
-  products/ideas into the market, the following is a list of startups and large
-  organizations I've worked with over my 20+ year career. Click/tap any of the
-  following company logos to learn more.
+  Whether advancing the user experience, performance and growth of existing
+  platforms or bringing new ideas into the market, the following includes a list
+  of startups and large organizations I've worked with over my 20+ year career.
+  Click/tap any block to learn more.
 layout_style: tiles
 seo:
   title: Phil Thomas DiGiulio / Work
