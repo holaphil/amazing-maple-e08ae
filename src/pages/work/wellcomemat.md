@@ -45,7 +45,7 @@ subtitle: 2005 - 2013
 ---
 Founded in 2006, [**WellcomeMat**](https://www.wellcomemat.com/) is a cloud-based video content management system (vCMS) making video the center of real estate consumer experiences for agents, brokers and brands. As **Co-Founder and Head of Product and Marketing**, I built and lead a team of designers, developers and producers while overseeing the execution of our strategic consumer and enterprise video products. A few responsibilities include design/UX for our patented interactive video technologies and product direction of our enterprise video content management (CMS) and hosting platforms.
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/1ECR7th6pO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/691521615?h=078c9a2dae&autoplay=1&color=000000&title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 View more examples [**here on Behance**](https://www.behance.net/search/projects/?search=WellcomeMat).
 
