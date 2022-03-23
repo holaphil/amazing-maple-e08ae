@@ -47,7 +47,7 @@ Founded in 2006, [**WellcomeMat**](https://www.wellcomemat.com/) is a cloud-base
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/1ECR7th6pO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-View more examples [**here on Brehance**](https://www.wellcomemat.com/).
+View more examples [**here on Behance**](https://www.wellcomemat.com/).
 
 > WellcomeMat is the real estate version of YouTube. You can even find a videographer there.”
 >
