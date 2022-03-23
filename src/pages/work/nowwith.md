@@ -42,6 +42,8 @@ template: project
 ---
 **NOWwith** creates and curates new forms of social commerce for consumers by integrating talent, e-commerce, and video into a seamless unified shoppable experience. As **Chief Product Officer**, I managed all aspects of prioritization, budgeting, and goal setting to ensure strategic alignment across the organization. This work included collaborating with the founding team to define a product strategy and roadmap for NOWwith’s consumer, brand, and talent platforms. The majority of my time and energy focused on the following three areas of our business: Product, Partnerships, and People.
 
+video goes here
+
 **Product**:  Developed best-in-class social commerce tool suite used by consumers to discover & shop for products that are promoted by celebrities; partnered with business, sales, and marketing teams on GTM & growth strategy
 
 **Partnerships**:  Pioneered all product development for interactive video & universal checkout SDK, which provided publishing partners ability to activate at-scale shoppable video experiences on their proprietary properties
