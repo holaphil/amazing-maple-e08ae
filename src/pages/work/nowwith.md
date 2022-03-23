@@ -44,7 +44,7 @@ template: project
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/691521615?h=078c9a2dae&color=000000&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script> 
 
-****  
+
 **Product**:  Developed best-in-class social commerce tool suite used by consumers to discover & shop for products that are promoted by celebrities; partnered with business, sales, and marketing teams on GTM & growth strategy
 
 **Partnerships**:  Pioneered all product development for interactive video & universal checkout SDK, which provided publishing partners ability to activate at-scale shoppable video experiences on their proprietary properties
