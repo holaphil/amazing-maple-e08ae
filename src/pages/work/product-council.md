@@ -44,7 +44,7 @@ template: project
 ---
 I formed the [**Product Council**](https://productcouncil.org/) in 2013 with my then co-host, [**Tami Reiss**](https://www.linkedin.com/in/tamireiss/). After investing many years traveling around the NYC startup community, I found that a majority of the product themed events focused on the business and viability of a startup — none focused on how products are made. The Product Council would become a vessel for spotlighting how startups (and also larger funded businesses) build great products. Motivated by the same interests, Tami and I organized and kicked off our first event back in August of 2013 at HUGE Agency in Brooklyn, NY. Supercharged coming off the success of our first event, we continued with additional events growing the Product Council to become one of the most lauded product themed events in NYC.
 
-Add video here
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/348882319?h=7a3ad82cef&color=8de9ce&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 > Hands down the best place for product owners to get live, in-person feedback from experts in the field.”
 >
